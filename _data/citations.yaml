@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3608115
+  title: How Viable are Energy Savings in Smart Homes? A Call to Embrace Rebound Effects
+    in Sustainable HCI
+  authors:
+  - Christina Bremer
+  - Harshit Gujral
+  - Michelle Lin
+  - Lily Hinkers
+  - Christoph Becker
+  - "Vlad C. Coroam\u0103"
+  publisher: ACM Journal on Computing and Sustainable Societies
+  date: '2023-08-01'
+  link: https://doi.org/gsm4gc
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
 - id: doi:10.21428/bf6fb269.541455de
   title: 'Pathways to urban sustainability: Design perspectives on a data curation
     and visualization platform'
@@ -398,22 +415,6 @@
   publisher: IEEE Software
   date: '2020-01-01'
   link: https://doi.org/gnnhvk
-  type: journal
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3608115
-  title: How Viable are Energy Savings in Smart Homes? A Call to Embrace Rebound Effects
-    in Sustainable HCI
-  authors:
-  - Christina Bremer
-  - Harshit Gujral
-  - Michelle Lin
-  - Lily Hinkers
-  - Christoph Becker
-  - "Vlad C. Coroam\u0103"
-  publisher: ACM Journal on Computing and Sustainable Societies
-  date: '2023-08-01'
-  link: https://doi.org/gsm4gc
   type: journal
   plugin: sources.py
   file: sources.yaml
