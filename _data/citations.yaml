@@ -11,7 +11,7 @@
   - Christoph Becker
   - "Vlad C. Coroam\u0103"
   publisher: ACM Journal on Computing and Sustainable Societies
-  date: '2023-08-01'
+  date: '2023-09-22'
   link: https://doi.org/gsm4gc
   orcid: 0000-0002-8364-0593
   plugin: sources.py
@@ -57,7 +57,8 @@
   - Aakash Gautam
   - Margaret Hughes
   - Alex A. Ahmed
-  publisher: Companion Computer Supported Cooperative Work and Social Computing
+  publisher: Companion Publication of the 2022 Conference on Computer Supported Cooperative
+    Work and Social Computing
   date: '2022-11-08'
   link: https://doi.org/grhqpg
   orcid: 0000-0002-8364-0593
@@ -464,8 +465,7 @@
   - Andrew Feenberg
   - Maria Angela Ferrario
   - Geraldine Fitzpatrick
-  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
-    Germany
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
   date: '2019-01-01'
   link: https://doi.org/gm7984
   type: paper
@@ -539,11 +539,10 @@
   - "Ralf L\xE4mmel"
   - Oscar Nierstrasz
   - Matt Turk
-  - Rob Van Nieuwpoort
+  - Rob van Nieuwpoort
   - Matthew Vaughn
   - Jurgen J. Vinju
-  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
-    Germany
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
   date: '2017-01-01'
   link: https://doi.org/b7xv
   type: paper
@@ -601,7 +600,7 @@
   - Dawn Walker
   - Christoph Becker
   - Kenneth R. Fleischmann
-  publisher: Conference Companion Publication of the 2020 on Computer Supported Cooperative
+  publisher: Companion Publication of the 2020 Conference on Computer Supported Cooperative
     Work and Social Computing
   date: '2020-10-17'
   link: https://doi.org/gkgm7d
