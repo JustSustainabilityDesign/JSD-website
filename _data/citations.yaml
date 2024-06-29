@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3630106.3658955
+  title: 'Machine learning data practices through a data curation lens: An evaluation
+    framework'
+  authors:
+  - Eshta Bhardwaj
+  - Harshit Gujral
+  - Siyi Wu
+  - Ciara Zogheib
+  - Tegan Maharaj
+  - Christoph Becker
+  publisher: The 2024 ACM Conference on Fairness, Accountability, and Transparency
+  date: '2024-06-03'
+  link: https://doi.org/gtxzw8
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3608115
   title: How Viable are Energy Savings in Smart Homes? A Call to Embrace Rebound Effects
     in Sustainable HCI
@@ -11,7 +27,7 @@
   - Christoph Becker
   - "Vlad C. Coroam\u0103"
   publisher: ACM Journal on Computing and Sustainable Societies
-  date: '2023-08-01'
+  date: '2023-09-22'
   link: https://doi.org/gsm4gc
   orcid: 0000-0002-8364-0593
   plugin: sources.py
@@ -57,7 +73,8 @@
   - Aakash Gautam
   - Margaret Hughes
   - Alex A. Ahmed
-  publisher: Companion Computer Supported Cooperative Work and Social Computing
+  publisher: Companion Publication of the 2022 Conference on Computer Supported Cooperative
+    Work and Social Computing
   date: '2022-11-08'
   link: https://doi.org/grhqpg
   orcid: 0000-0002-8364-0593
@@ -130,39 +147,26 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.429547
-  title: Benchmarks for Digital Preservation Tools
-  authors:
-  - Kresimir Duretec
-  - Artur Kulmukhametov
-  - Andreas Rauber
-  - Christoph Becker
-  publisher: Proceedings of the 12th International Conference on Digital Preservation
+  title: PHAIDRA - University of Vienna
+  authors: []
+  publisher: ''
   date: '2015-04-16'
   link: https://phaidra.univie.ac.at/detail/o:429547
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.429553
-  title: A Survey of Organizational Assessment Frameworks in Digital Preservation
-  authors:
-  - Emily Maemura
-  - Nathan Moles
-  - Christoph Becker
-  publisher: Proceedings of the 12th International Conference on Digital Preservation
+  title: PHAIDRA - University of Vienna
+  authors: []
+  publisher: ''
   date: '2015-04-16'
   link: https://phaidra.univie.ac.at/detail/o:429553
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.378051
-  title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
-    ecosystems: Paper - iPres 2013 - Lisbon'
-  authors:
-  - Hannes Kulovits
-  - Michael Kraxner
-  - Markus Plangg
-  - Christoph Becker
-  - Sean Bechhofer
+  title: PHAIDRA - University of Vienna
+  authors: []
   publisher: 10th International Conference on Preservation of Digital Objects (IPRES
     2013)
   date: '2013-01-01'
@@ -171,13 +175,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.378091
-  title: 'The SCAPE Planning and Watch suite: Paper - iPres 2013 - Lisbon'
-  authors:
-  - Michael Kraxner
-  - Markus Plangg
-  - Kresimir Duretec
-  - Christoph Becker
-  - "Lu\xEDs Faria"
+  title: PHAIDRA - University of Vienna
+  authors: []
   publisher: 10th International Conference on Preservation of Digital Objects (IPRES
     2013)
   date: '2013-01-01'
@@ -186,13 +185,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.429621
-  title: Benchmarking Forum
-  authors:
-  - Kresimir Duretec
-  - Artur Kulmukhametov
-  - Andreas Rauber
-  - Christoph Becker
-  publisher: Proceedings of the 12th International Conference on Digital Preservation
+  title: PHAIDRA - University of Vienna
+  authors: []
+  publisher: ''
   date: '2015-06-03'
   link: https://phaidra.univie.ac.at/detail/o:429621
   type: paper
@@ -464,8 +459,7 @@
   - Andrew Feenberg
   - Maria Angela Ferrario
   - Geraldine Fitzpatrick
-  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
-    Germany
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
   date: '2019-01-01'
   link: https://doi.org/gm7984
   type: paper
@@ -539,11 +533,10 @@
   - "Ralf L\xE4mmel"
   - Oscar Nierstrasz
   - Matt Turk
-  - Rob Van Nieuwpoort
+  - Rob van Nieuwpoort
   - Matthew Vaughn
   - Jurgen J. Vinju
-  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
-    Germany
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
   date: '2017-01-01'
   link: https://doi.org/b7xv
   type: paper
@@ -601,7 +594,7 @@
   - Dawn Walker
   - Christoph Becker
   - Kenneth R. Fleischmann
-  publisher: Conference Companion Publication of the 2020 on Computer Supported Cooperative
+  publisher: Companion Publication of the 2020 Conference on Computer Supported Cooperative
     Work and Social Computing
   date: '2020-10-17'
   link: https://doi.org/gkgm7d
