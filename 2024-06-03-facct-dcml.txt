@@ -39,47 +39,39 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>LIMITS 2023 | Just Sustainability Design</title>
+<title>Just Sustainability Design</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="LIMITS 2023">
+<meta name="title" content="">
 <meta name="description" content="Technologies for Just and Sustainable Communities. ">
 
-<meta property="og:title" content="LIMITS 2023">
+<meta property="og:title" content="">
 <meta property="og:site_title" content="Just Sustainability Design">
 <meta property="og:description" content="Technologies for Just and Sustainable Communities. ">
 <meta property="og:url" content="">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="LIMITS 2023">
+<meta property="twitter:title" content="">
 <meta property="twitter:description" content="Technologies for Just and Sustainable Communities. ">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
 
 
-  <meta name="author" content="han-qiao">
-  <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="">
-  <meta property="article:published_time" content="2023-06-14T00:00:00+00:00">
-  <meta property="article:modified_time" content="">
-  <meta name="revised" content="">
+  <meta property="og:type" content="website">
 
 
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     
-      "@type": "BlogPosting",
-      "author": { "@type": "Person", "name": "LIMITS 2023" },
-      "datePublished": "2023-06-14T00:00:00+00:00",
-      "dateModified": "",
+      "@type": "WebSite",
     
-    "name": "LIMITS 2023",
+    "name": "",
     "description": "Technologies for Just and Sustainable Communities. ",
-    "headline": "LIMITS 2023",
+    "headline": "",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -426,6 +418,8 @@
     />
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -675,155 +669,38 @@
     
     
   >
-    <h1 class="center">LIMITS 2023</h1>
+    Studies of dataset development in machine learning call for greater attention to the data practices 
+that make model development possible and shape its outcomes. Many argue that the adoption of theory 
+and practices from archives and data curation fields can support greater fairness, accountability, 
+transparency, and more ethical machine learning.
 
-<div class="post-info">
-  
-    
-    
-      
+In response, we are examining data practices in machine learning dataset development through the 
+lens of data curation. We evaluate data practices in machine learning **as data curation practices**.
 
-<div class="portrait-wrapper">
-  <a
-    
-      href="/members/han-qiao.html"
-    
-    class="portrait"
-    data-style="tiny"
-    aria-label="Han Qiao"
-  >
-    <img
-      src="/images/han.jpg"
-      class="portrait-image"
-      alt="member portrait"
-      loading="lazy"
-      onerror="this.src = '/images/fallback.svg'; this.onerror = null;"
+For our first paper on this topic, "Machine Learning Data Practices through a Data Curation Lens: 
+An Evaluation Framework", we evaluated data practices in machine learning as data curation practices. 
+We developed an evaluation rubric and applied it to a sample of NeurIPS papers to see 
+what we would find. It was accepted at the ACM Conference on Fairness, Accountability, and 
+Transparency (ACM FAccT 2024).
 
-    >
+The 12 minute talk is available on [YouTube](https://youtu.be/C5VwJBE31JY?si=lFynqavsAiL8tPpF). 
+The paper can be read [here](
+https://doi.org/10.1145/3630106.3658955).
 
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Han Qiao
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>PhD Student, Faculty of Information</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-    
-  
-
-  
-  
-
-  
-    <span data-tooltip="Originally published on">
-      <i class="icon fa-regular fa-calendar"></i>
-      <span>June 14, 2023</span>
-    </span>
-  
-
-  
-</div>
-
-
-  
-
-
-  <div
-    class="tags"
-    
-    
-      data-link="/blog"
-    
-  >
-    
-      <a
-        href="/blog?search=&quot;tag: paper&quot;"
-        class="tag"
-        data-tooltip="Show items with the tag &quot;paper&quot;"
-      >
-        paper
-      </a>
-    
-  </div>
-  </section>
-
-  
-  
-  
-
-  <section
-    class="background"
-    data-size="page"
-    
-    
-  >
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-
-Current computing methods addressing climate change employ open data platforms, interactive maps, and predictive modeling to support policy analysis, 
-evaluate effects of policies, and support information access. These data exploration and analysis tools carry beautiful visions, including 
-helping people better understand their cities, making communities’ challenges transparent, and facilitating systematic approaches to decision making 
-for sustainability issues. They are also limited, and the reality they partake in turns out to be more nuanced. The tools that help us to get to know a city 
-through data are never neutral but always an expression of politics and power dynamics. Data-driven decision-making also often produces biased, discriminatory, 
-and unfair results that are difficult to trace and comprehend. 
-
-Our paper attends to five key tensions in this design space by demonstrating how design theories 
-can reorient the design process for computing systems used in both top-down decision-making and bottom-up community effort. 
-More specifically, we investigate how four design approaches (Social Design, Speculative Design, Feminist Data Practices, Design Justice) 
-can be applied to a tool for empowering community efforts and informing decision-making for climate change. We illustrate this through an open-source 
-map-based data platform aiming to support communities with sustainability data exploration and information sharing. We unfold the challenges and opportunities 
-in designing during a climate crisis by translating design theories into concrete actions that prioritize community values. 
-
-The full paper can be found [here](https://doi.org/10.21428/bf6fb269.541455de).
-  </section>
-
-  
-  
-  
-
-  <section
-    class="background"
-    data-size="page"
-    
-    
-  >
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-
-<div class="post-nav">
-  <span>
-    
-  </span>
-  <span>
-    
-      Next post <i class="icon fa-solid fa-angle-right"></i><br>
-      <a href="/2023/06/28/curbcut-launch.txt">
-        Curbcut Toronto Launch
-      </a>
-    
-  </span>
-</div>
+To evaluate data practices in machine learning as data curation practices, 
+we developed a framework for evaluating machine learning datasets using data curation 
+concepts and principles through a rubric. Through a mixed-methods analysis of evaluation results 
+for 25 ML datasets, we study the feasibility of data curation principles to be adopted for machine 
+learning data work in practice and explore how data curation is currently performed. We find that 
+researchers in machine learning, which often emphasizes model development, struggle to apply 
+standard data curation principles. Our findings illustrate difficulties at the intersection of 
+these fields, such as evaluating dimensions that have shared terms in both fields but non-shared 
+meanings, a high degree of interpretative flexibility in adapting concepts without 
+prescriptive restrictions, obstacles in limiting the depth of data curation expertise needed to 
+apply the rubric, and challenges in scoping the extent of documentation dataset creators are 
+responsible for. We propose ways to address these challenges and develop an overall framework 
+for evaluation that outlines how data curation concepts and methods can inform machine learning 
+data practices.
   </section>
 
 

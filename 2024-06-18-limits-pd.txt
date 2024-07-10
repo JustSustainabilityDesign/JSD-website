@@ -418,6 +418,8 @@
     />
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -667,43 +669,7 @@
     
     
   >
-    <h1 class="center"></h1>
-
-<div class="post-info">
-  
-
-  
-  
-
-  
-    <span data-tooltip="Originally published on">
-      <i class="icon fa-regular fa-calendar"></i>
-      <span>July 10, 2024</span>
-    </span>
-  
-
-  
-</div>
-  </section>
-
-  
-  
-  
-
-  <section
-    class="background"
-    data-size="page"
-    
-    
-  >
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-
-Policy decisions relevant to the environment rely on tools like dashboards to provide information and data visualizations that enable decision-makers to make tradeoffs. 
+    Policy decisions relevant to the environment rely on tools like dashboards to provide information and data visualizations that enable decision-makers to make tradeoffs. 
 Because all outcomes from policies relevant to climate change occur at a distance, decision-makers experience so-called 'psychological distance' to environmental decisions in terms of space, time, 
 social identity, and hypotheticality. Since policy decisions to achieve a safe planetary space are urgently needed for immediate transition, we need a design practice that takes into account how 
 psychological distance affects cognition and decision-making. Our paper explores the role of alternative design approaches in developing visualizations used for climate policymaking. Our paper 
@@ -712,38 +678,6 @@ literature from environmental psychology and social and cognitive psychology to 
 affective responses to environmental decisions to help traverse psychological distance. It was accepted at the Tenth 
 Workshop on Computing within Limits (LIMITS 2024). The paper can be found [here](https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf) and the recorded talk 
 is available on [YouTube](https://youtu.be/emIIKWG12YM).
-  </section>
-
-  
-  
-  
-
-  <section
-    class="background"
-    data-size="page"
-    
-    
-  >
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-
-<div class="post-nav">
-  <span>
-    
-      <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/2024/07/10/2024-06-03-facct-dcml.txt">
-        
-      </a>
-    
-  </span>
-  <span>
-    
-  </span>
-</div>
   </section>
 
 

@@ -39,21 +39,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Shauna Douglas | Just Sustainability Design</title>
+<title>Just Sustainability Design</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Shauna Douglas">
+<meta name="title" content="">
 <meta name="description" content="Technologies for Just and Sustainable Communities. Masters Student, Faculty of Information">
 
-<meta property="og:title" content="Shauna Douglas">
+<meta property="og:title" content="">
 <meta property="og:site_title" content="Just Sustainability Design">
 <meta property="og:description" content="Technologies for Just and Sustainable Communities. Masters Student, Faculty of Information">
 <meta property="og:url" content="">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Shauna Douglas">
+<meta property="twitter:title" content="">
 <meta property="twitter:description" content="Technologies for Just and Sustainable Communities. Masters Student, Faculty of Information">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Shauna Douglas",
+    "name": "",
     "description": "Technologies for Just and Sustainable Communities. Masters Student, Faculty of Information",
-    "headline": "Shauna Douglas",
+    "headline": "",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -418,6 +418,14 @@
     />
   
 
+  
+
+  
+
+  
+
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -667,83 +675,7 @@
     
     
   >
-    <div
-  class="float"
-  
-  
->
-  
-<div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Shauna Douglas">
-    <img src="/images/Shauna.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Shauna Douglas
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Masters Student, Faculty of Information</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-<div>
-  
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
-      <i class="icon fa-brands fa-github"></i>
-      
-        <span>GitHub</span>
-      
-    </a>
-  </div>
-
-<br />
-  
-</div>
-
-
-</div>
-
-
-Shauna Douglas is a final year Master of Information student specializing in Information System and Design.
-
-
-
-
-
-
-<p class="center">
-  <a href="/research/?search=%22Shauna%20Douglas%22%20">
-    Search for Shauna Douglas's papers on the Research page
-  </a>
-</p>
-
-
-
-<!--
-<p class="center">
-  <a href="/blog/?search=Shauna%20Douglas">
-    See Shauna Douglas's posts on the Blog page
-  </a>
-</p>
--->
+    Shauna Douglas is a final year Master of Information student specializing in Information System and Design.
   </section>
 
 
