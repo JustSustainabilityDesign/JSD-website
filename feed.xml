@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-07-10T23:44:27+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">LIMITS 2024</title><link href="/2024/06/18/limits-pd.html" rel="alternate" type="text/html" title="LIMITS 2024" /><published>2024-06-18T00:00:00+00:00</published><updated>2024-06-18T00:00:00+00:00</updated><id>/2024/06/18/limits-pd</id><content type="html" xml:base="/2024/06/18/limits-pd.html"><![CDATA[<p>Policy decisions relevant to the environment rely on tools like dashboards to provide information and data visualizations that enable decision-makers to make tradeoffs. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-07-10T23:48:55+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">LIMITS 2024</title><link href="/2024/06/18/limits-pd.html" rel="alternate" type="text/html" title="LIMITS 2024" /><published>2024-06-18T00:00:00+00:00</published><updated>2024-06-18T00:00:00+00:00</updated><id>/2024/06/18/limits-pd</id><content type="html" xml:base="/2024/06/18/limits-pd.html"><![CDATA[<p>Policy decisions relevant to the environment rely on tools like dashboards to provide information and data visualizations that enable decision-makers to make tradeoffs. 
 Because all outcomes from policies relevant to climate change occur at a distance, decision-makers experience so-called ‘psychological distance’ to environmental decisions in terms of space, time, 
 social identity, and hypotheticality. Since policy decisions to achieve a safe planetary space are urgently needed for immediate transition, we need a design practice that takes into account how 
 psychological distance affects cognition and decision-making. Our paper explores the role of alternative design approaches in developing visualizations used for climate policymaking. Our paper 
@@ -6,7 +6,37 @@ lays out how future research on the impacts of alternative design approaches on 
 literature from environmental psychology and social and cognitive psychology to explore how the design of decision tools can leverage approaches like speculative design and data visceralization to invoke 
 affective responses to environmental decisions to help traverse psychological distance. It was accepted at the Tenth 
 Workshop on Computing within Limits (LIMITS 2024). The paper can be found <a href="https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf">here</a> and the recorded talk 
-is available on <a href="https://youtu.be/emIIKWG12YM">YouTube</a>.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="paper" /><summary type="html"><![CDATA[Our paper, Limits at a Distance: Design Directions to Address Psychological Distance in Policy Decisions, has been accepted at the Tenth Computing Within Limits Workshop.]]></summary></entry><entry><title type="html">Research Assistant Job Posting</title><link href="/2023/11/14/dcml-ra-jobpost.html" rel="alternate" type="text/html" title="Research Assistant Job Posting" /><published>2023-11-14T00:00:00+00:00</published><updated>2023-11-14T00:00:00+00:00</updated><id>/2023/11/14/dcml-ra-jobpost</id><content type="html" xml:base="/2023/11/14/dcml-ra-jobpost.html"><![CDATA[<p>For an evaluation of data curation in machine learning, conducted by Eshta Bhardwaj, Christoph Becker, and Tegan Rajkumar-Maharaj, we are seeking up to four RA positions immediately, for the coming months.</p>
+is available on <a href="https://youtu.be/emIIKWG12YM">YouTube</a>.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="paper" /><summary type="html"><![CDATA[Our paper, Limits at a Distance: Design Directions to Address Psychological Distance in Policy Decisions, has been accepted at the Tenth Computing Within Limits Workshop.]]></summary></entry><entry><title type="html">FAccT 2024</title><link href="/2024/06/03/facct-dcml.html" rel="alternate" type="text/html" title="FAccT 2024" /><published>2024-06-03T00:00:00+00:00</published><updated>2024-06-03T00:00:00+00:00</updated><id>/2024/06/03/facct-dcml</id><content type="html" xml:base="/2024/06/03/facct-dcml.html"><![CDATA[<p>Studies of dataset development in machine learning call for greater attention to the data practices 
+that make model development possible and shape its outcomes. Many argue that the adoption of theory 
+and practices from archives and data curation fields can support greater fairness, accountability, 
+transparency, and more ethical machine learning.</p>
+
+<p>In response, we are examining data practices in machine learning dataset development through the 
+lens of data curation. We evaluate data practices in machine learning <strong>as data curation practices</strong>.</p>
+
+<p>For our first paper on this topic, “Machine Learning Data Practices through a Data Curation Lens: 
+An Evaluation Framework”, we evaluated data practices in machine learning as data curation practices. 
+We developed an evaluation rubric and applied it to a sample of NeurIPS papers to see 
+what we would find. It was accepted at the ACM Conference on Fairness, Accountability, and 
+Transparency (ACM FAccT 2024).</p>
+
+<p>The 12 minute talk is available on <a href="https://youtu.be/C5VwJBE31JY?si=lFynqavsAiL8tPpF">YouTube</a>. 
+The paper can be read <a href="https://doi.org/10.1145/3630106.3658955">here</a>.</p>
+
+<p>To evaluate data practices in machine learning as data curation practices, 
+we developed a framework for evaluating machine learning datasets using data curation 
+concepts and principles through a rubric. Through a mixed-methods analysis of evaluation results 
+for 25 ML datasets, we study the feasibility of data curation principles to be adopted for machine 
+learning data work in practice and explore how data curation is currently performed. We find that 
+researchers in machine learning, which often emphasizes model development, struggle to apply 
+standard data curation principles. Our findings illustrate difficulties at the intersection of 
+these fields, such as evaluating dimensions that have shared terms in both fields but non-shared 
+meanings, a high degree of interpretative flexibility in adapting concepts without 
+prescriptive restrictions, obstacles in limiting the depth of data curation expertise needed to 
+apply the rubric, and challenges in scoping the extent of documentation dataset creators are 
+responsible for. We propose ways to address these challenges and develop an overall framework 
+for evaluation that outlines how data curation concepts and methods can inform machine learning 
+data practices.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="paper" /><summary type="html"><![CDATA[Our paper, Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework, has been accepted at the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT 2024).]]></summary></entry><entry><title type="html">Research Assistant Job Posting</title><link href="/2023/11/14/dcml-ra-jobpost.html" rel="alternate" type="text/html" title="Research Assistant Job Posting" /><published>2023-11-14T00:00:00+00:00</published><updated>2023-11-14T00:00:00+00:00</updated><id>/2023/11/14/dcml-ra-jobpost</id><content type="html" xml:base="/2023/11/14/dcml-ra-jobpost.html"><![CDATA[<p>For an evaluation of data curation in machine learning, conducted by Eshta Bhardwaj, Christoph Becker, and Tegan Rajkumar-Maharaj, we are seeking up to four RA positions immediately, for the coming months.</p>
 
 <p><strong>Compensation:</strong> Stipend or casual RA contract ($35/hr)</p>
 
@@ -30,4 +60,19 @@ Successful candidates will be invited to become co-authors of the resulting rese
 </ul>
 
 <p>Interested candidates should contact Prof. Christoph Becker at <a href="mailto:christoph.becker@utoronto.ca">christoph.becker@utoronto.ca</a> with their CV/resume and a statement of interest right away.
-Applicants will be considered on a rolling basis.</p>]]></content><author><name>christoph-becker</name></author><category term="closed" /><summary type="html"><![CDATA[For an evaluation of data curation in machine learning, conducted by Eshta Bhardwaj, Christoph Becker, and Tegan Rajkumar-Maharaj, we are seeking up to four RA positions immediately, for the coming months.]]></summary></entry></feed>
+Applicants will be considered on a rolling basis.</p>]]></content><author><name>christoph-becker</name></author><category term="closed" /><summary type="html"><![CDATA[For an evaluation of data curation in machine learning, conducted by Eshta Bhardwaj, Christoph Becker, and Tegan Rajkumar-Maharaj, we are seeking up to four RA positions immediately, for the coming months.]]></summary></entry><entry><title type="html">Curbcut Toronto Launch</title><link href="/2023/06/28/curbcut-launch.html" rel="alternate" type="text/html" title="Curbcut Toronto Launch" /><published>2023-06-28T00:00:00+00:00</published><updated>2023-06-28T00:00:00+00:00</updated><id>/2023/06/28/curbcut-launch</id><content type="html" xml:base="/2023/06/28/curbcut-launch.html"><![CDATA[<p>An overview, introduction and demo of <a href="https://toronto.curbcut.ca/">Curbcut Toronto</a>, recorded at the DCI launch event in June 2023.
+The recording can be found on <a href="https://youtu.be/hNwKTmo9WHA?si=QfEbFMtZXF1v9xRY">YouTube</a>.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="talk" /><summary type="html"><![CDATA[We are excited to share the first look at Curbcut Toronto through a short workshop showcasing its map-based spatial and analytical features.]]></summary></entry><entry><title type="html">LIMITS 2023</title><link href="/2023/06/14/limits-curbcut.html" rel="alternate" type="text/html" title="LIMITS 2023" /><published>2023-06-14T00:00:00+00:00</published><updated>2023-06-14T00:00:00+00:00</updated><id>/2023/06/14/limits-curbcut</id><content type="html" xml:base="/2023/06/14/limits-curbcut.html"><![CDATA[<p>Current computing methods addressing climate change employ open data platforms, interactive maps, and predictive modeling to support policy analysis, 
+evaluate effects of policies, and support information access. These data exploration and analysis tools carry beautiful visions, including 
+helping people better understand their cities, making communities’ challenges transparent, and facilitating systematic approaches to decision making 
+for sustainability issues. They are also limited, and the reality they partake in turns out to be more nuanced. The tools that help us to get to know a city 
+through data are never neutral but always an expression of politics and power dynamics. Data-driven decision-making also often produces biased, discriminatory, 
+and unfair results that are difficult to trace and comprehend.</p>
+
+<p>Our paper attends to five key tensions in this design space by demonstrating how design theories 
+can reorient the design process for computing systems used in both top-down decision-making and bottom-up community effort. 
+More specifically, we investigate how four design approaches (Social Design, Speculative Design, Feminist Data Practices, Design Justice) 
+can be applied to a tool for empowering community efforts and informing decision-making for climate change. We illustrate this through an open-source 
+map-based data platform aiming to support communities with sustainability data exploration and information sharing. We unfold the challenges and opportunities 
+in designing during a climate crisis by translating design theories into concrete actions that prioritize community values.</p>
+
+<p>The full paper can be found <a href="https://doi.org/10.21428/bf6fb269.541455de">here</a>.</p>]]></content><author><name>han-qiao</name></author><category term="paper" /><summary type="html"><![CDATA[Our paper, Pathways to urban sustainability: Design perspectives on a data curation and visualization platform, has been accepted at the Ninth Computing Within Limits Workshop (LIMITS 2023).]]></summary></entry></feed>
