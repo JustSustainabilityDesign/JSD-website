@@ -619,13 +619,19 @@
         
           <input class="carousel__activator" type="radio" name="carousel0" id="0p">
         
+          <input class="carousel__activator" type="radio" name="carousel0" id="0q">
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0r">
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0s">
+        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0p"></label>
+              <label class="carousel__control carousel__control--backward" for="0s"></label>
               <label class="carousel__control carousel__control--forward" for="0b"></label>
           </div>
         
@@ -761,6 +767,33 @@
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="0o"></label>
+              <label class="carousel__control carousel__control--forward" for="0q"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0p"></label>
+              <label class="carousel__control carousel__control--forward" for="0r"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0q"></label>
+              <label class="carousel__control carousel__control--forward" for="0s"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0r"></label>
               <label class="carousel__control carousel__control--forward" for="0a"></label>
           </div>
         
@@ -814,6 +847,15 @@
             </li>
 <li class="carousel__slide" style="background-image: url('/images/dcml_slider/Slide16.png');">
             
+            </li>
+<li class="carousel__slide" style="background-image: url('/images/dcml_slider/Slide17.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('/images/dcml_slider/Slide18.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('/images/dcml_slider/Slide19.png');">
+            
           </li>
 </ul>
         </div>
@@ -851,12 +893,18 @@
             
               <label class="carousel__indicator" for="0p"></label>
             
+              <label class="carousel__indicator" for="0q"></label>
+            
+              <label class="carousel__indicator" for="0r"></label>
+            
+              <label class="carousel__indicator" for="0s"></label>
+            
         </div>
     </div>
 </div>
 
 <style>
-.carousel__holder {width: 100%; position: relative; padding-bottom: 50%; margin: 1rem 0 1rem;}
+.carousel__holder {width: 100%; position: relative; padding-bottom: 70%; margin: 1rem 0 1rem;}
 .carousel {
   height: 100%;
   width: 100%;
@@ -1238,6 +1286,75 @@
   opacity: 1;
 }
 
+.carousel__activator:nth-of-type(17):checked ~ .carousel__track {
+  -webkit-transform: translateX(-1600%);
+          transform: translateX(-1600%);
+}
+.carousel__activator:nth-of-type(17):checked ~ .carousel__slide:nth-of-type(17) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(17):checked ~ .carousel__controls:nth-of-type(17) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(17):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(17) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(18):checked ~ .carousel__track {
+  -webkit-transform: translateX(-1700%);
+          transform: translateX(-1700%);
+}
+.carousel__activator:nth-of-type(18):checked ~ .carousel__slide:nth-of-type(18) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(18):checked ~ .carousel__controls:nth-of-type(18) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(18):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(18) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(19):checked ~ .carousel__track {
+  -webkit-transform: translateX(-1800%);
+          transform: translateX(-1800%);
+}
+.carousel__activator:nth-of-type(19):checked ~ .carousel__slide:nth-of-type(19) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(19):checked ~ .carousel__controls:nth-of-type(19) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(19):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(19) {
+  opacity: 1;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -1387,6 +1504,21 @@
           transform: translateX(1500%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(17) {
+  -webkit-transform: translateX(1600%);
+          transform: translateX(1600%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(18) {
+  -webkit-transform: translateX(1700%);
+          transform: translateX(1700%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(19) {
+  -webkit-transform: translateX(1800%);
+          transform: translateX(1800%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -1499,6 +1631,24 @@
 
 .carousel__slide:nth-of-type(16),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(16) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(17),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(17) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(18),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(18) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(19),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(19) {
   background-size: cover;
   background-position: center;
 }
