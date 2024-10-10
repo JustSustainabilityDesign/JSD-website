@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-10T18:30:26+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Funded PhD student positions for 2025</title><link href="/2024/10/10/newphdpositions.html" rel="alternate" type="text/html" title="Funded PhD student positions for 2025" /><published>2024-10-10T00:00:00+00:00</published><updated>2024-10-10T00:00:00+00:00</updated><id>/2024/10/10/newphdpositions</id><content type="html" xml:base="/2024/10/10/newphdpositions.html"><![CDATA[<p>📢 The Faculty of Information at UofT offers fully funded PhD student positions to study with me in the areas of HCI, IT for sustainability, 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-10T18:31:50+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Funded PhD student positions for 2025</title><link href="/2024/10/10/newphdpositions.html" rel="alternate" type="text/html" title="Funded PhD student positions for 2025" /><published>2024-10-10T00:00:00+00:00</published><updated>2024-10-10T00:00:00+00:00</updated><id>/2024/10/10/newphdpositions</id><content type="html" xml:base="/2024/10/10/newphdpositions.html"><![CDATA[<p>📢 The Faculty of Information at UofT offers fully funded PhD student positions to study with me in the areas of HCI, IT for sustainability, 
 Civic Tech, CSCW, Computing within Limits, ethical &amp; responsible tech, alternative AI, &amp; related areas. Deadline: Dec. 1 for Fall 2025 start.</p>
 
 <p>Come join the Just Sustainability Design Lab! https://justsustainabilitydesign.org/lab/</p>
@@ -30,7 +30,7 @@ Games and Play Lab, who will present her research on storytelling, cultural heri
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/JSDWorkshopPoster.png" style="
-        width: 100%;
+        width: 60%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
