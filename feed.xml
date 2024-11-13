@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-11-02T03:00:34+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Funded PhD student positions for 2025</title><link href="/2024/10/10/newphdpositions.html" rel="alternate" type="text/html" title="Funded PhD student positions for 2025" /><published>2024-10-10T00:00:00+00:00</published><updated>2024-10-10T00:00:00+00:00</updated><id>/2024/10/10/newphdpositions</id><content type="html" xml:base="/2024/10/10/newphdpositions.html"><![CDATA[<p>The Faculty of Information at UofT offers fully funded PhD student positions to study with me in the areas of HCI, IT for sustainability, 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-11-13T16:05:46+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Workshop: Responsible Data Curation and Reuse in the Age of AI</title><link href="/2024/11/12/jsd-data-workshop.html" rel="alternate" type="text/html" title="Workshop: Responsible Data Curation and Reuse in the Age of AI" /><published>2024-11-12T00:00:00+00:00</published><updated>2024-11-12T00:00:00+00:00</updated><id>/2024/11/12/jsd-data-workshop</id><content type="html" xml:base="/2024/11/12/jsd-data-workshop.html"><![CDATA[<p>The Just Sustainability Design Lab at University of Toronto’s Faculty of Information 
+invites you to join us for an online open workshop session on ‘Responsible Data Curation and Reuse in the Age of AI’ 
+on November 25, 2024 from 1:00pm to 3:00pm.</p>
+
+<p>In this workshop, we will share past and ongoing research projects from the lab and 
+invite others to share their research and perspectives. Please find the speakers’ bios below. We look forward to your participation!</p>
+
+<p>Register here for the workshop: <a href="https://forms.office.com/r/rFEqpaurav">https://forms.office.com/r/rFEqpaurav</a>.</p>
+
+<p><strong>Eshta Bhardwaj:</strong> Eshta Bhardwaj is a PhD student at the Faculty of Information studying 
+data practices in machine learning. Her research interests include examining how dataset development 
+processes within machine learning research can be improved with the adoption of data curation principles and 
+concerns of fairness, accountability, and transparency in data work. In this talk, she will present two phases of an 
+ongoing <a href="https://justsustainabilitydesign.org/datacurationinML/">research project</a> which establishes how data curation 
+principles can be applied to curate ML datasets.</p>
+
+<p><strong>Ciara Zogheib:</strong> Ciara Zogheib is a PhD student at the Faculty of Information at the University of Toronto. 
+Her current research explores the information practices of cross-domain data work. More broadly, her research interests 
+are in data studies, information practice, and interdisciplinarity. In the talk, she discusses that within the context of 
+interdisciplinary and collaborative research, researchers often talk about ‘integrating’ data and information across domains. 
+Pragmatically, though, the activities that comprise cross-domain integration are often overlooked and not documented as ‘methods’ 
+for evaluation and critique. Thus she presents how we might treat cross-domain integration as a data practice, and invites attendees to 
+engage with an in-progress question guide with the goal of documenting the activities associated with this practice.</p>
+
+<p><strong>Syed Ashfaq Hussain:</strong> He is a <a href="https://www.arc.ed.tum.de/ai/team/syed-ashfaq-hussain-shah/">research associate and PhD candidate</a> 
+at the chair of Architectural Informatics at 
+Technical University of Munich (TUM), Germany. His <a href="https://portal.fis.tum.de/en/persons/syed-ashfaq-hussain">research interests</a> 
+include research data management, social, and 
+entrepreneurial aspects of digitisation and modern IT systems. In his talk titled “Sustainable research data management 
+planning”, he presents a systematic approach and topics of research data management from a strategy and policy-making perspective 
+on the example of a large collaborative research center. He also discusses the foundation for dynamic data management plans in 
+collaborative virtual research environment.</p>
+
+<p>Agenda:</p>
+<ol>
+  <li>Introduction</li>
+  <li>Context document activity</li>
+  <li>Research talks (3) and discussion</li>
+  <li>Other research and lightning talks</li>
+</ol>]]></content><author><name>han-qiao</name></author><category term="talk" /><category term="event" /><summary type="html"><![CDATA[Our lab, the Just Sustainability Design Lab is hosting an online open workshop session on Responsible Data Curation and Reuse in the Age of AI on November 25, 2024, from 1:00 PM to 3:00 PM. Please see full post for details.]]></summary></entry><entry><title type="html">Funded PhD student positions for 2025</title><link href="/2024/10/10/newphdpositions.html" rel="alternate" type="text/html" title="Funded PhD student positions for 2025" /><published>2024-10-10T00:00:00+00:00</published><updated>2024-10-10T00:00:00+00:00</updated><id>/2024/10/10/newphdpositions</id><content type="html" xml:base="/2024/10/10/newphdpositions.html"><![CDATA[<p>The Faculty of Information at UofT offers fully funded PhD student positions to study with me in the areas of HCI, IT for sustainability, 
 Civic Tech, CSCW, Computing within Limits, ethical &amp; responsible tech, alternative AI, &amp; related areas. Deadline: Dec. 1 for Fall 2025 start.</p>
 
 <p>Come join the Just Sustainability Design Lab! <a href="https://justsustainabilitydesign.org/lab/">https://justsustainabilitydesign.org/lab/</a></p>
@@ -79,4 +118,4 @@ prescriptive restrictions, obstacles in limiting the depth of data curation expe
 apply the rubric, and challenges in scoping the extent of documentation dataset creators are 
 responsible for. We propose ways to address these challenges and develop an overall framework 
 for evaluation that outlines how data curation concepts and methods can inform machine learning 
-data practices.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="paper" /><category term="talk" /><summary type="html"><![CDATA[Our paper, Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework, has been accepted at the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT 2024). See full post for the links to the paper and recorded talk.]]></summary></entry><entry><title type="html">Insolvent receives PROSE Award Finalist selection for Engineering and Technology.</title><link href="/2024/03/10/prose-award.html" rel="alternate" type="text/html" title="Insolvent receives PROSE Award Finalist selection for Engineering and Technology." /><published>2024-03-10T00:00:00+00:00</published><updated>2024-03-10T00:00:00+00:00</updated><id>/2024/03/10/prose-award</id><content type="html" xml:base="/2024/03/10/prose-award.html"><![CDATA[<p>My book ‘INSOLVENT: How to Reorient Computing for Just Sustainability’ is a finalist in the PROSE Awards in the Engineering and Technology category :raised_hands:! If you missed it, it’s still <a href="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just">open access</a>. You can find more information about the book <a href="https://justsustainabilitydesign.org/insolvent/">here</a>.</p>]]></content><author><name>christoph-becker</name></author><category term="milestone" /><summary type="html"><![CDATA[My book ‘INSOLVENT: How to Reorient Computing for Just Sustainability’ is a finalist in the PROSE Awards in the Engineering and Technology category :raised_hands:! If you missed it, it’s still open access. You can find more information about the book here.]]></summary></entry></feed>
+data practices.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="paper" /><category term="talk" /><summary type="html"><![CDATA[Our paper, Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework, has been accepted at the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT 2024). See full post for the links to the paper and recorded talk.]]></summary></entry></feed>
