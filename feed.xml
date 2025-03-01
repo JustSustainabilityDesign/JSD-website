@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-02-28T16:03:37+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Christoph appointed as SDG fellow!</title><link href="/2025/01/22/cb-sdgfellow.html" rel="alternate" type="text/html" title="Christoph appointed as SDG fellow!" /><published>2025-01-22T00:00:00+00:00</published><updated>2025-01-22T00:00:00+00:00</updated><id>/2025/01/22/cb-sdgfellow</id><content type="html" xml:base="/2025/01/22/cb-sdgfellow.html"><![CDATA[<p>Christoph was recently appointed as one of the new Fellows to the 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-03-01T20:52:48+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Workshop: Computing and AI Through the Lens of Degrowth</title><link href="/2025/03/01/jsd-degrowth-workshop.html" rel="alternate" type="text/html" title="Workshop: Computing and AI Through the Lens of Degrowth" /><published>2025-03-01T00:00:00+00:00</published><updated>2025-03-01T00:00:00+00:00</updated><id>/2025/03/01/jsd-degrowth-workshop</id><content type="html" xml:base="/2025/03/01/jsd-degrowth-workshop.html"><![CDATA[<p>JSD 2024-25 Workshop Series: Workshop 3
+Online, March 21, 2025 
+Pre-session 9:30-10:00am ET
+Workshop 10:00am-12:00pm ET
+Stay and chat till 12:30pm ET</p>
+
+<p>The Just Sustainability Design Lab at University of Toronto’s Faculty of Information 
+invites you to join us for an online workshop session on “Computing and AI Through the Lens of Degrowth” 
+on March 21, 2025 from 10am-12pm ET.</p>
+
+<p>Degrowth is a coherent framework for reorganizing social and economic relations^(1–4) that 
+has significant implications for the role and meaning of technology development^(5,6), including in computing^(7). 
+The field of computing is now beginning to grapple with degrowth and post-growth^(8,9) perspectives (e.g. an upcoming 
+<a href="https://pointed-waterlily-f95.notion.site/Advancing-Post-growth-HCI-15dec6ab184b809b8692ec6a3d578089">CHI workshop</a> 
+and the <a href="https://computingwithinlimits.org/2025/">LIMITS workshops</a>).</p>
+
+<p>In this informal workshop, we bring degrowth perspectives to bear on information technology and computing, 
+including AI. We will briefly share recent research from the JSD lab on <em>Limits to AI Growth</em> <a href="https://arxiv.org/abs/2501.17980v1">(preprint)</a> and 
+preliminary results on modelling the impact of AI <em>on</em> planetary Limits to Growth, then frame the conversation 
+around ‘releasing technology from growth’ and open the discussion. We welcome further brief talks, lightning talks, 
+or discussion prompts around the intersection of degrowth and computing.</p>
+
+<p>The main purpose of this workshop is to foster a conversation about what it means to take a degrowth 
+lens to computing and IT, including AI, and to make new connections between researchers who are 
+interested in these questions.</p>
+
+<p>The workshop itself is not an introduction to the framework of degrowth - we organize the 
+conversation with the idea that everyone is familiar with it. But we can preface the main workshop 
+session with a half-hour “Ask me Anything about Degrowth” session in which Christoph would do his best to 
+respond to any questions you have. Please let us know if you are interested in that.</p>
+
+<p>Agenda:</p>
+<ol>
+  <li>Optional: AMA about degrowth (9:30-10:00am, Christoph)</li>
+  <li>Workshop introduction (10:00-10:20am, Christoph)</li>
+  <li>Research talks (4) and discussion (10:20-11:20am)
+    <ol>
+      <li>Limits to AI Growth (Eshta)</li>
+      <li>Impact of AI on Limits to Growth (Nara)</li>
+      <li>Degrowth: Releasing Tech from Growth (Christoph)</li>
+      <li>Cooperative Approaches for Data Platforms (Nadia and Nils)</li>
+    </ol>
+  </li>
+  <li>Other research, lightning talks, discussion (11:20-11:45am)</li>
+  <li>Wrap up: what’s next (11:45am-12:00pm)</li>
+  <li>Optional: Stay and chat (12:00-12:30pm)</li>
+</ol>
+
+<p>References</p>
+
+<ol>
+  <li>Kallis, G., Paulson, S., D’Alisa, G. &amp; Demaria, F. <em>The Case for Degrowth.</em> (Polity, UK, 2020).</li>
+  <li>Hickel, J. The anti-colonial politics of degrowth. <em>Polit. Geogr.</em> <strong>88</strong>, 102404 (2021).</li>
+  <li>Hickel, J. What does degrowth mean? A few points of clarification. <em>Globalizations</em> <strong>18</strong>, 1105–1111 (2021).</li>
+  <li>Hickel, J. <em>Less Is More: How Degrowth Will Save the World.</em> (Penguin Random House, 2020).</li>
+  <li>Pansera, M. &amp; Fressoli, M. Innovation without growth: Frameworks for understanding technological change in a post-growth era. <em>Organization</em> <strong>28</strong>, 380–404 (2021).</li>
+  <li>Kostakis, V., Niaros, V. &amp; Giotitsas, C. Beyond global versus local: illuminating a cosmolocal framework for convivial technology development. <em>Sustain. Sci.</em> <strong>18</strong>, 2309–2322 (2023).</li>
+  <li>Kwet, M. <em>Digital Degrowth: Technology in the Age of Survival.</em> (Pluto Press, London, 2024).</li>
+  <li>Savini, F. Post-Growth, Degrowth, the Doughnut, and Circular Economy: A Short Guide for Policymakers. <em>J. City Clim. Policy Econ.</em> <strong>2</strong>, 113–123 (2024).</li>
+  <li>Kallis, G. <em>et al.</em> Post-growth: the science of wellbeing within planetary boundaries. <em>Lancet Planet. Health</em> <strong>9</strong>, e62–e78 (2025).</li>
+</ol>]]></content><author><name>eshta-bhardwaj</name></author><category term="talk" /><category term="event" /><summary type="html"><![CDATA[Our lab, the Just Sustainability Design Lab is hosting an online open workshop session on Computing and AI Through the Lens of Degrowth on March 21, 2025, from 10:00 AM to 12:00 PM. Please see full post for details.]]></summary></entry><entry><title type="html">Christoph appointed as SDG fellow!</title><link href="/2025/01/22/cb-sdgfellow.html" rel="alternate" type="text/html" title="Christoph appointed as SDG fellow!" /><published>2025-01-22T00:00:00+00:00</published><updated>2025-01-22T00:00:00+00:00</updated><id>/2025/01/22/cb-sdgfellow</id><content type="html" xml:base="/2025/01/22/cb-sdgfellow.html"><![CDATA[<p>Christoph was recently appointed as one of the new Fellows to the 
 SDGs Scholars Academy. The Fellows contribute to driving SDG-related research. See more <a href="https://t.co/WKIog6TuFR">here</a>.</p>]]></content><author><name></name></author><category term="milestone" /><summary type="html"><![CDATA[Christoph was recently appointed as one of the new Fellows to the SDGs Scholars Academy, see full post for details.]]></summary></entry><entry><title type="html">New Paper: CSCW 2025</title><link href="/2025/01/13/cscw-han-2025.html" rel="alternate" type="text/html" title="New Paper: CSCW 2025" /><published>2025-01-13T00:00:00+00:00</published><updated>2025-01-13T00:00:00+00:00</updated><id>/2025/01/13/cscw-han-2025</id><content type="html" xml:base="/2025/01/13/cscw-han-2025.html"><![CDATA[<p>In the densifying data ecosystem of today’s cities, 
 data intermediaries are crucial stakeholders in facilitating data access and use. 
 Community advocates live in these sites of social injustices and opportunities for change. 
@@ -140,6 +200,4 @@ Games and Play Lab, who will present her research on storytelling, cultural heri
 </figure>]]></content><author><name>han-qiao</name></author><category term="talk" /><category term="event" /><summary type="html"><![CDATA[Our lab, the Just Sustainability Design Lab is hosting an online open workshop session on Sustainable Neighborhoods, Sustainable Cities on October 21, 2024, from 12:30 PM to 2:30 PM. Please see full post for details.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/JSDWorkshopPoster.png" /><media:content medium="image" url="/images/JSDWorkshopPoster.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Insolvent reviewed in Journal of Responsible Technology</title><link href="/2024/10/01/insolvent-review-jrt.html" rel="alternate" type="text/html" title="Insolvent reviewed in Journal of Responsible Technology" /><published>2024-10-01T00:00:00+00:00</published><updated>2024-10-01T00:00:00+00:00</updated><id>/2024/10/01/insolvent-review-jrt</id><content type="html" xml:base="/2024/10/01/insolvent-review-jrt.html"><![CDATA[<p>Christoph’s book “Insolvent” was reviewed at length in the Journal of Responsible Technology by a very capable team of researchers. 
 Their conclusion: “Overall, Insolvent renders great service to the social sciences’ understanding of computing as an important science and technology and articulates a fierce reflexive critique of computer science from within the field”</p>
 
-<p>Read their extended analysis <a href="https://doi.org/10.1016/j.jrt.2024.100092">here</a>!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Insolvent was reviewed in the Journal of Responsible Technology, see full post for details.]]></summary></entry><entry><title type="html">Talk at the AI and the Planet in Crisis Conference</title><link href="/2024/09/25/aiincrisis-talk.html" rel="alternate" type="text/html" title="Talk at the AI and the Planet in Crisis Conference" /><published>2024-09-25T00:00:00+00:00</published><updated>2024-09-25T00:00:00+00:00</updated><id>/2024/09/25/aiincrisis-talk</id><content type="html" xml:base="/2024/09/25/aiincrisis-talk.html"><![CDATA[<p>Christoph recently gave a talk at the <a href="https://philtech.univie.ac.at/ai-and-the-planet-in-crisis-conference/">AI and the Planet in Crisis Conference</a>. 
-His <a href="https://philtech.univie.ac.at/ai-and-the-planet-in-crisis-conference/abstracts/christoph-becker/">talk</a> takes a systemic view to offer directions on how AI development 
-should be organized and evaluated under the changing conditions of a world after expansion.</p>]]></content><author><name></name></author><category term="talk" /><summary type="html"><![CDATA[Christoph gave a talk about how to decouple AI innovation from expansion in a world after growth, see full post for details.]]></summary></entry></feed>
+<p>Read their extended analysis <a href="https://doi.org/10.1016/j.jrt.2024.100092">here</a>!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Insolvent was reviewed in the Journal of Responsible Technology, see full post for details.]]></summary></entry></feed>
