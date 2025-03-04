@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-03-02T02:00:34+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Workshop: Computing and AI Through the Lens of Degrowth</title><link href="/2025/03/01/jsd-degrowth-workshop.html" rel="alternate" type="text/html" title="Workshop: Computing and AI Through the Lens of Degrowth" /><published>2025-03-01T00:00:00+00:00</published><updated>2025-03-01T00:00:00+00:00</updated><id>/2025/03/01/jsd-degrowth-workshop</id><content type="html" xml:base="/2025/03/01/jsd-degrowth-workshop.html"><![CDATA[<p><strong>JSD 2024-25 Workshop Series: Workshop 3</strong><br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-03-04T02:13:08+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Workshop: Computing and AI Through the Lens of Degrowth</title><link href="/2025/03/01/jsd-degrowth-workshop.html" rel="alternate" type="text/html" title="Workshop: Computing and AI Through the Lens of Degrowth" /><published>2025-03-01T00:00:00+00:00</published><updated>2025-03-01T00:00:00+00:00</updated><id>/2025/03/01/jsd-degrowth-workshop</id><content type="html" xml:base="/2025/03/01/jsd-degrowth-workshop.html"><![CDATA[<p><strong>JSD 2024-25 Workshop Series: Workshop 3</strong><br />
 <strong>Online, March 21, 2025</strong><br />
 Pre-session 9:30-10:00am ET<br />
 Workshop 10:00am-12:00pm ET<br />
@@ -37,16 +37,40 @@ respond to any questions you have. Please indicate your interest in attending th
   <li>Workshop introduction (10:00-10:20am, Christoph)</li>
   <li>Research talks (4) and discussion (10:20-11:20am)
     <ul>
-      <li>Limits to AI Growth (Eshta)</li>
-      <li>Impact of AI on Limits to Growth (Nara)</li>
-      <li>Degrowth: Releasing Tech from Growth (Christoph)</li>
-      <li>Cooperative Approaches for Data Platforms (Nadia and Nils)</li>
+      <li>Limits to AI Growth (Eshta Bhardwaj)</li>
+      <li>Impact of AI on Limits to Growth (Nara Guliyeva)</li>
+      <li>Degrowth: Releasing Tech from Growth (Christoph Becker)</li>
+      <li>Cooperative Approaches for Data Platforms (Nadia Mariyan Smith and Nils Bonfils)</li>
     </ul>
   </li>
   <li>Other research, lightning talks, discussion (11:20-11:45am)</li>
   <li>Wrap up: what’s next (11:45am-12:00pm)</li>
   <li><em>Optional:</em> Stay and chat (12:00-12:30pm)</li>
 </ol>
+
+<p><strong>Eshta Bhardwaj:</strong> Eshta Bhardwaj is a PhD student at the Faculty of Information studying 
+data practices in machine learning. Her research interests include examining how
+techniques from data curation can improve data practices to increase accountability, transparency, and make ML model development more sustainable 
+and resource-efficient. In this talk, she presents her 
+recent <a href="https://arxiv.org/abs/2501.17980v1">paper</a> which is a systemic analysis of the AI scaling landscape 
+and its limiting factors (e.g., data availability) using the modelling constructs of system dynamics.</p>
+
+<p><strong>Nara Guliyeva:</strong> Nara Guliyeva is currently a master’s student majoring in 
+Human-Centered Data Science at the iSchool. She holds a Master’s degree from Columbia University and 
+has worked at the United Nations Development Programme, focusing on innovation and sustainability. Her research explores how AI growth influence 
+future-forward projections within the World3 Model, which examines long-term resource constraints, pioneered by the “The Limits to Growth” study. 
+She investigates how AI-driven advancements—reliant on energy-intensive data centers, finite raw materials, and extensive financial investments—create feedback 
+loops that may accelerate resource depletion and pollution. In this talk, she examines the role of AI growth in affecting World3 Model projections and invites 
+discussion on incorporating AI-driven trends into World3 modeling.</p>
+
+<p><strong>Christoph Becker:</strong> Christoph Becker is Full Professor at the Faculty of Information at the University of Toronto, where he leads the Just Sustainability Design lab, 
+a Fellow of the SDG Scholars Academy at the University of Toronto, and a member of the School of the Environment. His transdisciplinary program of research in responsible 
+computing helps enact meaningful and lasting change in computing research and practice to meet the urgent need for sustainability and social justice.</p>
+
+<p><strong>Nadia Mariyan Smith:</strong> Nadia Mariyan Smith is a master’s student specializing in User Experience Design at the Faculty of Information. 
+With a background in community work, they are interested in justice-oriented, more-than-human design approaches that emphasize collective well-being and ecological 
+sustainability. In this talk, they will discuss a project they are working on with Christoph Becker and Nils Bonfils on determining the feasibility of a 
+data platform cooperative for people living with diabetes.</p>
 
 <p>References</p>
 
