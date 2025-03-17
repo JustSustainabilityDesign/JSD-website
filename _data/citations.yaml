@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:https://doi.org/10.1145/3706599.3706731
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://openreview.net/forum?id=MsCSn0rlpP#discussion
+  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
+    Practices in the Datasets and Benchmarks Track'
+  date: '2025-03-14'
+  link: https://openreview.net/forum?id=MsCSn0rlpP#discussion
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://openreview.net/forum?id=MsCSn0rlpP
+  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
+    Practices in the Datasets and Benchmarks Track'
+  date: '2025-03-14'
+  link: https://openreview.net/forum?id=MsCSn0rlpP
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3630106.3658955
   title: 'Machine learning data practices through a data curation lens: An evaluation
     framework'
@@ -19,6 +39,21 @@
   file: sources.yaml
   type: paper
   image: images/DCML_project1.png
+- id: uri:https://sites.google.com/view/post-growthhci/
+  title: Designing Urban Data Dashboards in a Post-growth World
+  publisher: 'Post-growth HCI: Co-envisioning HCI beyond economic growth'
+  date: '2025-03-14'
+  link: https://sites.google.com/view/post-growthhci/
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ':'
+  title: Evaluating strategies for the preservation of console video games
+  publisher: International Conference on Preservation of Digital Objects (iPRES 2008)
+  date: '2025-03-14'
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3608115
   title: How Viable are Energy Savings in Smart Homes? A Call to Embrace Rebound Effects
     in Sustainable HCI
@@ -52,6 +87,82 @@
   image: images/limits 2023.png
   tags:
   - limits 2023
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218570/A-Silicone-Ring-Social-Responsibility-and
+  title: 'A Silicone Ring: Social Responsibility and Collective Action'
+  publisher: 'Insolvent: How to reorient computing for just sustainability'
+  date: '2025-03-14'
+  link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218570/A-Silicone-Ring-Social-Responsibility-and
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218561/Computing-s-Critical-Friends
+  title: "Computing\u2019s Critical Friends"
+  publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
+  date: '2025-03-14'
+  link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218561/Computing-s-Critical-Friends
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:978-0-262-54560-0
+  title: 'Insolvent: How to Reorient Computing for Just Sustainability'
+  authors:
+  - Christoph Becker
+  publisher: The MIT Press
+  date: '2025-03-14'
+  link: https://mitpress.mit.edu/9780262545600/insolvent/
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.infsof.2023.107163
+  title: "It\u2019s about time: How to study intertemporal choice in systems design"
+  authors:
+  - Fabian Fagerholm
+  - "Andres De los R\xEDos"
+  - "Carol C\xE1rdenas Castro"
+  - Jenny Gil
+  - Alexander Chatzigeorgiou
+  - Apostolos Ampatzoglou
+  - Christoph Becker
+  publisher: Information and Software Technology
+  date: '2023-06-01'
+  link: https://doi.org/gsjxws
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/chocolates_judgment.jpg
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218558/Problemism-The-Insolvency-of-Computational
+  title: 'Problemism: The Insolvency of Computational Thinking'
+  publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
+  date: '2025-03-14'
+  link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218558/Problemism-The-Insolvency-of-Computational
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218564/Problems-are-Framings-The-Discordant-Pluralism-of
+  title: 'Problems are Framings: The Discordant Pluralism of Just Sustainability Design'
+  publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
+  date: '2025-03-14'
+  link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218564/Problems-are-Framings-The-Discordant-Pluralism-of
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218569/Searching-for-Just-Sustainable-Design-Decisions
+  title: Searching for Just, Sustainable Design Decisions
+  publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
+  date: '2025-03-14'
+  link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218569/Searching-for-Just-Sustainable-Design-Decisions
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218557/The-Myths-of-Computing
+  title: The Myths of Computing
+  publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
+  date: '2025-03-14'
+  link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218557/The-Myths-of-Computing
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3579462
   title: 'Beyond Transactional Democracy: A Study of Civic Tech in Canada'
   authors:
@@ -84,6 +195,114 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+- id: doi:10.1007/s00799-021-00311-0
+  title: Improving data quality in large-scale repositories through conflict resolution
+  authors:
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: International Journal on Digital Libraries
+  date: '2021-10-21'
+  link: https://doi.org/gm8jkv
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.21428/93b2c832.e0100a3f
+  title: Defund Big Tech, Refund Community
+  authors:
+  - Wolmet Barendregt
+  - Christoph Becker
+  - EunJeong Cheon
+  - Andrew Clement
+  - "Pedro Reynolds-Cu\xE9llar"
+  - Douglas Schuler
+  - Lucy Suchman
+  publisher: Tech Otherwise
+  date: '2021-02-05'
+  link: https://doi.org/gsnvhw
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1145/3406865.3418593
+  title: Collective Organizing and Social Responsibility at CSCW
+  authors:
+  - Devansh Saxena
+  - Erhardt Graeff
+  - Shion Guha
+  - EunJeong Cheon
+  - "Pedro Reynolds-Cu\xE9llar"
+  - Dawn Walker
+  - Christoph Becker
+  - Kenneth R. Fleischmann
+  publisher: Companion Publication of the 2020 Conference on Computer Supported Cooperative
+    Work and Social Computing
+  date: '2020-10-17'
+  link: https://doi.org/gkgm7d
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1145/3384772.3385163
+  title: 'Computing Professionals for Social Responsibility: The Past, Present and
+    Future Values of Participatory Design'
+  authors:
+  - Christoph Becker
+  - Ann Light
+  - Chris Frauenberger
+  - Dawn Walker
+  - Victoria Palacin
+  - Syed Ishtiaque Ahmed
+  - Rachel Charlotte Smith
+  - "Pedro Reynolds Cu\xE9llar"
+  - David Nemer
+  publisher: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s)
+    Otherwise - Volume 2
+  date: '2020-06-15'
+  link: https://doi.org/g88ksm
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3384772.3385141
+  title: The Design of Pseudo-Participation
+  authors:
+  - Victoria Palacin
+  - Matti Nelimarkka
+  - "Pedro Reynolds-Cu\xE9llar"
+  - Christoph Becker
+  publisher: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s)
+    Otherwise - Volume 2
+  date: '2020-06-15'
+  link: https://doi.org/gsnt6v
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: isbn:978-1-4503-7606-8
+  title: The Design of Pseudo-Participation
+  authors:
+  - Chiara Del Gaudio
+  publisher: Proc. PDC vol 2
+  date: '2025-03-14'
+  link: http://doi.org/10.1145/3384772.3385141
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MS.2019.2944784
+  title: Critical Requirements Engineering in Practice
+  authors:
+  - Leticia Duboc
+  - Curtis McCord
+  - Christoph Becker
+  - Syed Ishtiaque Ahmed
+  publisher: IEEE Software
+  date: '2020-01-01'
+  link: https://doi.org/gnnhvk
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
 - id: doi:10.1002/asi.24209
   title: The Design and Use of Assessment Frameworks in Digital Curation
   authors:
@@ -97,6 +316,249 @@
   plugin: sources.py
   file: sources.yaml
   type: journal
+- id: doi:http://dx.doi.org/10.1145/3371906
+  title: Toward model-driven sustainability evaluation
+  authors:
+  - "J\xF6rg Kienzle"
+  - Gunter Mussbacher
+  - Benoit Combemale
+  - Lucy Bastin
+  - Nelly Bencomo
+  - Jean-Michel Bruel
+  - Christoph Becker
+  - Stefanie Betz
+  - Ruzanna Chitchyan
+  - Betty H. C. Cheng
+  - Sonja Klingert
+  - Richard F. Paige
+  - Birgit Penzenstadler
+  - Norbert Seyff
+  - Eugene Syriani
+  - Colin C. Venters
+  publisher: Communications of the ACM
+  date: '2020-02-24'
+  link: https://doi.org/gh46dk
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://ppig.org/papers/2020-ppig-31st-becker/
+  title: Undecided? A Board Game to study Intertemporal choices in software projects
+  publisher: 'Proceedings of PPIG 2020: The Psychology of Programming IG workshop'
+  date: '2025-03-14'
+  link: https://ppig.org/papers/2020-ppig-31st-becker/
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ESEM.2019.8870161
+  title: 'Temporal Discounting in Software Engineering: A Replication Study'
+  authors:
+  - Fabian Fagerholm
+  - Christoph Becker
+  - Alexander Chatzigeorgiou
+  - Stefanie Betz
+  - Leticia Duboc
+  - Birgit Penzenstadler
+  - Rahul Mohanani
+  - Colin C. Venters
+  publisher: 2019 ACM/IEEE International Symposium on Empirical Software Engineering
+    and Measurement (ESEM)
+  date: '2019-09-01'
+  link: https://doi.org/gh78ws
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/TechDebt.2019.00011
+  title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
+    the Future?'
+  authors:
+  - Christoph Becker
+  - Fabian Fagerholm
+  - Rahul Mohanani
+  - Alexander Chatzigeorgiou
+  publisher: 2019 IEEE/ACM International Conference on Technical Debt (TechDebt)
+  date: '2019-05-01'
+  link: https://doi.org/gh78xs
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: uri:http://arxiv.org/abs/1901.07024
+  title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
+    the Future?'
+  publisher: arXiv:1901.07024 [cs]
+  date: '2025-03-14'
+  link: http://arxiv.org/abs/1901.07024
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:http://ceur-ws.org/Vol-2382/
+  title: 'Sidewalk and Toronto: Critical Systems Heuristics and the Smart City'
+  publisher: Proceedings of the 6th International Conference on ICT for Sustainability
+  date: '2025-03-14'
+  link: http://ceur-ws.org/Vol-2382/
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4230/DagRep.9.7.40
+  title: Values in Computing (Dagstuhl Seminar 19291)
+  authors:
+  - Christoph Becker
+  - Gregor Engels
+  - Andrew Feenberg
+  - Maria Angela Ferrario
+  - Geraldine Fitzpatrick
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  date: '2019-01-01'
+  link: https://doi.org/gm7984
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/MS.2018.110154908
+  title: 'Software Engineering for Sustainability: Find the Leverage Points!'
+  authors:
+  - Birgit Penzenstadler
+  - Leticia Duboc
+  - Colin C. Venters
+  - Stefanie Betz
+  - Norbert Seyff
+  - Krzsztof Wnuk
+  - Ruzanna Chitchyan
+  - Steve M. Easterbrook
+  - Christoph Becker
+  publisher: IEEE Software
+  date: '2018-07-01'
+  link: https://doi.org/gd8r6q
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:http://hdl.handle.net/1807/87826
+  title: 'Metaphors We Work By: Reframing Digital Objects, Significant Properties,
+    and the Design of Digital Preservation Systems'
+  authors:
+  - Christoph Becker
+  publisher: ''
+  date: '2018-01-01'
+  link: https://doi.org/http://hdl.handle.net/1807/87826
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jss.2017.12.026
+  title: 'Software sustainability: Research and practice from a software architecture
+    viewpoint'
+  authors:
+  - Colin C. Venters
+  - Rafael Capilla
+  - Stefanie Betz
+  - Birgit Penzenstadler
+  - Tom Crick
+  - Steve Crouch
+  - Elisa Yumi Nakagawa
+  - Christoph Becker
+  - Carlos Carrillo
+  publisher: Journal of Systems and Software
+  date: '2018-04-01'
+  link: https://doi.org/gsm4hn
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/RE.2018.00-23
+  title: Crowd-Focused Semi-Automated Requirements Engineering for Evolution Towards
+    Sustainability
+  authors:
+  - Norbert Seyff
+  - Stefanie Betz
+  - Iris Groher
+  - Melanie Stade
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Birgit Penzenstadler
+  - Colin Venters
+  - Christoph Becker
+  publisher: 2018 IEEE 26th International Requirements Engineering Conference (RE)
+  date: '2018-08-01'
+  link: https://doi.org/gsnt6z
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1145/3183377.3183382
+  title: Everything is INTERRELATED
+  authors:
+  - Birgit Penzenstadler
+  - Stefanie Betz
+  - Colin C. Venters
+  - Ruzanna Chitchyan
+  - Jari Porras
+  - Norbert Seyff
+  - Leticia Duboc
+  - Christoph Becker
+  publisher: 'Proceedings of the 40th International Conference on Software Engineering:
+    Software Engineering Education and Training'
+  date: '2018-05-27'
+  link: https://doi.org/gsnt64
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1002/asi.24048
+  title: 'If these crawls could talk: Studying and documenting web archives provenance'
+  authors:
+  - Emily Maemura
+  - Nicholas Worby
+  - Ian Milligan
+  - Christoph Becker
+  publisher: Journal of the Association for Information Science and Technology
+  date: '2018-05-20'
+  link: https://doi.org/gfc67n
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/RE.2018.00038
+  title: Tailoring Requirements Negotiation to Sustainability
+  authors:
+  - Norbert Seyff
+  - Stefanie Betz
+  - Leticia Duboc
+  - Colin Venters
+  - Christoph Becker
+  - Ruzanna Chitchyan
+  - Birgit Penzenstadler
+  - Markus Nobauer
+  publisher: 2018 IEEE 26th International Requirements Engineering Conference (RE)
+  date: '2018-08-01'
+  link: https://doi.org/gsnt62
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1145/3194164.3194171
+  title: Trade-off decisions across time in technical debt management
+  authors:
+  - Christoph Becker
+  - Ruzanna Chitchyan
+  - Stefanie Betz
+  - Curtis McCord
+  publisher: Proceedings of the 2018 International Conference on Technical Debt
+  date: '2018-05-27'
+  link: https://doi.org/gsnt63
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: uri:https://doi.org/10.1109/ICSE-SEIS.2017.2
+  title: 'Characterising Sustainability Requirements: A New Species, Red Herring,
+    or Just an Odd Fish?'
+  publisher: "ICSE\u201917: 39th International Conference on Software Engineering"
+  date: '2025-03-14'
+  link: https://doi.org/10.1109/ICSE-SEIS.2017.2
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3012004
   title: The Challenge of Test Data Quality in Data Processing
   authors:
@@ -106,6 +568,447 @@
   publisher: Journal of Data and Information Quality
   date: '2017-01-04'
   link: https://doi.org/gsjxwr
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4230/DagMan.6.1.1
+  title: Engineering Academic Software (Dagstuhl Perspectives Workshop 16252)
+  authors:
+  - Alice Allen
+  - Cecilia Aragon
+  - Christoph Becker
+  - Jeffrey Carver
+  - Andrei Chis
+  - Benoit Combemale
+  - Mike Croucher
+  - Kevin Crowston
+  - Daniel Garijo
+  - Ashish Gehani
+  - Carole Goble
+  - Robert Haines
+  - Robert Hirschfeld
+  - James Howison
+  - Kathryn Huff
+  - Caroline Jay
+  - Daniel S. Katz
+  - Claude Kirchner
+  - Katie Kuksenok
+  - "Ralf L\xE4mmel"
+  - Oscar Nierstrasz
+  - Matt Turk
+  - Rob van Nieuwpoort
+  - Matthew Vaughn
+  - Jurgen J. Vinju
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  date: '2017-01-01'
+  link: https://doi.org/b7xv
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:http://hdl.handle.net/1807/75891
+  title: Format Technology Lifecycle Analysis
+  authors:
+  - Kresimir Duretec
+  - Christoph Becker
+  publisher: ''
+  date: '2017-01-01'
+  link: https://doi.org/http://hdl.handle.net/1807/75891
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CHASE.2017.6
+  title: 'Intertemporal Choice: Decision Making and Time in Software Engineering'
+  authors:
+  - Christoph Becker
+  - Dawn Walker
+  - Curtis McCord
+  publisher: 2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects
+    of Software Engineering (CHASE)
+  date: '2017-05-01'
+  link: https://doi.org/cgbh
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: uri:https://tspace.library.utoronto.ca/handle/1807/73869
+  title: 'Organizational Assessment Frameworks for Digital Preservation: A literature
+    review and mapping'
+  date: '2025-03-14'
+  link: https://tspace.library.utoronto.ca/handle/1807/73869
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://tspace.library.utoronto.ca/handle/1807/73999
+  title: The Challenge of Test Data Quality in Data Processing
+  publisher: ACM Journal of Data and Information Quality (JDIQ)
+  date: '2025-03-14'
+  link: https://tspace.library.utoronto.ca/handle/1807/73999
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BigData.2016.7840982
+  title: Understanding computational web archives research methods using research
+    objects
+  authors:
+  - Emily Maemura
+  - Christoph Becker
+  - Ian Milligan
+  publisher: 2016 IEEE International Conference on Big Data (Big Data)
+  date: '2016-12-01'
+  link: https://doi.org/gsnt9p
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1145/2843584
+  title: Bridging communities
+  authors:
+  - Birgit Penzenstadler
+  - Ankita Raturi
+  - Christoph Becker
+  - Juliet Norton
+  - Bill Tomlinson
+  - Six Silberman
+  - Debra Richardson
+  publisher: Interactions
+  date: '2015-12-28'
+  link: https://doi.org/g88ksn
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MS.2015.158
+  title: 'Requirements: The Key to Sustainability'
+  authors:
+  - Christoph Becker
+  - Stefanie Betz
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Steve M. Easterbrook
+  - Birgit Penzenstadler
+  - Norbet Seyff
+  - Colin C. Venters
+  publisher: IEEE Software
+  date: '2016-01-01'
+  link: https://doi.org/gm797z
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1045/january2016-becker
+  title: The Benchmarking Forum at IPRES 2015
+  authors:
+  - Christoph Becker
+  - "Kre\u0161imir \xD0uretec"
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  publisher: D-Lib Magazine
+  date: '2016-01-01'
+  link: https://doi.org/g88ksp
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2889160.2889217
+  title: Sustainability design in requirements engineering
+  authors:
+  - Ruzanna Chitchyan
+  - Christoph Becker
+  - Stefanie Betz
+  - Leticia Duboc
+  - Birgit Penzenstadler
+  - Norbert Seyff
+  - Colin C. Venters
+  publisher: Proceedings of the 38th International Conference on Software Engineering
+    Companion
+  date: '2016-05-14'
+  link: https://doi.org/gsnt7p
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.2991/ict4s-16.2016.20
+  title: 'Sustainability Design: Lessons from Designing A Green Map'
+  authors:
+  - Dawn Walker
+  - Christoph Becker
+  publisher: Proceedings of ICT for Sustainability 2016
+  date: '2016-01-01'
+  link: https://doi.org/gsnt7n
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: uri:http://ceur-ws.org/Vol-1416/
+  title: 'Sustainability Debt: A Metaphor to Support Sustainability Design Decisions'
+  publisher: Proceedings of the Fourth International Workshop on Requirements Engineering
+    for Sustainable Systems co-located with the 23rd IEEE International Requirements
+    Engineering Conference (RE 2015)
+  date: '2025-03-14'
+  link: http://ceur-ws.org/Vol-1416/
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://openlab.ncl.ac.uk/uk-shci/
+  title: 'Mind the Gap: Bridging the Sustainable Software Systems Research Divide'
+  date: '2025-03-14'
+  link: https://openlab.ncl.ac.uk/uk-shci/
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icse.2015.179
+  title: 'Sustainability Design and Software: The Karlskrona Manifesto'
+  authors:
+  - Christoph Becker
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Steve Easterbrook
+  - Birgit Penzenstadler
+  - Norbert Seyff
+  - Colin C. Venters
+  publisher: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering
+  date: '2015-05-01'
+  link: https://doi.org/gmvkpr
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1108/OCLC-06-2014-0026
+  title: 'Scalable decision support for digital preservation: an assessment'
+  authors:
+  - Christoph Becker
+  - Luis Faria
+  - Kresimir Duretec
+  publisher: 'OCLC Systems &amp; Services: International digital library perspectives'
+  date: '2015-02-09'
+  link: https://doi.org/gsm4jf
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: uri:http://dl.acm.org/citation.cfm?id=2819009.2819082
+  title: 'Sustainability Design and Software: The Karlskrona Manifesto'
+  publisher: Proceedings of the 37th International Conference on Software Engineering
+    - Volume 2
+  date: '2025-03-14'
+  link: http://dl.acm.org/citation.cfm?id=2819009.2819082
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JCDL.2014.6970207
+  title: The SCAPE preservation lifecycle
+  authors:
+  - Kresimir Duretec
+  - Artur Kulmukhametov
+  - Michael Kraxner
+  - Markus Plangg
+  - Christoph Becker
+  - Luis Faria
+  publisher: IEEE/ACM Joint Conference on Digital Libraries
+  date: '2014-09-01'
+  link: https://doi.org/gsnt8k
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1109/EDOCW.2014.44
+  title: A Traceable Maturity Assessment Method Based on Enterprise Architecture Modelling
+  authors:
+  - Ricardo Vieira
+  - Elsa Cardoso
+  - Christoph Becker
+  publisher: 2014 IEEE 18th International Enterprise Distributed Object Computing
+    Conference Workshops and Demonstrations
+  date: '2014-09-01'
+  link: https://doi.org/gsnt9s
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: uri:http://www.ingentaconnect.com/content/ist/ac/2014/00002014/00000001/art00016
+  title: Automated quality assurance for migration of born-digital images
+  publisher: Archiving Conference
+  date: '2025-03-14'
+  link: http://www.ingentaconnect.com/content/ist/ac/2014/00002014/00000001/art00016
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:http://dialnet.unirioja.es/servlet/articulo?codigo=4651225
+  title: Report on the capability assessment and improvement workshop (CAIW) at iPres
+    2013
+  publisher: D-Lib Magazine
+  date: '2025-03-14'
+  link: http://dialnet.unirioja.es/servlet/articulo?codigo=4651225
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1108/OCLC-06-2014-0025
+  title: Scalable decision support for digital preservation
+  authors:
+  - Christoph Becker
+  - Luis Faria
+  - Kresimir Duretec
+  publisher: 'OCLC Systems &amp; Services: International digital library perspectives'
+  date: '2014-11-10'
+  link: https://doi.org/gsm4jm
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: uri:http://ceur-ws.org/Vol-1216/
+  title: 'Sustainability and Longevity: Two Sides of the Same Quality?'
+  publisher: Proceedings of the Third International Workshop on Requirements Engineering
+    for Sustainable Systems co-located with 22nd International Conference on Requirements
+    Engineering (RE 2014)
+  date: '2025-03-14'
+  link: http://ceur-ws.org/Vol-1216/
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:http://arxiv.org/abs/1410.6968
+  title: The Karlskrona manifesto for sustainability design
+  publisher: arXiv preprint arXiv:1410.6968
+  date: '2025-03-14'
+  link: http://arxiv.org/abs/1410.6968
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2467696.2467719
+  title: Free benchmark corpora for preservation experiments
+  authors:
+  - Christoph Becker
+  - Kresimir Duretec
+  publisher: Proceedings of the 13th ACM/IEEE-CS joint conference on Digital libraries
+  date: '2013-07-22'
+  link: https://doi.org/gsnt8m
+  orcid: 0000-0002-8364-0593
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: uri:http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6479978
+  title: Improving decision support for software component selection through systematic
+    cross-referencing and analysis of multiple decision criteria
+  publisher: System Sciences (HICSS), 2013 46th Hawaii International Conference on
+  date: '2025-03-14'
+  link: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6479978
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:http://www.academia.edu/download/33148094/iPres2013-Proceedings.pdf#page=75
+  title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
+    ecosystems'
+  publisher: Proc. IPRES
+  date: '2025-03-14'
+  link: http://www.academia.edu/download/33148094/iPres2013-Proceedings.pdf#page=75
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:http://www.scape-project.eu/wp-content/uploads/2013/11/UNESCO_MOW2012_Kulovits_RolesResponsibilities.pdf
+  title: Roles and Responsibilities in Digital Preservation Decision Making
+  publisher: 'The Memory of the World in the Digital Age: Digitization and Preservation'
+  date: '2025-03-14'
+  link: http://www.scape-project.eu/wp-content/uploads/2013/11/UNESCO_MOW2012_Kulovits_RolesResponsibilities.pdf
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-24826-9_9
+  title: 'Automated Preservation: The Case of Digital Raw Photographs'
+  authors:
+  - Stephan Bauer
+  - Christoph Becker
+  publisher: Lecture Notes in Computer Science
+  date: '2011-01-01'
+  link: https://doi.org/bp674n
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/asi.21527
+  title: 'Decision criteria in digital preservation: What to measure and how'
+  authors:
+  - Christoph Becker
+  - Andreas Rauber
+  publisher: Journal of the American Society for Information Science and Technology
+  date: '2011-04-08'
+  link: https://doi.org/fngvrg
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:978-1-4503-0744-4
+  title: 'Preservation Decisions: Terms and Conditions Apply'
+  authors: []
+  publisher: Proc. 11th Annual Int ACM/IEEE Joint Conf. Digital Libraries
+  date: '2025-03-14'
+  link: http://doi.acm.org/10.1145/1998076.1998089
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1998076.1998089
+  title: Preservation decisions
+  authors:
+  - Christoph Becker
+  - Andreas Rauber
+  publisher: Proceedings of the 11th annual international ACM/IEEE joint conference
+    on Digital libraries
+  date: '2011-06-13'
+  link: https://doi.org/bwqc54
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:0950-5849
+  title: Improving component selection and monitoring with controlled experimentation
+    and automated measurements
+  authors: []
+  publisher: Information and Software Technology
+  date: '2025-03-14'
+  link: http://www.sciencedirect.com/science/article/pii/S0950584910000145
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2218/ijdc.v5i1.144
+  title: 'Keeping the Game Alive: Evaluating Strategies for the Preservation of Console
+    Video Games'
+  authors:
+  - Mark Guttenbrunner
+  - Christoph Becker
+  - Andreas Rauber
+  publisher: International Journal of Digital Curation
+  date: '2010-06-22'
+  link: https://doi.org/fzpsw7
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:14325012
+  title: 'Systematic planning for digital preservation: evaluating potential strategies
+    and building preservation plans'
+  authors: []
+  publisher: International Journal on Digital Libraries
+  date: '2025-03-14'
+  link: http://resolver.scholarsportal.info/resolve/14325012/v10i0004/133_spfdpepsabpp.xml
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1363686.1363786
+  title: A generic XML language for characterising objects to support digital preservation
+  authors:
+  - Christoph Becker
+  - Andreas Rauber
+  - Volker Heydegger
+  - Jan Schnasse
+  - Manfred Thaller
+  publisher: Proceedings of the 2008 ACM symposium on Applied computing
+  date: '2008-03-16'
+  link: https://doi.org/cn6rs5
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1378889.1378954
+  title: Plato
+  authors:
+  - Christoph Becker
+  - Hannes Kulovits
+  - Andreas Rauber
+  - Hans Hofman
+  publisher: Proceedings of the 8th ACM/IEEE-CS joint conference on Digital libraries
+  date: '2008-06-16'
+  link: https://doi.org/c6hms4
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -433,23 +1336,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.infsof.2023.107163
-  title: "It\u2019s about time: How to study intertemporal choice in systems design"
-  authors:
-  - Fabian Fagerholm
-  - "Andres De los R\xEDos"
-  - "Carol C\xE1rdenas Castro"
-  - Jenny Gil
-  - Alexander Chatzigeorgiou
-  - Apostolos Ampatzoglou
-  - Christoph Becker
-  publisher: Information and Software Technology
-  date: '2023-06-01'
-  link: https://doi.org/gsjxws
-  type: paper
-  image: images/chocolates_judgment.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.envsoft.2023.105879
   title: Is the climate getting WARMer? A framework and tool for climate data comparison
   authors:
@@ -470,31 +1356,6 @@
   publisher: Ecological Informatics
   date: '2022-11-12'
   link: https://doi.org/gsj667
-  type: journal
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s00799-021-00311-0
-  title: Improving data quality in large-scale repositories through conflict resolution
-  authors:
-  - Artur Kulmukhametov
-  - Andreas Rauber
-  - Christoph Becker
-  publisher: International Journal on Digital Libraries
-  date: '2021-10-21'
-  link: https://doi.org/gm8jkv
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/MS.2019.2944784
-  title: Critical Requirements Engineering in Practice
-  authors:
-  - Leticia Duboc
-  - Curtis McCord
-  - Christoph Becker
-  - Syed Ishtiaque Ahmed
-  publisher: IEEE Software
-  date: '2020-01-01'
-  link: https://doi.org/gnnhvk
   type: journal
   plugin: sources.py
   file: sources.yaml
@@ -523,52 +1384,6 @@
   type: journal
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.4230/DagRep.9.7.40
-  title: Values in Computing (Dagstuhl Seminar 19291)
-  authors:
-  - Christoph Becker
-  - Gregor Engels
-  - Andrew Feenberg
-  - Maria Angela Ferrario
-  - Geraldine Fitzpatrick
-  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
-  date: '2019-01-01'
-  link: https://doi.org/gm7984
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/asi.24048
-  title: 'If these crawls could talk: Studying and documenting web archives provenance'
-  authors:
-  - Emily Maemura
-  - Nicholas Worby
-  - Ian Milligan
-  - Christoph Becker
-  publisher: Journal of the Association for Information Science and Technology
-  date: '2018-05-20'
-  link: https://doi.org/gfc67n
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jss.2017.12.026
-  title: 'Software sustainability: Research and practice from a software architecture
-    viewpoint'
-  authors:
-  - Colin C. Venters
-  - Rafael Capilla
-  - Stefanie Betz
-  - Birgit Penzenstadler
-  - Tom Crick
-  - Steve Crouch
-  - Elisa Yumi Nakagawa
-  - Christoph Becker
-  - Carlos Carrillo
-  publisher: Journal of Systems and Software
-  date: '2018-04-01'
-  link: https://doi.org/gsm4hn
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1002/asi.23881
   title: Format technology lifecycle analysis
   authors:
@@ -577,145 +1392,6 @@
   publisher: Journal of the Association for Information Science and Technology
   date: '2017-06-14'
   link: https://doi.org/gbxsrh
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.4230/DagMan.6.1.1
-  title: Engineering Academic Software (Dagstuhl Perspectives Workshop 16252)
-  authors:
-  - Alice Allen
-  - Cecilia Aragon
-  - Christoph Becker
-  - Jeffrey Carver
-  - Andrei Chis
-  - Benoit Combemale
-  - Mike Croucher
-  - Kevin Crowston
-  - Daniel Garijo
-  - Ashish Gehani
-  - Carole Goble
-  - Robert Haines
-  - Robert Hirschfeld
-  - James Howison
-  - Kathryn Huff
-  - Caroline Jay
-  - Daniel S. Katz
-  - Claude Kirchner
-  - Katie Kuksenok
-  - "Ralf L\xE4mmel"
-  - Oscar Nierstrasz
-  - Matt Turk
-  - Rob van Nieuwpoort
-  - Matthew Vaughn
-  - Jurgen J. Vinju
-  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
-  date: '2017-01-01'
-  link: https://doi.org/b7xv
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/MS.2015.158
-  title: 'Requirements: The Key to Sustainability'
-  authors:
-  - Christoph Becker
-  - Stefanie Betz
-  - Ruzanna Chitchyan
-  - Leticia Duboc
-  - Steve M. Easterbrook
-  - Birgit Penzenstadler
-  - Norbet Seyff
-  - Colin C. Venters
-  publisher: IEEE Software
-  date: '2016-01-01'
-  link: https://doi.org/gm797z
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1108/OCLC-06-2014-0026
-  title: 'Scalable decision support for digital preservation: an assessment'
-  authors:
-  - Christoph Becker
-  - Luis Faria
-  - Kresimir Duretec
-  publisher: 'OCLC Systems &amp; Services: International digital library perspectives'
-  date: '2015-02-09'
-  link: https://doi.org/gsm4jf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1108/OCLC-06-2014-0025
-  title: Scalable decision support for digital preservation
-  authors:
-  - Christoph Becker
-  - Luis Faria
-  - Kresimir Duretec
-  publisher: 'OCLC Systems &amp; Services: International digital library perspectives'
-  date: '2014-11-10'
-  link: https://doi.org/gsm4jm
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3406865.3418593
-  title: Collective Organizing and Social Responsibility at CSCW
-  authors:
-  - Devansh Saxena
-  - Erhardt Graeff
-  - Shion Guha
-  - EunJeong Cheon
-  - "Pedro Reynolds-Cu\xE9llar"
-  - Dawn Walker
-  - Christoph Becker
-  - Kenneth R. Fleischmann
-  publisher: Companion Publication of the 2020 Conference on Computer Supported Cooperative
-    Work and Social Computing
-  date: '2020-10-17'
-  link: https://doi.org/gkgm7d
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3384772.3385141
-  title: The Design of Pseudo-Participation
-  authors:
-  - Victoria Palacin
-  - Matti Nelimarkka
-  - "Pedro Reynolds-Cu\xE9llar"
-  - Christoph Becker
-  publisher: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s)
-    Otherwise - Volume 2
-  date: '2020-06-15'
-  link: https://doi.org/gsnt6v
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/ESEM.2019.8870161
-  title: 'Temporal Discounting in Software Engineering: A Replication Study'
-  authors:
-  - Fabian Fagerholm
-  - Christoph Becker
-  - Alexander Chatzigeorgiou
-  - Stefanie Betz
-  - Leticia Duboc
-  - Birgit Penzenstadler
-  - Rahul Mohanani
-  - Colin C. Venters
-  publisher: 2019 ACM/IEEE International Symposium on Empirical Software Engineering
-    and Measurement (ESEM)
-  date: '2019-09-01'
-  link: https://doi.org/gh78ws
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/TechDebt.2019.00011
-  title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
-    the Future?'
-  authors:
-  - Christoph Becker
-  - Fabian Fagerholm
-  - Rahul Mohanani
-  - Alexander Chatzigeorgiou
-  publisher: 2019 IEEE/ACM International Conference on Technical Debt (TechDebt)
-  date: '2019-05-01'
-  link: https://doi.org/gh78xs
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -730,24 +1406,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/MS.2018.110154908
-  title: 'Software Engineering for Sustainability: Find the Leverage Points!'
-  authors:
-  - Birgit Penzenstadler
-  - Leticia Duboc
-  - Colin C. Venters
-  - Stefanie Betz
-  - Norbert Seyff
-  - Krzsztof Wnuk
-  - Ruzanna Chitchyan
-  - Steve M. Easterbrook
-  - Christoph Becker
-  publisher: IEEE Software
-  date: '2018-07-01'
-  link: https://doi.org/gd8r6q
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1002/asi.23807
   title: 'Organizational assessment frameworks for digital preservation: A literature
     review and mapping'
@@ -758,73 +1416,6 @@
   publisher: Journal of the Association for Information Science and Technology
   date: '2017-04-28'
   link: https://doi.org/gbkz2n
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/RE.2018.00-23
-  title: Crowd-Focused Semi-Automated Requirements Engineering for Evolution Towards
-    Sustainability
-  authors:
-  - Norbert Seyff
-  - Stefanie Betz
-  - Iris Groher
-  - Melanie Stade
-  - Ruzanna Chitchyan
-  - Leticia Duboc
-  - Birgit Penzenstadler
-  - Colin Venters
-  - Christoph Becker
-  publisher: 2018 IEEE 26th International Requirements Engineering Conference (RE)
-  date: '2018-08-01'
-  link: https://doi.org/gsnt6z
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/RE.2018.00038
-  title: Tailoring Requirements Negotiation to Sustainability
-  authors:
-  - Norbert Seyff
-  - Stefanie Betz
-  - Leticia Duboc
-  - Colin Venters
-  - Christoph Becker
-  - Ruzanna Chitchyan
-  - Birgit Penzenstadler
-  - Markus Nobauer
-  publisher: 2018 IEEE 26th International Requirements Engineering Conference (RE)
-  date: '2018-08-01'
-  link: https://doi.org/gsnt62
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3194164.3194171
-  title: Trade-off decisions across time in technical debt management
-  authors:
-  - Christoph Becker
-  - Ruzanna Chitchyan
-  - Stefanie Betz
-  - Curtis McCord
-  publisher: Proceedings of the 2018 International Conference on Technical Debt
-  date: '2018-05-27'
-  link: https://doi.org/gsnt63
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3183377.3183382
-  title: Everything is INTERRELATED
-  authors:
-  - Birgit Penzenstadler
-  - Stefanie Betz
-  - Colin C. Venters
-  - Ruzanna Chitchyan
-  - Jari Porras
-  - Norbert Seyff
-  - Leticia Duboc
-  - Christoph Becker
-  publisher: 'Proceedings of the 40th International Conference on Software Engineering:
-    Software Engineering Education and Training'
-  date: '2018-05-27'
-  link: https://doi.org/gsnt64
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -859,34 +1450,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.2991/ict4s-16.2016.20
-  title: 'Sustainability Design: Lessons from Designing A Green Map'
-  authors:
-  - Dawn Walker
-  - Christoph Becker
-  publisher: Proceedings of ICT for Sustainability 2016
-  date: '2016-01-01'
-  link: https://doi.org/gsnt7n
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/2889160.2889217
-  title: Sustainability design in requirements engineering
-  authors:
-  - Ruzanna Chitchyan
-  - Christoph Becker
-  - Stefanie Betz
-  - Leticia Duboc
-  - Birgit Penzenstadler
-  - Norbert Seyff
-  - Colin C. Venters
-  publisher: Proceedings of the 38th International Conference on Software Engineering
-    Companion
-  date: '2016-05-14'
-  link: https://doi.org/gsnt7p
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/ICSE.2015.179
   title: 'Sustainability Design and Software: The Karlskrona Manifesto'
   authors:
@@ -914,32 +1477,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/JCDL.2014.6970207
-  title: The SCAPE preservation lifecycle
-  authors:
-  - Kresimir Duretec
-  - Artur Kulmukhametov
-  - Michael Kraxner
-  - Markus Plangg
-  - Christoph Becker
-  - Luis Faria
-  publisher: IEEE/ACM Joint Conference on Digital Libraries
-  date: '2014-09-01'
-  link: https://doi.org/gsnt8k
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/2467696.2467719
-  title: Free benchmark corpora for preservation experiments
-  authors:
-  - Christoph Becker
-  - Kresimir Duretec
-  publisher: Proceedings of the 13th ACM/IEEE-CS joint conference on Digital libraries
-  date: '2013-07-22'
-  link: https://doi.org/gsnt8m
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/2480362.2480637
   title: Evaluating a process for developing a capability maturity model
   authors:
@@ -953,61 +1490,6 @@
   publisher: Proceedings of the 28th Annual ACM Symposium on Applied Computing
   date: '2013-03-18'
   link: https://doi.org/gsnt8n
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/CHASE.2017.6
-  title: 'Intertemporal Choice: Decision Making and Time in Software Engineering'
-  authors:
-  - Christoph Becker
-  - Dawn Walker
-  - Curtis McCord
-  publisher: 2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects
-    of Software Engineering (CHASE)
-  date: '2017-05-01'
-  link: https://doi.org/cgbh
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/BigData.2016.7840982
-  title: Understanding computational web archives research methods using research
-    objects
-  authors:
-  - Emily Maemura
-  - Christoph Becker
-  - Ian Milligan
-  publisher: 2016 IEEE International Conference on Big Data (Big Data)
-  date: '2016-12-01'
-  link: https://doi.org/gsnt9p
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/EDOCW.2014.44
-  title: A Traceable Maturity Assessment Method Based on Enterprise Architecture Modelling
-  authors:
-  - Ricardo Vieira
-  - Elsa Cardoso
-  - Christoph Becker
-  publisher: 2014 IEEE 18th International Enterprise Distributed Object Computing
-    Conference Workshops and Demonstrations
-  date: '2014-09-01'
-  link: https://doi.org/gsnt9s
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.21428/93b2c832.e0100a3f
-  title: Defund Big Tech, Refund Community
-  authors:
-  - Wolmet Barendregt
-  - Christoph Becker
-  - EunJeong Cheon
-  - Andrew Clement
-  - "Pedro Reynolds-Cu\xE9llar"
-  - Douglas Schuler
-  - Lucy Suchman
-  publisher: Tech Otherwise
-  date: '2021-02-05'
-  link: https://doi.org/gsnvhw
   type: paper
   plugin: sources.py
   file: sources.yaml
