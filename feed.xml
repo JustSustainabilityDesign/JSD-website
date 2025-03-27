@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-03-24T12:19:29+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Workshop: Computing and AI Through the Lens of Degrowth</title><link href="/2025/03/01/jsd-degrowth-workshop.html" rel="alternate" type="text/html" title="Workshop: Computing and AI Through the Lens of Degrowth" /><published>2025-03-01T00:00:00+00:00</published><updated>2025-03-01T00:00:00+00:00</updated><id>/2025/03/01/jsd-degrowth-workshop</id><content type="html" xml:base="/2025/03/01/jsd-degrowth-workshop.html"><![CDATA[<p><strong>JSD 2024-25 Workshop Series: Workshop 3</strong><br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-03-27T18:13:02+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html"></title><link href="/2025/03/27/2025-03-27-dcml_project_recruitment.html" rel="alternate" type="text/html" title="" /><published>2025-03-27T18:13:02+00:00</published><updated>2025-03-27T18:12:16+00:00</updated><id>/2025/03/27/2025-03-27-dcml_project_recruitment</id><content type="html" xml:base="/2025/03/27/2025-03-27-dcml_project_recruitment.html"><![CDATA[<p>Are you interested in your data curation practices?</p>
+
+<p><strong>Summary:</strong> We are looking to collaborate with a research group that wants to review and 
+refine their data practices for improved documentation and reflexivity of their ML data workflow and better ML model outcomes. 
+Depending on what you are interested in, this collaboration could take different shapes: jointly evaluating datasets, organizing workshops, 
+action research, or other activities. We provide more information and outline some options below.</p>
+
+<p><strong>Context:</strong> ML research has established that bias in models often causes 
+discriminatory or unethical judgements towards specific populations. These biases are widely 
+attributed to the choices made about datasets used for training ML models. Datasets are often reused across tasks 
+which are outside the original context they were created for and appropriate data use is also hindered by the hidden, 
+tacit, and undervalued nature of data work. The adoption of principles from archival studies and digital curation into 
+dataset development processes for machine learning research has been found as one way to address these concerns. <strong>Data curation</strong> is a 
+mature field with origins in librarianship and archives whose scholarship and thinking on data issues go back many centuries. It has 
+found new relevance today as the field of machine learning is recognizing the importance of data curation to the advancement of both 
+applications and fundamental understanding of machine learning models. In practice, it has been difficult to adopt these concepts 
+because they do not easily apply.</p>
+
+<p><strong>Background:</strong> This project will build on our previous work in applying data curation principles in ML dataset development. We 
+have previously established how data curation principles can be applied to curate datasets in ML in practice. We translated 
+data curation principles and concepts for the ML dataset development context and developed an evaluation framework (composed of a 
+toolkit and rubric) for dataset documentation in ML. We presented first findings and a sample set of evaluations of ML datasets in a 
+FAccT2024 paper (see <a href="https://youtu.be/C5VwJBE31JY?si=lFynqavsAiL8tPpF">talk</a> and <a href="https://doi.org/10.1145/3630106.3658955">paper</a>). We then examined how well data curation is currently performed in ML through a larger evaluation 
+of NeurIPS datasets (accepted in the NeurIPS D&amp;B track in 2024, see <a href="https://youtu.be/uLsfFjbERAI">talk</a> and <a href="https://arxiv.org/abs/2410.22473">paper</a>). Our 
+findings lead to suggestions on where data curation in ML can be improved.</p>
+
+<p><strong>Research Opportunities:</strong> We are currently looking to collaborate with research groups who want to 
+improve their data pipeline and practices and would be open to exploring how our framework can be adopted 
+into their workflows. <strong>Our goal is to help improve data practices by applying data curation concepts; this collaborative study can have several formats and designs, we list a few versions below but are open to others based on the group’s needs and interests.</strong></p>
+
+<p><u>Description:</u> We are looking to pilot our data curation for ML framework and integrate it into ML pipelines. This study aims 
+to understand a research group’s curation needs and collaboratively reflect on and enhance their data curation practices using 
+our data curation framework. We anticipate that the collaborative process will result in a progressive learning cycle and this 
+may lead to the framework evolving to better suit the needs of the research group.</p>
+
+<p><u>Requirements:</u></p>
+<ul>
+  <li>You are interested in improving their data practices. This is broadly 
+construed - it includes data collection, data management, data processing and cleaning, data storage and overall data design decisions.</li>
+  <li>You intend for the data to be used in a ML model. However, the approach does not have to be decided (and the curation process can also help guide this decision).</li>
+  <li>Your work can be at <strong>any stage of the data pipeline</strong> - whether it be data collection or data management. For example, if the group is looking to start data collection or is ready to use the dataset within a model, we can make recommendations on how curation principles can be applied to better document and steward the data.</li>
+  <li>The dataset(s) can be of <strong>any modality</strong> and regarding <strong>any domain</strong>.</li>
+  <li>The dataset(s) can be <strong>new or already existing</strong>. For example, if the 
+research group often uses existing datasets, we can evaluate datasets using the framework to inform their selection of which datasets to reuse.</li>
+</ul>
+
+<p><u>Expected Activities and Outcomes:</u> 
+The findings from this study would result in <strong>1) improved joint understanding of the benefits resulting from data curation, 2) tailored insights for the team’s curation processes, and 3) deepened cross-disciplinary scholarship</strong>. The project 
+would thus provide insights on practical approaches in performing and adopting data curation practices that result in improved datasets and consequently models.</p>
+
+<p>Potential activities with the expected outcomes are listed below, this is not a comprehensive list and the activities will depend on the collaborative needs of the project. 
+1) Workshop to introduce data curation concepts
+2) Collaborative examination of current curation practices and proposal for improvements for data workflows
+3) Sample evaluations of dataset documentation for new datasets created by the research team
+4) Sample evaluations of dataset documentation for existing datasets used by the research team (or in consideration to be used)
+5) Examination of dataset(s) to glean usage to be applied for various ML efforts</p>
+
+<p>If you are interested, please contact Prof. Christoph Becker at <a href="mailto:christoph.becker@utoronto.ca">christoph.becker@utoronto.ca</a>.</p>]]></content><author><name></name></author></entry><entry><title type="html">Workshop: Computing and AI Through the Lens of Degrowth</title><link href="/2025/03/01/jsd-degrowth-workshop.html" rel="alternate" type="text/html" title="Workshop: Computing and AI Through the Lens of Degrowth" /><published>2025-03-01T00:00:00+00:00</published><updated>2025-03-01T00:00:00+00:00</updated><id>/2025/03/01/jsd-degrowth-workshop</id><content type="html" xml:base="/2025/03/01/jsd-degrowth-workshop.html"><![CDATA[<p><strong>JSD 2024-25 Workshop Series: Workshop 3</strong><br />
 <strong>Online, March 21, 2025</strong><br />
 Pre-session 9:30-10:00am ET<br />
 Workshop 10:00am-12:00pm ET<br />
@@ -228,7 +285,4 @@ Games and Play Lab, who will present her research on storytelling, cultural heri
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>han-qiao</name></author><category term="talk" /><category term="event" /><summary type="html"><![CDATA[Our lab, the Just Sustainability Design Lab is hosting an online open workshop session on Sustainable Neighborhoods, Sustainable Cities on October 21, 2024, from 12:30 PM to 2:30 PM. Please see full post for details.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/JSDWorkshopPoster.png" /><media:content medium="image" url="/images/JSDWorkshopPoster.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Insolvent reviewed in Journal of Responsible Technology</title><link href="/2024/10/01/insolvent-review-jrt.html" rel="alternate" type="text/html" title="Insolvent reviewed in Journal of Responsible Technology" /><published>2024-10-01T00:00:00+00:00</published><updated>2024-10-01T00:00:00+00:00</updated><id>/2024/10/01/insolvent-review-jrt</id><content type="html" xml:base="/2024/10/01/insolvent-review-jrt.html"><![CDATA[<p>Christoph’s book “Insolvent” was reviewed at length in the Journal of Responsible Technology by a very capable team of researchers. 
-Their conclusion: “Overall, Insolvent renders great service to the social sciences’ understanding of computing as an important science and technology and articulates a fierce reflexive critique of computer science from within the field”</p>
-
-<p>Read their extended analysis <a href="https://doi.org/10.1016/j.jrt.2024.100092">here</a>!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Insolvent was reviewed in the Journal of Responsible Technology, see full post for details.]]></summary></entry></feed>
+</figure>]]></content><author><name>han-qiao</name></author><category term="talk" /><category term="event" /><summary type="html"><![CDATA[Our lab, the Just Sustainability Design Lab is hosting an online open workshop session on Sustainable Neighborhoods, Sustainable Cities on October 21, 2024, from 12:30 PM to 2:30 PM. Please see full post for details.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/JSDWorkshopPoster.png" /><media:content medium="image" url="/images/JSDWorkshopPoster.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
