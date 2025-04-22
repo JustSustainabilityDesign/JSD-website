@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-03-31T18:34:15+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">Research Collaboration Opportunity: Data Curation in Machine Learning</title><link href="/2025/03/27/dcml_project_recruitment.html" rel="alternate" type="text/html" title="Research Collaboration Opportunity: Data Curation in Machine Learning" /><published>2025-03-27T00:00:00+00:00</published><updated>2025-03-27T00:00:00+00:00</updated><id>/2025/03/27/dcml_project_recruitment</id><content type="html" xml:base="/2025/03/27/dcml_project_recruitment.html"><![CDATA[<p>Are you interested in your data curation practices?</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-22T22:43:16+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">JSD Lab at CHI 2025</title><link href="/2025/04/22/CHI2025.html" rel="alternate" type="text/html" title="JSD Lab at CHI 2025" /><published>2025-04-22T00:00:00+00:00</published><updated>2025-04-22T00:00:00+00:00</updated><id>/2025/04/22/CHI2025</id><content type="html" xml:base="/2025/04/22/CHI2025.html"><![CDATA[<p><strong>The JSD lab at CHI 2025</strong>\</p>
+
+<p>JSD lab memebers will be participating at <a href="https://chi2025.acm.org/">CHI 2025</a>, taking place in Yokohama, Japan from April 26 to May 1. The conference brings together researchers, practitioners and industry leaders to showcase some of the latest research in human-computer interaction. Christoph Becker will be co-organizing a workshop on <a href="https://pointed-waterlily-f95.notion.site/Advancing-Post-growth-HCI-15dec6ab184b809b8692ec6a3d578089">Advancing Post-growth HCI</a>. Han Qiao will be presenting her paper written during her internship at Autodesk Research, titled “To Use or Not to Use: Impatience and Overreliance When Using Generative AI Productivity Support Tools.”</p>]]></content><author><name>han-qiao</name></author><category term="milestone" /><summary type="html"><![CDATA[Members of the JSD lab will be organizing a workshop and presenting at the ACM CHI conference on Human Factors in Computing Systems.]]></summary></entry><entry><title type="html">Research Collaboration Opportunity: Data Curation in Machine Learning</title><link href="/2025/03/27/dcml_project_recruitment.html" rel="alternate" type="text/html" title="Research Collaboration Opportunity: Data Curation in Machine Learning" /><published>2025-03-27T00:00:00+00:00</published><updated>2025-03-27T00:00:00+00:00</updated><id>/2025/03/27/dcml_project_recruitment</id><content type="html" xml:base="/2025/03/27/dcml_project_recruitment.html"><![CDATA[<p>Are you interested in your data curation practices?</p>
 
 <p><strong>Summary:</strong> We are looking to collaborate with a ML group (industry or academia) who wants to review and 
 refine their data practices for improved documentation and reflexivity of their ML data workflow and better ML model outcomes. 
@@ -263,28 +265,4 @@ Civic Tech, CSCW, Computing within Limits, ethical &amp; responsible tech, alter
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>christoph-becker</name></author><summary type="html"><![CDATA[The Faculty of Information at UofT offers fully funded PhD student positions to study with me - Come join the Just Sustainability Design Lab! See full post for details.]]></summary></entry><entry><title type="html">Workshop: Sustainable Neighbourhoods, Sustainable Cities</title><link href="/2024/10/09/jsd-sustainability-workshop.html" rel="alternate" type="text/html" title="Workshop: Sustainable Neighbourhoods, Sustainable Cities" /><published>2024-10-09T00:00:00+00:00</published><updated>2024-10-09T00:00:00+00:00</updated><id>/2024/10/09/jsd-sustainability-workshop</id><content type="html" xml:base="/2024/10/09/jsd-sustainability-workshop.html"><![CDATA[<p>The Just Sustainability Design Lab at the University of Toronto’s Faculty of Information 
-invites you to join us for an online open workshop session on Sustainable Neighborhoods, Sustainable Cities on October 21, 2024, from 12:30 PM to 2:30 PM.</p>
-
-<p>In this workshop, we will showcase past and ongoing research projects from the lab, 
-including designing urban sustainability data exploration tools, addressing psychological distance through design, 
-and examining the data practices of urban sustainability advocacy groups in Toronto.</p>
-
-<p>We are also excited to welcome Yifan Kong, a PhD candidate from the University of Sydney’s 
-Games and Play Lab, who will present her research on storytelling, cultural heritage, and human-computer interaction.</p>
-
-<p>We encourage participants to share their own ongoing research through 5-minute lightning talks, followed by a collaborative feedback session.</p>
-
-<p>Register here: <a href="https://forms.office.com/r/cRh93N4hZd">https://forms.office.com/r/cRh93N4hZd</a></p>
-
-<p>We look forward to your participation!</p>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/JSDWorkshopPoster.png" style="
-        width: 60%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>]]></content><author><name>han-qiao</name></author><category term="talk" /><category term="event" /><summary type="html"><![CDATA[Our lab, the Just Sustainability Design Lab is hosting an online open workshop session on Sustainable Neighborhoods, Sustainable Cities on October 21, 2024, from 12:30 PM to 2:30 PM. Please see full post for details.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/JSDWorkshopPoster.png" /><media:content medium="image" url="/images/JSDWorkshopPoster.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</figure>]]></content><author><name>christoph-becker</name></author><summary type="html"><![CDATA[The Faculty of Information at UofT offers fully funded PhD student positions to study with me - Come join the Just Sustainability Design Lab! See full post for details.]]></summary></entry></feed>
