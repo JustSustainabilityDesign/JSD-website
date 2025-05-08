@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:https://doi.org/10.1145/3706599.3706731
+  title: Advancing Post-growth HCI
+  authors:
+  - Vishal Sharma
+  - Hongjin Lin
+  - Asra Sakeen Wani
+  - Jared Lee Katzman
+  - Anupriya Tuli
+  - Naveena Karusala
+  - Shaowen Bardzell
+  - Christoph Becker
+  - Martin Tomitsch
+  - Neha Kumar
+  publisher: Proceedings of the Extended Abstracts of the CHI Conference on Human
+    Factors in Computing Systems
+  date: '2025-04-26'
+  link: https://doi.org/g9gs94
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
