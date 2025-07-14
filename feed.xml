@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-07-14T18:01:40+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">FAccT CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI</title><link href="/2025/06/05/craft-workshop-2025.html" rel="alternate" type="text/html" title="FAccT CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI" /><published>2025-06-05T00:00:00+00:00</published><updated>2025-06-05T00:00:00+00:00</updated><id>/2025/06/05/craft-workshop-2025</id><content type="html" xml:base="/2025/06/05/craft-workshop-2025.html"><![CDATA[<p><strong>FAccT’25 CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI</strong><br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-07-14T18:05:42+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">FAccT CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI</title><link href="/2025/06/05/craft-workshop-2025.html" rel="alternate" type="text/html" title="FAccT CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI" /><published>2025-06-05T00:00:00+00:00</published><updated>2025-06-05T00:00:00+00:00</updated><id>/2025/06/05/craft-workshop-2025</id><content type="html" xml:base="/2025/06/05/craft-workshop-2025.html"><![CDATA[<p><strong>FAccT’25 CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI</strong><br />
 <strong>June 23 from 1030am-1230pm ET, Virtual</strong></p>
 
 <p><strong>Session Description:</strong>
@@ -56,9 +56,19 @@ resistance against the negative impacts of data center infrastructure, fostering
 <p><strong>Guest Speaker:</strong></p>
 
 <div class="portrait-wrapper">
-  <a href="" class="portrait" data-style="tiny" aria-label="member link">
-    <img src="" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  <a href="/members/hanna-barakat.html" class="portrait" data-style="tiny" aria-label="Hanna Barakat">
+    <img src="/images/hanna_barakat.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
+    
+      <span class="portrait-text">
+        
+          <span class="portrait-name">
+            Hanna Barakat
+          </span>
+        
+
+        
+      </span>
     
   </a>
 </div>
@@ -186,9 +196,25 @@ resistance against the negative impacts of data center infrastructure, fostering
 </div>
 
 <div class="portrait-wrapper">
-  <a href="" class="portrait" data-style="tiny" aria-label="member link">
-    <img src="" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  <a href="/members/victoria-landau.html" class="portrait" data-style="tiny" aria-label="Victoria G. D. Landau">
+    <img src="/images/Victoria.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
+    
+      <span class="portrait-text">
+        
+          <span class="portrait-name">
+            Victoria G. D. Landau
+          </span>
+        
+
+        
+          <span class="portrait-role">
+            
+            <i class="icon fa-solid fa-magnifying-glass"></i>
+            <span>Visiting PhD Student, Faculty of Information</span>
+          </span>
+        
+      </span>
     
   </a>
 </div>
