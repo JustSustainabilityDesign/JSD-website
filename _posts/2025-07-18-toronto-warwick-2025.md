@@ -12,4 +12,4 @@ Warwick PI: [Dr Siddharth De Souza](https://warwick.ac.uk/fac/cross_fac/cim/peop
 
 U of T PI: [Professor Christoph Becker](https://discover.research.utoronto.ca/21004-christoph-becker)
 
-Funded by the [University of Toronto and University of Warwick Joint Seed Fund](https://warwick.ac.uk/global/theamericas/torontowarwickjointseedfund/)
+Funded 2025-2026 by the [University of Toronto and University of Warwick Joint Seed Fund](https://warwick.ac.uk/global/theamericas/torontowarwickjointseedfund/)
