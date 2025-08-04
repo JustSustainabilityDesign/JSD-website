@@ -1,6 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1145/3715335.3737682
+  title: 'Humour as Resistance: Creative Approaches to Data Center Accountability'
+  authors:
+  - Eshta Bhardwaj
+  - Han Qiao
+  - Rowan O.A. Munson
+  - Christoph Becker
+  publisher: Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable
+    Societies
+  date: '2025-07-21'
+  link: https://doi.org/g9v25v
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -1349,7 +1359,7 @@
   - A. Caetano
   publisher: International Conference on Digital Preservation (IPRES)
   date: '2020-01-01'
-  link: http://ww38.benchmark-dp.org/caiwipres/
+  link: http://benchmark-dp.org/caiwipres/
   type: paper
   plugin: sources.py
   file: sources.yaml
