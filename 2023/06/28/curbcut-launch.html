@@ -40,6 +40,10 @@
 
 
 
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Curbcut Toronto Launch | Just Sustainability Design</title>
@@ -52,13 +56,13 @@
 <meta property="og:title" content="Curbcut Toronto Launch">
 <meta property="og:site_title" content="Just Sustainability Design">
 <meta property="og:description" content="Technologies for Just and Sustainable Communities. ">
-<meta property="og:url" content="">
+<meta property="og:url" content="https://justsustainabilitydesign.org">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Curbcut Toronto Launch">
 <meta property="twitter:description" content="Technologies for Just and Sustainable Communities. ">
-<meta property="twitter:url" content="">
+<meta property="twitter:url" content="https://justsustainabilitydesign.org">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
 
@@ -87,11 +91,11 @@
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
     },
-    "url": ""
+    "url": "https://justsustainabilitydesign.org"
   }
 </script>
 
-<link rel="alternate" type="application/rss+xml" href="/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="https://justsustainabilitydesign.org/feed.xml">
 
   <!-- Google Fonts -->
 <!-- automatically get url from fonts used in theme file -->
@@ -101,9 +105,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -167,6 +171,10 @@
 
   
     <link href="/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/details.css" rel="stylesheet">
   
 
   
@@ -322,8 +330,9 @@
 
   <script src="/_scripts/site-search.js"></script>
 
-  <script src="/_scripts/tooltip.js"></script>
+  <script src="/_scripts/table-wrap.js"></script>
 
+  <script src="/_scripts/tooltip.js"></script>
 
 
 
@@ -404,12 +413,12 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Just Sustainability Design</span>
+          <span class="title">Just Sustainability Design</span>
         
         
-          <span>Technologies for Just and Sustainable Communities</span>
+          <span class="subtitle">Technologies for Just and Sustainable Communities</span>
         
       </span>
     
@@ -433,8 +442,26 @@
       
     
       
+        <a href="/research/" data-tooltip="Published works">
+          Research
+        </a>
+      
+    
+      
+        <a href="/projects/" data-tooltip="Software, datasets, and more">
+          Projects
+        </a>
+      
+    
+      
         <a href="/publications/" data-tooltip="Published works">
           Publications
+        </a>
+      
+    
+      
+        <a href="/team/" data-tooltip="About our team">
+          Team
         </a>
       
     
@@ -447,6 +474,12 @@
       
         <a href="/introduction/" data-tooltip="To learn more about JSD">
           Introduction to JSD
+        </a>
+      
+    
+      
+        <a href="/blog/" data-tooltip="Musings and miscellany">
+          Blog
         </a>
       
     
@@ -476,7 +509,6 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
 
@@ -485,45 +517,55 @@
 
 
 
-
-
   
   
   
 
-  <section class="background" data-size="page">
-    <h1 class="center">Curbcut Toronto Launch</h1>
+  <section class="background" data-size="1">
+    <!--
+  <background></background>
+  <dark></dark>
+  <size>1</size>
+-->
+
+
+<h1 class="center">Curbcut Toronto Launch</h1>
 
 <div class="post-info">
   
     
     
       
+      
+        
+
+
 
 <div class="portrait-wrapper">
   <a href="/members/eshta-bhardwaj.html" class="portrait" data-style="tiny" aria-label="Eshta Bhardwaj">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/Eshta.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Eshta Bhardwaj
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD Student, Faculty of Information</span>
-          </span>
-        
+      <span class="portrait-name">
+        Eshta Bhardwaj
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD Candidate, Faculty of Information
+      </span>
+    
+
     
   </a>
 </div>
 
+      
     
   
 
@@ -544,7 +586,7 @@
   
 
 
-  <div class="tags" data-link="/blog">
+  <div class="tags">
     
       <a href="/blog?search=%22tag:%20talk%22" class="tag" data-tooltip='Show items with the tag "talk"'>
         talk
@@ -559,9 +601,9 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 
@@ -575,9 +617,9 @@ The recording can be found on <a href="https://youtu.be/hNwKTmo9WHA?si=QfEbFMtZX
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 
