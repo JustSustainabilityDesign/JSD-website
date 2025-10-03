@@ -64,6 +64,12 @@ sass:
 include:
   - _styles
   - _scripts
+  
+feed:
+  icon: fa-solid fa-square-rss
+  categories: 
+    - news
+  
 
 # force jekyll to exclude certain files/folders
 exclude:

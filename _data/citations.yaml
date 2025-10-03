@@ -50,14 +50,16 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
+- id: uri:https://openreview.net/forum?id=MsCSn0rlpP#discussion
+  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
     Practices in the Datasets and Benchmarks Track'
   date: '2025-03-14'
   link: https://openreview.net/forum?id=MsCSn0rlpP#discussion
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
+- id: uri:https://openreview.net/forum?id=MsCSn0rlpP
+  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
     Practices in the Datasets and Benchmarks Track'
   date: '2025-03-14'
   link: https://openreview.net/forum?id=MsCSn0rlpP
@@ -83,16 +85,17 @@
   file: sources.yaml
   type: paper
   image: images/DCML_project1.png
-- title: Designing Urban Data Dashboards in a Post-growth World
+- id: uri:https://sites.google.com/view/post-growthhci/
+  title: Designing Urban Data Dashboards in a Post-growth World
   publisher: 'Post-growth HCI: Co-envisioning HCI beyond economic growth'
   date: '2025-03-14'
   link: https://sites.google.com/view/post-growthhci/
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Limits at a Distance: Design Directions to Address Psychological Distance
-    in Policy Decisions Affecting Planetary Boundaries'
-  publisher: 'LIMITS: ACM Workshop on Computing within Limits'
+- id: ':'
+  title: Evaluating strategies for the preservation of console video games
+  publisher: International Conference on Preservation of Digital Objects (iPRES 2008)
   date: '2025-03-14'
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
@@ -130,14 +133,16 @@
   image: images/limits 2023.png
   tags:
   - limits 2023
-- title: 'A Silicone Ring: Social Responsibility and Collective Action'
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218570/A-Silicone-Ring-Social-Responsibility-and
+  title: 'A Silicone Ring: Social Responsibility and Collective Action'
   publisher: 'Insolvent: How to reorient computing for just sustainability'
   date: '2025-03-14'
   link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218570/A-Silicone-Ring-Social-Responsibility-and
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: "Computing\u2019s Critical Friends"
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218561/Computing-s-Critical-Friends
+  title: "Computing\u2019s Critical Friends"
   publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
   date: '2025-03-14'
   link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218561/Computing-s-Critical-Friends
@@ -145,12 +150,12 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: isbn:978-0-262-54560-0
-  title: 'Insolvent: how to reorient computing for just sustainability'
+  title: 'Insolvent: How to Reorient Computing for Just Sustainability'
   authors:
   - Christoph Becker
   publisher: The MIT Press
-  date: '2023-01-01'
-  link: ''
+  date: '2025-03-14'
+  link: https://mitpress.mit.edu/9780262545600/insolvent/
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -172,28 +177,32 @@
   file: sources.yaml
   type: paper
   image: images/chocolates_judgment.jpg
-- title: 'Problemism: The Insolvency of Computational Thinking'
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218558/Problemism-The-Insolvency-of-Computational
+  title: 'Problemism: The Insolvency of Computational Thinking'
   publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
   date: '2025-03-14'
   link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218558/Problemism-The-Insolvency-of-Computational
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Problems are Framings: The Discordant Pluralism of Just Sustainability Design'
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218564/Problems-are-Framings-The-Discordant-Pluralism-of
+  title: 'Problems are Framings: The Discordant Pluralism of Just Sustainability Design'
   publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
   date: '2025-03-14'
   link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218564/Problems-are-Framings-The-Discordant-Pluralism-of
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: Searching for Just, Sustainable Design Decisions
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218569/Searching-for-Just-Sustainable-Design-Decisions
+  title: Searching for Just, Sustainable Design Decisions
   publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
   date: '2025-03-14'
   link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218569/Searching-for-Just-Sustainable-Design-Decisions
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: The Myths of Computing
+- id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218557/The-Myths-of-Computing
+  title: The Myths of Computing
   publisher: 'Insolvent: How to Reorient Computing for Just Sustainability'
   date: '2025-03-14'
   link: https://direct.mit.edu/books/oa-monograph/5594/chapter/4218557/The-Myths-of-Computing
@@ -245,12 +254,6 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: 'Critical Computing: Practicing Collective Agency in the Tech World'
-  publisher: 'Good Relations: Practices and Methods in Unequal and Uncertain Worlds'
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.21428/93b2c832.e0100a3f
   title: Defund Big Tech, Refund Community
   authors:
@@ -323,12 +326,11 @@
   file: sources.yaml
   type: paper
 - id: isbn:978-1-4503-7606-8
-  title: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s)
-    Otherwise - Volume 2
+  title: The Design of Pseudo-Participation
   authors: []
-  publisher: Association for Computing Machinery
-  date: '2020-01-01'
-  link: ''
+  publisher: Proc. PDC vol 2
+  date: '2025-03-14'
+  link: http://doi.org/10.1145/3384772.3385141
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -384,16 +386,11 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: Undecided? A Board Game to study Intertemporal choices in software projects
+- id: uri:https://ppig.org/papers/2020-ppig-31st-becker/
+  title: Undecided? A Board Game to study Intertemporal choices in software projects
   publisher: 'Proceedings of PPIG 2020: The Psychology of Programming IG workshop'
   date: '2025-03-14'
   link: https://ppig.org/papers/2020-ppig-31st-becker/
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Temporal Discounting in Software Engineering: A Replication Study'
-  publisher: Proc. ACM/IEEE ESEM
-  date: '2025-03-14'
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -431,7 +428,8 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
+- id: uri:http://arxiv.org/abs/1901.07024
+  title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
     the Future?'
   publisher: arXiv:1901.07024 [cs]
   date: '2025-03-14'
@@ -439,7 +437,8 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Sidewalk and Toronto: Critical Systems Heuristics and the Smart City'
+- id: uri:http://ceur-ws.org/Vol-2382/
+  title: 'Sidewalk and Toronto: Critical Systems Heuristics and the Smart City'
   publisher: Proceedings of the 6th International Conference on ICT for Sustainability
   date: '2025-03-14'
   link: http://ceur-ws.org/Vol-2382/
@@ -596,7 +595,8 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: 'Characterising Sustainability Requirements: A New Species, Red Herring,
+- id: uri:https://doi.org/10.1109/ICSE-SEIS.2017.2
+  title: 'Characterising Sustainability Requirements: A New Species, Red Herring,
     or Just an Odd Fish?'
   publisher: "ICSE\u201917: 39th International Conference on Software Engineering"
   date: '2025-03-14'
@@ -613,12 +613,6 @@
   publisher: Journal of Data and Information Quality
   date: '2017-01-04'
   link: https://doi.org/gsjxwr
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: A text extraction software benchmark based on a synthesized dataset
-  publisher: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
-  date: '2025-03-14'
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -682,14 +676,16 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: 'Organizational Assessment Frameworks for Digital Preservation: A literature
+- id: uri:https://tspace.library.utoronto.ca/handle/1807/73869
+  title: 'Organizational Assessment Frameworks for Digital Preservation: A literature
     review and mapping'
   date: '2025-03-14'
   link: https://tspace.library.utoronto.ca/handle/1807/73869
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: The Challenge of Test Data Quality in Data Processing
+- id: uri:https://tspace.library.utoronto.ca/handle/1807/73999
+  title: The Challenge of Test Data Quality in Data Processing
   publisher: ACM Journal of Data and Information Quality (JDIQ)
   date: '2025-03-14'
   link: https://tspace.library.utoronto.ca/handle/1807/73999
@@ -787,25 +783,8 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: "\u201CI solemnly pledge\u201D: A Manifesto for Personal Responsibility in\
-    \ the Engineering of Academic Software"
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: A Survey of Organizational Assessment Frameworks in Digital Preservation
-  publisher: International Conference on Digital Preservation (IPRES 2015)
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Benchmarks for Digital Preservation tools
-  publisher: International Conference on Digital Preservation (IPRES 2015)
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Sustainability Debt: A Metaphor to Support Sustainability Design Decisions'
+- id: uri:http://ceur-ws.org/Vol-1416/
+  title: 'Sustainability Debt: A Metaphor to Support Sustainability Design Decisions'
   publisher: Proceedings of the Fourth International Workshop on Requirements Engineering
     for Sustainable Systems co-located with the 23rd IEEE International Requirements
     Engineering Conference (RE 2015)
@@ -814,7 +793,8 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Mind the Gap: Bridging the Sustainable Software Systems Research Divide'
+- id: uri:https://openlab.ncl.ac.uk/uk-shci/
+  title: 'Mind the Gap: Bridging the Sustainable Software Systems Research Divide'
   date: '2025-03-14'
   link: https://openlab.ncl.ac.uk/uk-shci/
   orcid: 0000-0002-8364-0593
@@ -849,18 +829,8 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: 'BenchmarkDP: Evidence for Digital Preservation'
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Benchmarking Forum
-  publisher: Proceedings of the 12th International Conference on Digital Preservation
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Sustainability Design and Software: The Karlskrona Manifesto'
+- id: uri:http://dl.acm.org/citation.cfm?id=2819009.2819082
+  title: 'Sustainability Design and Software: The Karlskrona Manifesto'
   publisher: Proceedings of the 37th International Conference on Software Engineering
     - Volume 2
   date: '2025-03-14'
@@ -898,14 +868,16 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: Automated quality assurance for migration of born-digital images
+- id: uri:http://www.ingentaconnect.com/content/ist/ac/2014/00002014/00000001/art00016
+  title: Automated quality assurance for migration of born-digital images
   publisher: Archiving Conference
   date: '2025-03-14'
   link: http://www.ingentaconnect.com/content/ist/ac/2014/00002014/00000001/art00016
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: Report on the capability assessment and improvement workshop (CAIW) at iPres
+- id: uri:http://dialnet.unirioja.es/servlet/articulo?codigo=4651225
+  title: Report on the capability assessment and improvement workshop (CAIW) at iPres
     2013
   publisher: D-Lib Magazine
   date: '2025-03-14'
@@ -926,23 +898,21 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: 'Sustainability and Longevity: Two Sides of the Same Quality?'
-  publisher: Proc. RE4SuSy
+- id: uri:http://ceur-ws.org/Vol-1216/
+  title: 'Sustainability and Longevity: Two Sides of the Same Quality?'
+  publisher: Proceedings of the Third International Workshop on Requirements Engineering
+    for Sustainable Systems co-located with 22nd International Conference on Requirements
+    Engineering (RE 2014)
   date: '2025-03-14'
   link: http://ceur-ws.org/Vol-1216/
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: The Karlskrona manifesto for sustainability design
+- id: uri:http://arxiv.org/abs/1410.6968
+  title: The Karlskrona manifesto for sustainability design
   publisher: arXiv preprint arXiv:1410.6968
   date: '2025-03-14'
   link: http://arxiv.org/abs/1410.6968
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Longevity as an Information Systems Design Concern
-  publisher: CAISE Forum
-  date: '2025-03-14'
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -958,7 +928,8 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- title: Improving decision support for software component selection through systematic
+- id: uri:http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6479978
+  title: Improving decision support for software component selection through systematic
     cross-referencing and analysis of multiple decision criteria
   publisher: System Sciences (HICSS), 2013 46th Hawaii International Conference on
   date: '2025-03-14'
@@ -966,13 +937,8 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: Longevity as an Information Systems Design Concern.
-  publisher: CAiSE Forum
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
+- id: uri:http://www.academia.edu/download/33148094/iPres2013-Proceedings.pdf#page=75
+  title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
     ecosystems'
   publisher: Proc. IPRES
   date: '2025-03-14'
@@ -980,13 +946,8 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Preservation watch: What to monitor and how'
-  publisher: Proc. International Conference on Digital Preservation (IPRES)
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Roles and Responsibilities in Digital Preservation Decision Making
+- id: uri:http://www.scape-project.eu/wp-content/uploads/2013/11/UNESCO_MOW2012_Kulovits_RolesResponsibilities.pdf
+  title: Roles and Responsibilities in Digital Preservation Decision Making
   publisher: 'The Memory of the World in the Digital Age: Digitization and Preservation'
   date: '2025-03-14'
   link: http://www.scape-project.eu/wp-content/uploads/2013/11/UNESCO_MOW2012_Kulovits_RolesResponsibilities.pdf
@@ -1015,19 +976,12 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: Impact Assessment of Decision Criteria in Preservation Planning
-  publisher: Proceedings of the 8th International Conference on Preservation of Digital
-    Objects
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
 - id: isbn:978-1-4503-0744-4
-  title: Jcdl'11 Proceedings of the 2011 Acm
+  title: 'Preservation Decisions: Terms and Conditions Apply'
   authors: []
-  publisher: Association for Computing Machinery
-  date: '2012-01-01'
-  link: ''
+  publisher: Proc. 11th Annual Int ACM/IEEE Joint Conf. Digital Libraries
+  date: '2025-03-14'
+  link: http://doi.acm.org/10.1145/1998076.1998089
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -1044,11 +998,12 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:0950-5849
-  title: ISSN 0950-5849 (Print) | Information and software technology | The ISSN Portal
+  title: Improving component selection and monitoring with controlled experimentation
+    and automated measurements
   authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0950-5849
+  publisher: Information and Software Technology
+  date: '2025-03-14'
+  link: http://www.sciencedirect.com/science/article/pii/S0950584910000145
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -1066,12 +1021,12 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:14325012
-  title: ISSN 1432-5012 (Print) | International journal on digital libraries | The
-    ISSN Portal
+  title: 'Systematic planning for digital preservation: evaluating potential strategies
+    and building preservation plans'
   authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/14325012
+  publisher: International Journal on Digital Libraries
+  date: '2025-03-14'
+  link: http://resolver.scholarsportal.info/resolve/14325012/v10i0004/133_spfdpepsabpp.xml
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
@@ -1089,12 +1044,6 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- title: Evaluating strategies for the preservation of console video games
-  publisher: International Conference on Preservation of Digital Objects (iPRES 2008)
-  date: '2025-03-14'
-  orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/1378889.1378954
   title: Plato
   authors:
@@ -1108,25 +1057,6 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1145/3706599.3706731
-  title: Advancing Post-growth HCI
-  authors:
-  - Vishal Sharma
-  - Hongjin Lin
-  - Asra Sakeen Wani
-  - Jared Lee Katzman
-  - Anupriya Tuli
-  - Naveena Karusala
-  - Shaowen Bardzell
-  - Christoph Becker
-  - Martin Tomitsch
-  - Neha Kumar
-  publisher: Proceedings of the Extended Abstracts of the CHI Conference on Human
-    Factors in Computing Systems
-  date: '2025-04-26'
-  link: https://doi.org/g9gs94
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.48550/arXiv.2410.22473
   title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
     Practices in the Datasets and Benchmarks Track'
@@ -1142,14 +1072,6 @@
   link: https://doi.org/g8sgwm
   type: paper
   image: images/DCML_project2.png
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://sites.google.com/view/post-growthhci/
-  title: Post-growth HCI Workshop @CHI
-  authors: []
-  publisher: ''
-  date: '2024-05-12'
-  link: https://sites.google.com/view/post-growthhci/
   plugin: sources.py
   file: sources.yaml
 - id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
