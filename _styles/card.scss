@@ -37,8 +37,9 @@
   padding: 20px;
 }
 
-.card-text > * {
-  margin: 0 !important;
+.card-text > *,
+.card-text > .tags {
+  margin: 0;
 }
 
 .card-title {
@@ -47,6 +48,6 @@
 }
 
 .card-subtitle {
-  margin-top: -10px !important;
+  margin-top: -15px;
   font-style: italic;
 }
