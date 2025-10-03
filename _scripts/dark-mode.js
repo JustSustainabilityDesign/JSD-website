@@ -3,9 +3,12 @@
 */
 
 {
-  // immediately load saved (or default) mode before page renders
-  document.documentElement.dataset.dark =
-    window.localStorage.getItem("dark-mode") ?? "false";
+  // save/load user's dark mode preference from local storage
+  const loadDark = () => window.localStorage.getItem("dark-mode") === "true";
+  const saveDark = (value) => window.localStorage.setItem("dark-mode", value);
+
+  // immediately load saved mode before page renders
+  document.documentElement.dataset.dark = loadDark();
 
   const onLoad = () => {
     // update toggle button to match loaded mode
@@ -20,6 +23,6 @@
   window.onDarkToggleChange = (event) => {
     const value = event.target.checked;
     document.documentElement.dataset.dark = value;
-    window.localStorage.setItem("dark-mode", value);
+    saveDark(value);
   };
 }

@@ -41,7 +41,7 @@
     flex-direction: column !important;
   }
   .feature-image {
-    width: 100%;
+    width: unset;
     max-width: 400px;
   }
 }

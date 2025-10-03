@@ -40,10 +40,6 @@
 
 
 
-
-
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Olya Jaworsky | Just Sustainability Design</title>
@@ -56,13 +52,13 @@
 <meta property="og:title" content="Olya Jaworsky">
 <meta property="og:site_title" content="Just Sustainability Design">
 <meta property="og:description" content="Technologies for Just and Sustainable Communities. Research Assistant (2025)">
-<meta property="og:url" content="https://justsustainabilitydesign.org">
+<meta property="og:url" content="">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Olya Jaworsky">
 <meta property="twitter:description" content="Technologies for Just and Sustainable Communities. Research Assistant (2025)">
-<meta property="twitter:url" content="https://justsustainabilitydesign.org">
+<meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
 
@@ -83,11 +79,11 @@
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
     },
-    "url": "https://justsustainabilitydesign.org"
+    "url": ""
   }
 </script>
 
-<link rel="alternate" type="application/rss+xml" href="https://justsustainabilitydesign.org/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="/feed.xml">
 
   <!-- Google Fonts -->
 <!-- automatically get url from fonts used in theme file -->
@@ -97,9 +93,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -163,10 +159,6 @@
 
   
     <link href="/_styles/dark-toggle.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/details.css" rel="stylesheet">
   
 
   
@@ -322,9 +314,8 @@
 
   <script src="/_scripts/site-search.js"></script>
 
-  <script src="/_scripts/table-wrap.js"></script>
-
   <script src="/_scripts/tooltip.js"></script>
+
 
 
 
@@ -405,12 +396,12 @@
       </span>
     
     
-      <span class="title-text" data-tooltip="Home">
+      <span class="title" data-tooltip="Home">
         
-          <span class="title">Just Sustainability Design</span>
+          <span>Just Sustainability Design</span>
         
         
-          <span class="subtitle">Technologies for Just and Sustainable Communities</span>
+          <span>Technologies for Just and Sustainable Communities</span>
         
       </span>
     
@@ -434,26 +425,8 @@
       
     
       
-        <a href="/research/" data-tooltip="Published works">
-          Research
-        </a>
-      
-    
-      
-        <a href="/projects/" data-tooltip="Software, datasets, and more">
-          Projects
-        </a>
-      
-    
-      
         <a href="/publications/" data-tooltip="Published works">
           Publications
-        </a>
-      
-    
-      
-        <a href="/team/" data-tooltip="About our team">
-          Team
         </a>
       
     
@@ -466,12 +439,6 @@
       
         <a href="/introduction/" data-tooltip="To learn more about JSD">
           Introduction to JSD
-        </a>
-      
-    
-      
-        <a href="/blog/" data-tooltip="Musings and miscellany">
-          Blog
         </a>
       
     
@@ -501,8 +468,11 @@
   modify main content of page:
   - add section breaks
   - attach section properties
+  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
+
+
 
 
 
@@ -518,24 +488,24 @@
   
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Olya Jaworsky">
-    
-      <i class="icon fa-solid fa-magnifying-glass"></i>
-    
-
     <img src="/images/Olya.jpeg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-name">
-        Olya Jaworsky
-      </span>
-    
+      <span class="portrait-text">
+        
+          <span class="portrait-name">
+            Olya Jaworsky
+          </span>
+        
 
-    
-      <span class="portrait-description">
-        Research Assistant (2025)
+        
+          <span class="portrait-role">
+            
+            <i class="icon fa-solid fa-magnifying-glass"></i>
+            <span>Research Assistant (2025)</span>
+          </span>
+        
       </span>
-    
-
     
   </a>
 </div>
@@ -579,7 +549,7 @@ how design decisions in lecture material impact learning.</p>
 
 
 <p class="center">
-  <a href="/research/?search=%22Olya%20Jaworsky%22%20%22O%20Jaworsky%22%20%22Olya%20J%22%20%22O.%20Jaworsky%22%20">
+  <a href="/publications/?search=%22Olya%20Jaworsky%22%20%22O%20Jaworsky%22%20%22Olya%20J%22%20%22O.%20Jaworsky%22%20">
     Search for Olya Jaworsky's papers on the Research page
   </a>
 </p>

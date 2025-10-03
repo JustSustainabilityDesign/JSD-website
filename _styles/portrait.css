@@ -8,6 +8,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  gap: 20px;
   margin: 20px;
   width: 175px;
   max-width: calc(100% - 20px - 20px);
@@ -25,33 +26,8 @@
   text-align: left;
 }
 
-.portrait .icon {
-  position: absolute;
-  left: 0;
-  top: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: calc(20px + 10%);
-  aspect-ratio: 1/1;
-  border-radius: 999px;
-  background: var(--background);
-  box-shadow: var(--shadow);
-  transform: translate(14%, 14%);
-}
-
-.portrait[data-style=small] .icon {
-  left: -2px;
-  top: -2px;
-}
-
-.portrait[data-style=tiny] .icon {
-  display: none;
-}
-
 .portrait-image {
   width: 100%;
-  margin-bottom: 20px;
   aspect-ratio: 1/1;
   border-radius: 999px;
   object-fit: cover;
@@ -60,7 +36,16 @@
 
 .portrait[data-style=tiny] .portrait-image {
   width: 50px;
-  margin: 0;
+}
+
+.portrait[data-style=tiny] .portrait-role {
+  display: none;
+}
+
+.portrait-text {
+  display: flex;
+  flex-direction: column;
+  line-height: calc(var(--spacing) - 0.4);
 }
 
 .portrait-name {
@@ -68,9 +53,24 @@
   font-weight: var(--semi-bold);
 }
 
-.portrait[data-style=tiny] .portrait-description,
-.portrait[data-style=tiny] .portrait-affiliation {
-  display: none;
+.portrait-role .icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  aspect-ratio: 1/1;
+  border-radius: 999px;
+  background: var(--background);
+  box-shadow: var(--shadow);
+  transform: translate(14%, 14%);
+}
+
+.portrait[data-style=small] .portrait-role .icon {
+  left: -2px;
+  top: -2px;
 }
 
 /*# sourceMappingURL=portrait.css.map */

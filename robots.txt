@@ -1,1 +1,1 @@
-Sitemap: https://justsustainabilitydesign.org/sitemap.xml
+Sitemap: /sitemap.xml
