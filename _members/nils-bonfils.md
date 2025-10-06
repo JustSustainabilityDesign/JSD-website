@@ -1,10 +1,10 @@
 ---
 name: Nils Bonfils
 image: images/Nils.jpeg
-description: PhD Student, Department of Computer Science
+description: PhD Student, Faculty of Information
 role: phd
 aliases: 
-group: affiliates
+group: 
 links:
   email: nils.bonfils@mail.utoronto.ca
 ---
