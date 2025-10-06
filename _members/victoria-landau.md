@@ -12,6 +12,7 @@ aliases:
   - Victoria GD Landau
   - Victoria L
   - Victoria L.
+group: alum
 links:
   home-page: https://dgw.philhist.unibas.ch/de/doktorat/mitglieder/doktorierende/landau-victoria-gioia-desiree/
   orcid: 0000-0002-7682-5709
