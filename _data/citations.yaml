@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.scitotenv.2025.181059
+  title: 'Reimagining urban air-quality governance: A systems-thinking framework'
+  authors:
+  - Harshit Gujral
+  - Om Damani
+  - Anshul Agarwal
+  - Christoph Becker
+  - Meredith Franklin
+  - Teresa Kramarz
+  - Ronak Sutaria
+  - Sagnik Dey
+  - Steve Easterbrook
+  publisher: Science of The Total Environment
+  date: '2026-01-01'
+  link: https://doi.org/hbdt5h
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3757539
   title: '17 Years of Fintech for Financial Inclusion: A Systematic Review and Critical
     Value Analysis'
