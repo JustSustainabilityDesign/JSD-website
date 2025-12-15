@@ -8,6 +8,11 @@ nav:
 
 {%
   include button.html
+  type="newsletter"
+%}
+
+{%
+  include button.html
   type="rss"
 %}
 

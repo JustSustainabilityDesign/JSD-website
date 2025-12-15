@@ -144,6 +144,12 @@ rss:
   text: RSS
   tooltip: RSS
   link: https://justsustainabilitydesign.org/feed.xml
+
+newsletter:
+  icon: fa-regular fa-newspaper
+  text: Subscribe for Updates
+  tooltip: Newsletter
+  link: https://cryptpad.fr/form/#/2/form/view/-2dkjtFJsIalR1iNIqPSAUj+zGMXVu9I+AV2NerRQ2M/
 # alerts
 
 tip:
