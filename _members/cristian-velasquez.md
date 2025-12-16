@@ -1,5 +1,5 @@
 ---
-name: Cristian Velasquez Pardo
+name: Cristian Velasquez
 image: images/Cristian.jpg
 description: Communications Lead, JSD Lab
 role: masters
