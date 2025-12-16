@@ -11,7 +11,7 @@ aliases:
   - C Velasquez
 group: 
 links:
-  linkedin: /cristianlvelasquez/
+  linkedin: cristianlvelasquez/
 
 ---
 
