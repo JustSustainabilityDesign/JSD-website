@@ -36,7 +36,7 @@ The JSD Lab is happy to host two International Graduate students in 2025.
 
 ## Achievements and Collaborations
 
-**“Near Data” and “Far Data” for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?”** received a Best Paper Award at ACM CSCW 2025.
+###“Near Data” and “Far Data” for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?”** received a Best Paper Award at ACM CSCW 2025.
 
 Authored by Han Qiao, Siyi Wu, and Christoph Becker, the paper explores how community organizations navigate and negotiate data, ranging from local, lived information (“near data”) to large scale, processed datasets (“far data”). The study uncovers design possibilities for tools that center community expertise in building sustainable urban futures.
 
@@ -44,7 +44,7 @@ PhD Candidate Han Qiao, who presented the work, grounds her doctoral research in
 
 This research continues through the School of Cities Urban Challenge Grant (2025–2027), in collaboration with the Visionary Communities team in Scarborough. Together, we are developing practices that make heavily processed (far) data relevant for local knowledge contexts and aspirations, and re-embed community generated knowledges and aspirations (near data) in a far-data context to help municipal decision-makers better recognize, value, and act upon the insights and aspirations of community-based changemakers.
 
-Read the full text: https://doi.org/10.1145/3710901
+Read the full text: (https://doi.org/10.1145/3710901)
 
 ### Climate Change: What Is Computing’s Responsibility? Reflections from the Dagstuhl Perspectives Workshop
 
