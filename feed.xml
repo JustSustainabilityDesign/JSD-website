@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-12-16T18:07:03+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">JSD Lab Newsletter – Fall 2025</title><link href="/2025/12/16/jsd-newsletter-2025.html" rel="alternate" type="text/html" title="JSD Lab Newsletter – Fall 2025" /><published>2025-12-16T00:00:00+00:00</published><updated>2025-12-16T00:00:00+00:00</updated><id>/2025/12/16/jsd-newsletter-2025</id><content type="html" xml:base="/2025/12/16/jsd-newsletter-2025.html"><![CDATA[<p>Welcome to the first edition of the JSD Lab newsletter. This year has been full of creative experimentation, collaborative research, and new local and international partnerships. We’re excited to share highlights from our community.</p>
-
-<p><img src="images/fall_2025.jpg" alt="Not all is work at the JSD. In 2025, we also gathered for picnics, hikes and games!" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-12-16T18:25:14+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design</title><entry><title type="html">JSD Lab Newsletter – Fall 2025</title><link href="/2025/12/16/jsd-newsletter-2025.html" rel="alternate" type="text/html" title="JSD Lab Newsletter – Fall 2025" /><published>2025-12-16T00:00:00+00:00</published><updated>2025-12-16T00:00:00+00:00</updated><id>/2025/12/16/jsd-newsletter-2025</id><content type="html" xml:base="/2025/12/16/jsd-newsletter-2025.html"><![CDATA[<p>Welcome to the first edition of the JSD Lab newsletter. This year has been full of creative experimentation, collaborative research, and new local and international partnerships. We’re excited to share highlights from our community.</p>
 
 <h2 id="welcome-to-the-lab">Welcome to the Lab!</h2>
 
@@ -32,21 +30,34 @@
 
 <p>Authored by Han Qiao, Siyi Wu, and Christoph Becker, the paper explores how community organizations navigate and negotiate data, ranging from local, lived information (“near data”) to large scale, processed datasets (“far data”). The study uncovers design possibilities for tools that center community expertise in building sustainable urban futures.</p>
 
-<p>This research continues through the School of Cities Urban Challenge Grant (2025–2027), in collaboration with the Visionary Communities team in Scarborough.</p>
+<p>PhD Candidate Han Qiao, who presented the work, grounds her doctoral research in a deceptively simple question: How do our everyday encounters with data influence the way we imagine—and shape—the cities around us? Her dissertation examines how our interactions with data inform our relationships to physical spaces and our collective imaginaries of urban futures.</p>
 
-<h2 id="climate-change-what-is-computings-responsibility">Climate Change: What Is Computing’s Responsibility?</h2>
+<p>This research continues through the School of Cities Urban Challenge Grant (2025–2027), in collaboration with the Visionary Communities team in Scarborough. Together, we are developing practices that make heavily processed (far) data relevant for local knowledge contexts and aspirations, and re-embed community generated knowledges and aspirations (near data) in a far-data context to help municipal decision-makers better recognize, value, and act upon the insights and aspirations of community-based changemakers.</p>
+
+<p>Read the full text: https://doi.org/10.1145/3710901</p>
+
+<h3 id="climate-change-what-is-computings-responsibility-reflections-from-the-dagstuhl-perspectives-workshop">Climate Change: What Is Computing’s Responsibility? Reflections from the Dagstuhl Perspectives Workshop</h3>
 
 <p>In March 2025, a group of leading practitioners, policy experts, and researchers — including Christoph Becker — convened at Dagstuhl Leibniz Center for Informatics in Germany on invitation of the ACM to examine a pressing question: What is computing’s responsibility in the current climate crisis? The resulting Dagstuhl Manifesto is a wide-ranging call for a fundamental shift in how computational systems are designed, deployed, and governed.</p>
 
-<h2 id="resisting-genai-and-big-tech-in-higher-education">Resisting GenAI and Big Tech in Higher Education</h2>
+<p>The Manifesto challenges the assumption that efficiency gains or technological optimism alone can offset the rapidly escalating environmental impacts of digital infrastructures. Instead, it argues for reorienting computing toward sufficiency, long-term durability, human rights, and planetary boundaries. It underscores the need for transparent environmental assessments, a stronger role for computing professionals in shaping digital policy, and a renewed commitment to climate-conscious education and practice. For those working at the intersection of technology, sustainability, and justice, this document offers an essential framework for the years ahead.</p>
+
+<p>Read the full text https://doi.org/10.4230/DagMan.11.1.1</p>
+
+<h3 id="resisting-genai-and-big-tech-in-higher-education">Resisting GenAI and Big Tech in Higher Education</h3>
 
 <p>On November 25, an international panel of scholar-activists came together to examine the expanding influence of generative AI across universities and the urgent need to push back. From escalating energy and water consumption to disruptions in learning, academic integrity, and governance, the session unpacked the social, environmental, and political risks of AI’s rapid adoption.</p>
 
-<h2 id="two-of-our-members-are-now-phd-candidates">Two of Our Members Are Now PhD Candidates</h2>
+<p>Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable.</p>
 
-<p><strong>Eshta Bhardwaj</strong> defended her thesis proposal titled “Adopting a Data Curation Lens for Rigorous, Reflexive, and Responsible Machine Learning Data Practices”.</p>
+<p>If you missed the live event, you can now watch the full recording here<br />
+https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?start=1h24m59s</p>
 
-<p><strong>Han Qiao</strong> defended her thesis proposal titled “Designing with Data Near and Far: Making Information Visceral for Imagining and Navigating Sustainable Futures.”</p>
+<h2 id="two-of-our-members-are-now-phd-candidates">Two of our members are now PhD Candidates!</h2>
+
+<p><strong>Eshta Bhardwaj</strong> defended her thesis proposal titled <em>“Adopting a Data Curation Lens for Rigorous, Reflexive, and Responsible Machine Learning Data Practices.”</em></p>
+
+<p><strong>Han Qiao</strong> defended her thesis proposal titled <em>“Designing with Data Near and Far: Making Information Visceral for Imagining and Navigating Sustainable Futures.”</em></p>
 
 <h2 id="projects">Projects</h2>
 
@@ -54,11 +65,119 @@
 
 <p>This February, the JSD Lab launched Save the AI, a creative campaign that turns critical insights about AI’s environmental and social impacts into engaging public materials. Thanks to collaborators across the world, the campaign is now available in nine languages.</p>
 
+<p>Save the AI uses humour as a bridge—connecting people’s basic needs such as clean water, electricity, and air to the resource-intensive infrastructures powering AI. By bridging the psychological distance between everyday life and far-off data centers, the project invites people to rethink the hidden footprints of today’s technological systems.</p>
+
+<p>Our team presented this work at ACM FAccT 2025, COMPASS 2025 and KDD 2025.</p>
+
+<p>Han Qiao, Eshta Bhardwaj, Victoria G. D. Landau, Nils Bonfils, Monica Iqbal, Olya Jaworsky, Rowan O.A. Munson, Lena Rubisova, Nadia Mariyan Smith, Ayusha Thapa, and Christoph Becker. 2025. Are You Thirsty? So is Your AI.  Proc. of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ‘25). Association for Computing Machinery, New York, NY, USA, 811–816. https://doi.org/10.1145/3715335.3736308</p>
+
+<p>Eshta Bhardwaj, Han Qiao, Rowan O.A. Munson, and Christoph Becker. 2025. Humour as Resistance: Creative Approaches to Data Center Accountability. Proc. of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ‘25). Association for Computing Machinery, New York, NY, USA, 831–836. https://doi.org/10.1145/3715335.3737682</p>
+
+<p>Follow Save the AI:<br />
+Website: https://savethe.ai<br />
+Mastodon: https://mastodon.social/@savetheAI<br />
+Bluesky: https://bsky.app/profile/savetheai.bsky.social<br />
+Instagram: https://www.instagram.com/savetheai</p>
+
 <h2 id="torontowarwick-collaboration-on-data-justice-social-justice-and-sustainability">Toronto–Warwick Collaboration on Data Justice, Social Justice, and Sustainability</h2>
 
-<p>The JSD Lab (University of Toronto) and the Centre for Interdisciplinary Methodologies (University of Warwick) have launched a new partnership to strengthen research and PhD training at the intersection of Data Justice, Social Justice, and Sustainability.</p>
+<p>The JSD Lab (University of Toronto) and the Centre for Interdisciplinary Methodologies (University of Warwick) have launched a new partnership to strengthen research and PhD training at the intersection of Data Justice, Social Justice, and Sustainability. Funded through the 2025–2026 University of Toronto–University of Warwick Joint Seed Fund, the initiative is led by Dr. Siddharth De Souza and Professor Christoph Becker, and organized by PhD Student Rowan O.A. Munson.</p>
 
-<h2 id="subscribe-to-the-jsd-lab-newsletter">Subscribe to the JSD Lab Newsletter</h2>]]></content><author><name>cristian-velasquez</name></author><category term="milestone" /><summary type="html"><![CDATA[Welcome to the first edition of the JSD Lab newsletter. This year has been full of creative experimentation, collaborative research, and new local and international partnerships.]]></summary></entry><entry><title type="html">Building research and PhD collaborations on Data Justice, Social Justice, and Sustainability</title><link href="/2025/07/18/toronto-warwick-2025.html" rel="alternate" type="text/html" title="Building research and PhD collaborations on Data Justice, Social Justice, and Sustainability" /><published>2025-07-18T00:00:00+00:00</published><updated>2025-07-18T00:00:00+00:00</updated><id>/2025/07/18/toronto-warwick-2025</id><content type="html" xml:base="/2025/07/18/toronto-warwick-2025.html"><![CDATA[<p>Emerging data technologies often exacerbate social inequity and climate change, two of the most pressing challenges facing the world today, with their capacities to digitally monitor, sort, and control individuals and communities while consuming vast human and planetary resources in the process. The Universities of Toronto and Warwick are preparing our PhD students to take a leading role in addressing these global challenges by taking a global approach to PhD research and education that centers Data Justice, Social Justice, and Sustainability in Technology Design.</p>
+<p>Emerging data technologies often exacerbate social inequity and climate change, two of the most pressing challenges facing the world today, with their capacities to digitally monitor, sort, and control individuals and communities while consuming vast human and planetary resources in the process. The Universities of Toronto and Warwick are preparing our PhD students to take a leading role in addressing these global challenges by taking a global approach to PhD research and education that centers Data Justice, Social Justice, and Sustainability in Technology Design.</p>
+
+<p>The project is already underway, with three workshops hosted between November and December, 2025:</p>
+
+<p>“In which we shall question the supposed inevitability of artificial intelligence and what we might do about it.” With contributions from T.L. Cowan, Alessandro Delfanti, Noortje Marres and Sanjay Sharma.</p>
+
+<p>“Methodological Approaches to Data Justice, Social Justice, and Sustainability.” Featuring Han Qiao, Kavin Narasimhan, Nadia Mariyan Smith and Nils Bonfils.</p>
+
+<p>“Academic as Activist: The role of the university in facilitating social change.”
+With contributions from Siddharth De Souza, Rafael Grohmann, Carlos Cámara-Menoyo, and Vera Khovanskaya.</p>
+
+<h2 id="limits-2025-computing-within-planetary-boundaries">LIMITS 2025: Computing Within Planetary Boundaries</h2>
+
+<p>JSD Lab Lead Christoph Becker co-chaired LIMITS 2025, a globally distributed, online-first conference focused on envisioning and enacting forms of computing that respect and operate within planetary boundaries. With over 200 participants joining from multiple continents, LIMITS continues to grow as the central venue for rethinking computing in a world of ecological and social constraints. This year LIMITS features two contributions from the JSD lab:</p>
+
+<p>An Empirical Inquiry into Surveillance Capitalism: Web Tracking
+by Nils Bonfils at LIMITS 2025</p>
+
+<p>Nils Bonfils presented new empirical research on the mechanisms of Surveillance Capitalism as they unfold across the contemporary web. Drawing on longitudinal data from WhoTracks.Me (2017–2025) and publicly available SEC filings, the study maps the tracking practices of major tech companies—Google, Apple, Facebook, Amazon, and Microsoft. The analysis highlights Google’s pervasive presence across the web, proposes a three-tier hierarchy of GAFAM actors in the surveillance ecosystem, and identifies emerging forms of tracking designed to evade detection.
+The work also reflects on the broader social and environmental costs of tracking-driven business models and points to alternative technologies, such as the Gemini protocol, that challenge extractive data practices. By grounding discussions of Surveillance Capitalism in empirical evidence, this contribution strengthens ongoing efforts to rethink digital infrastructures in more equitable and sustainable directions.</p>
+
+<p>Read the full text here: https://doi.org/10.48550/arXiv.2508.07454</p>
+
+<p>Exploring the World3 Model to Assess Computing’s Impact on Planetary Boundaries
+by Nara Guliyeva, Eshta Bhardwaj, and Christoph Becker</p>
+
+<p>Another contribution from the JSD Lab examined whether the updated World3-03 system dynamics model, a foundational tool first introduced in Limits to Growth, can be adapted to understand how today’s rapidly expanding computing infrastructures affect planetary boundaries.</p>
+
+<p>With global data center development accelerating, particularly in support of AI systems, the authors asked whether World3-03 could meaningfully simulate the environmental consequences of resource-intensive computing. By integrating new AI-related variables, including data-center-driven pollution and growth trajectories, the team created an augmented scenario within the model. Their findings show that the model responds predictably to these additions, indicating that World3-03 is a viable quantitative tool for exploring how computing contributes to ecological strain. The paper outlines future research directions for using system dynamics to study the long-term environmental implications of AI and data infrastructure—supporting deeper, evidence-driven conversations about the sustainability of computing within planetary limits.</p>
+
+<p>Read the full text here: https://doi.org/10.48550/arXiv.2510.07634</p>
+
+<p>The LIMITS community brings together designers, engineers, artists, and scholars to explore questions around resource constraints, climate justice, transitional systems, and alternative imaginaries for technology design. Christoph Becker will also co-organize LIMITS 2026: https://computingwithinlimits.org</p>
+
+<h2 id="research-funding">Research Funding</h2>
+
+<p>Alongside the School of Cities Urban Challenge Grant supporting our project Centering Community in Data Ecosystems: Integrating Near Data and Far Data for Just Sustainable Neighborhoods, and the Toronto–Warwick Joint Seed Fund for Developing Collaboration in Research and Education, the JSD Lab was also pleased to receive funding from NSERC and SSHRC:</p>
+
+<p>NSERC Discovery Grant (2025–2030)
+Evidence-based sustainability assessments for ecologically responsible decision-making in software engineering</p>
+
+<p>SSHRC Insight Development Grant (2025–2027)
+Text Mining Higher Education Discourse for New Insights on Sustainability: A Pilot Study
+Co-PI: Elizabeth Buckner, Ontario Institute for Studies in Education</p>
+
+<h2 id="publications">Publications</h2>
+
+<p>Explore recent publications from the JSD Lab members and collaborators:</p>
+
+<p>Priyanka Verma, Christoph Becker, and Samar Sabie. 2025. 17 Years of Fintech for Financial Inclusion: A Systematic Review and Critical Value Analysis. Proc. ACM Hum.-Comput. Interact. 9, 7, Article CSCW358 (November 2025), 33 pages. https://doi.org/10.1145/3757539</p>
+
+<p>Vishal Sharma, Asra Sakeen Wani, Raphaël Marée, Christoph Becker, Douglas Schuler, Aparajita Marathe, Neha Kumar, Han Qiao, Rikke Hagensby Jensen, and Anupriya Tuli. 2025. Challenging the Growth Narrative in and Through HCI. XRDS 31, 4 (Summer 2025), 12–18. https://doi.org/10.1145/3744691</p>
+
+<p>Han Qiao, Eshta Bhardwaj, Victoria G. D. Landau, Nils Bonfils, Monica Iqbal, Olya Jaworsky, Rowan O.A. Munson, Lena Rubisova, Nadia Mariyan Smith, Ayusha Thapa, and Christoph Becker. 2025. Are You Thirsty? So is Your AI.  Proc. of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ‘25). Association for Computing Machinery, New York, NY, USA, 811–816. https://doi.org/10.1145/3715335.3736308</p>
+
+<p>Eshta Bhardwaj, Han Qiao, Rowan O.A. Munson, and Christoph Becker. 2025. Humour as Resistance: Creative Approaches to Data Center Accountability.  Proc. of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ‘25). Association for Computing Machinery, New York, NY, USA, 831–836. https://doi.org/10.1145/3715335.3737682</p>
+
+<p>Han Qiao, Siyi Wu, and Christoph Becker. 2025. “Near Data” and “Far Data” for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries? Proc. ACM Hum.-Comput. Interact. 9, 2, Article CSCW003 (May 2025), 30 pages. https://doi.org/10.1145/3710901</p>
+
+<p>Nils Bonfils, 2025. AnEmpirical Inquiry into Surveillance Capitalism: Web Tracking
+Post-proc. paper presented at LIMITS 2025: 11th Workshop on Computing within Limits. (June 2025), 10 pages. https://doi.org/10.48550/arXiv.2508.07454</p>
+
+<p>Nara Guliyeva, Eshta Bhardwaj, Christoph Becker, 2025. Exploring the Viability of the Updated World3 Model for Examining the Impact of Computing on Planetary Boundaries Post-proc. paper presented at LIMITS 2025: 11th Workshop on Computing within Limits. (June 2025), 25 pages https://doi.org/10.48550/arXiv.2510.07634</p>
+
+<p>Bran Knowles, Vicki L. Hanson, Christoph Becker, Mike Berners-Lee, Andrew A. Chien, Benoit Combemale, Vlad Coroamă, Koen De Bosschere, Yi Ding, Adrian Friday, Boris Gamazaychikov, Lynda Hardman, Simon Hinterholzer, Mattias Höjer, Lynn Kaack, Lenneke Kuijer, Anne-Laure Ligozat, Jan Tobias Muehlberg, Yunmook Nah, Thomas Olsson, Anne-Cécile Orgerie, Daniel Pargman, Birgit Penzenstadler, Tom Romanoff, Emma Strubell, Colin Venters, and Junhua Zhao, 2025. Climate Change: What is Computing’s Responsibility? (Dagstuhl Perspectives Workshop 25122). In Dagstuhl Manifestos, Volume 11, Issue 1, pp. 1-18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2025) https://doi.org/10.4230/DagMan.11.1.1</p>
+
+<p>Harshit Gujral, Om Damani, Anshul Agarwal, Christoph Becker, Meredith Franklin, Teresa Kramarz, Ronak Sutaria, Sagnik Dey, Steve Easterbrook, 2025. Reimagining urban air-quality governance: A systems-thinking framework. The Science of the Total Environment, 1010, 181059. https://doi.org/10.1016/j.scitotenv.2025.181059</p>
+
+<h2 id="coming-up">Coming up</h2>
+<h3 id="jsd-lab-at-chi-2026-the-worlds-leading-hci-conference">JSD Lab at CHI 2026, the World’s Leading HCI Conference</h3>
+
+<p>We’re delighted to share that the JSD Lab will have two contributions at the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026), the premier international venue for Human–Computer Interaction research. CHI 2026 will take place in Barcelona at the Centre de Convencions Internacional de Barcelona.</p>
+
+<h3 id="crip-hci-cyborg-perspectives-on-disability-justice">Crip HCI: Cyborg Perspectives on Disability Justice</h3>
+<p>Professor Christoph Becker joins a collective of disabled researchers and artists in organizing Crip HCI: Cyborg Perspectives on Disability Justice. This workshop brings together medical “cyborgs”—individuals living with devices such as insulin pumps, prosthetics, pacemakers, and sensors—to reflect on the politics, vulnerabilities, and creativity embedded in cyborg life.</p>
+
+<p>Grounded in disability justice, crip theory, and lived experience, the workshop challenges extractive, techno-solutionist approaches and centers the knowledge of disabled people as foundational to imagining new sociotechnical futures. Participants will share work, build community, and explore how cyborg perspectives can reshape research, design, and policy in HCI.</p>
+
+<p>Website forthcoming https://t1design.org/chi-2026</p>
+
+<p>###Cultivating Pedagogies for Post-Growth HCI</p>
+
+<p>A cross-institutional team including the JSD Lab researcher Han Qiao and Professor Christoph Becker will co-organize Cultivating Pedagogies for Post-Growth HCI, a workshop that asks how HCI education can move beyond “bigger-and-faster” mindsets toward practices grounded in sufficiency, repair, and care.</p>
+
+<p>Drawing on the growing field of post-growth HCI, the workshop invites educators, students, and practitioners to co-design a “living syllabus,” rethink evaluation systems, and explore how teaching itself can serve as an infrastructural practice for sustainable and just futures in computing.</p>
+
+<p>This contribution continues the momentum from previous CHI workshops and strengthens an international community dedicated to post-growth teaching and practice.</p>
+
+<p>More info soon</p>
+
+<hr />
+
+<p>Subscribe to the JSD Lab Newsletter</p>
+
+<p>https://cryptpad.fr/form/#/2/form/edit/aMb4rIBtu6X2lKHdb5weYZiw/</p>]]></content><author><name>cristian-velasquez</name></author><category term="milestone" /><summary type="html"><![CDATA[Welcome to the first edition of the JSD Lab newsletter. This year has been full of creative experimentation, collaborative research, and new local and international partnerships.]]></summary></entry><entry><title type="html">Building research and PhD collaborations on Data Justice, Social Justice, and Sustainability</title><link href="/2025/07/18/toronto-warwick-2025.html" rel="alternate" type="text/html" title="Building research and PhD collaborations on Data Justice, Social Justice, and Sustainability" /><published>2025-07-18T00:00:00+00:00</published><updated>2025-07-18T00:00:00+00:00</updated><id>/2025/07/18/toronto-warwick-2025</id><content type="html" xml:base="/2025/07/18/toronto-warwick-2025.html"><![CDATA[<p>Emerging data technologies often exacerbate social inequity and climate change, two of the most pressing challenges facing the world today, with their capacities to digitally monitor, sort, and control individuals and communities while consuming vast human and planetary resources in the process. The Universities of Toronto and Warwick are preparing our PhD students to take a leading role in addressing these global challenges by taking a global approach to PhD research and education that centers Data Justice, Social Justice, and Sustainability in Technology Design.</p>
 
 <p>Warwick PI: <a href="https://warwick.ac.uk/fac/cross_fac/cim/people/siddharth-de-souza/">Dr Siddharth De Souza</a></p>
 
