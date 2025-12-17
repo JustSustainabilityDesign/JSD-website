@@ -32,6 +32,7 @@ Not all is work at the JSD. In 2025, we also gathered for picnics, hikes and gam
 
 
 
+
 ## The JSD Lab is happy to host two International Graduate students in 2025.
 
 **Victoria Landau** investigates how cultural and research institutions approach digital sustainability, preservation, and curation. Her doctoral research at the University of Basel examines how institutional decision-making shapes heritage collections, both analog and digital, and how open standards support long-term access and preservation. We are grateful for the insight and energy she brought to our community. Wishing you continued success on your PhD journey, Victoria!
@@ -46,7 +47,7 @@ Not all is work at the JSD. In 2025, we also gathered for picnics, hikes and gam
 
 Authored by **Han Qiao, Siyi Wu, and Christoph Becker**, [the winning paper](https://programs.sigchi.org/cscw/2025/program/content/211549) explores how community organizations navigate and negotiate data, ranging from local, lived information (“near data”) to large scale, processed datasets (“far data”). The study uncovers design possibilities for tools that center community expertise in building sustainable urban futures. PhD Candidate Han Qiao, who presented the work, grounds her doctoral research in a deceptively simple question: How do our everyday encounters with data influence the way we imagine—and shape—the cities around us? Her dissertation examines how our interactions with data inform our relationships to physical spaces and our collective imaginaries of urban futures.
 
-This research continues through the [**School of Cities Urban Challenge Grant (2025–2027)**](https://schoolofcities.utoronto.ca/programs-opportunities/urban-challenge-grant/urban-challenge-grants-4), in collaboration with the Visionary Communities team in Scarborough. Together, we are developing practices that make heavily processed (far) data relevant for local knowledge contexts and aspirations, and re-embed community generated knowledges and aspirations (near data) in a far-data context to help municipal decision-makers better recognize, value, and act upon the insights and aspirations of community-based changemakers.[Read the full text.](https://doi.org/10.1145/3710901)
+This research continues through the [**School of Cities Urban Challenge Grant (2025–2027)**](https://schoolofcities.utoronto.ca/programs-opportunities/urban-challenge-grant/urban-challenge-grants-4), in collaboration with the Visionary Communities team in Scarborough. Together, we are developing practices that make heavily processed (far) data relevant for local knowledge contexts and aspirations, and re-embed community generated knowledges and aspirations (near data) in a far-data context to help municipal decision-makers better recognize, value, and act upon the insights and aspirations of community-based changemakers. [**Read the full text**.](https://doi.org/10.1145/3710901)
 
 
 
@@ -54,7 +55,7 @@ This research continues through the [**School of Cities Urban Challenge Grant (2
 
 In March 2025, a group of leading practitioners, policy experts, and researchers — including **Christoph Becker** — convened at Dagstuhl Leibniz Center for Informatics in Germany on invitation of the ACM to examine a pressing question: What is computing’s responsibility in the current climate crisis? The resulting **Dagstuhl Manifesto** is a wide-ranging call for a fundamental shift in how computational systems are designed, deployed, and governed.
 
-The Manifesto challenges the assumption that efficiency gains or technological optimism alone can offset the rapidly escalating environmental impacts of digital infrastructures. Instead, it argues for reorienting computing toward sufficiency, long-term durability, human rights, and planetary boundaries. It underscores the need for transparent environmental assessments, a stronger role for computing professionals in shaping digital policy, and a renewed commitment to climate-conscious education and practice. For those working at the intersection of technology, sustainability, and justice, this document offers an essential framework for the years ahead.[Read the full text.](https://doi.org/10.4230/DagMan.11.1.1)
+The Manifesto challenges the assumption that efficiency gains or technological optimism alone can offset the rapidly escalating environmental impacts of digital infrastructures. Instead, it argues for reorienting computing toward sufficiency, long-term durability, human rights, and planetary boundaries. It underscores the need for transparent environmental assessments, a stronger role for computing professionals in shaping digital policy, and a renewed commitment to climate-conscious education and practice. For those working at the intersection of technology, sustainability, and justice, this document offers an essential framework for the years ahead. [**Read the full text**.](https://doi.org/10.4230/DagMan.11.1.1)
 
 
 
@@ -62,7 +63,7 @@ The Manifesto challenges the assumption that efficiency gains or technological o
 
 On November 25, an international panel of scholar-activists came together to examine the expanding influence of generative AI across universities and the urgent need to push back. From escalating energy and water consumption to disruptions in learning, academic integrity, and governance, the session unpacked the social, environmental, and political risks of AI’s rapid adoption.
 
-Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable. If you missed the live event, you can now [watch the full recording here](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?start=1h24m59s)
+Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable. If you missed the live event, you can now [**watch the full recording here**](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?start=1h24m59s)
 
 
 
@@ -89,8 +90,12 @@ Our team presented this work at [ACM FAccT 2025](https://facctconference.org/), 
 > Eshta Bhardwaj, Han Qiao, Rowan O.A. Munson, and Christoph Becker. 2025. Humour as Resistance: Creative Approaches to Data Center Accountability. Proc. of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '25). Association for Computing Machinery, New York, NY, USA, 831–836. [https://doi.org/10.1145/3715335.3737682](https://doi.org/10.1145/3715335.3737682)
 
 
+<div align="center">
 
-**Follow Save the AI**
+**Follow Save the AI** 
+
+</div>
+
   
 <table style="border-collapse: collapse; margin: 0 auto;">
   <tr>
