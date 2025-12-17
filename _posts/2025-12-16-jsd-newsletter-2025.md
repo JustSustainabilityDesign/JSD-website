@@ -8,23 +8,25 @@ excerpt: "Welcome to the first edition of the JSD Lab newsletter. This year has 
 ---
 
 
-Welcome to the first edition of the JSD Lab newsletter. This year has been full of creative experimentation, collaborative research, and new local and international partnerships. We’re excited to share highlights from our community.
 
-## Welcome to the Lab!
+# Welcome to the first edition of the JSD Lab newsletter. This year has been full of creative experimentation, collaborative research, and new local and international partnerships. We’re excited to share highlights from our community.
 
-This fall, the JSD Lab welcomed four graduate students.
+{%
+  include figure.html
+  image="images/fall_2025.png"
+  width="20%"
+%}
+
+# Welcome to the Lab!
+## This fall, the JSD Lab welcomed four graduate students.
 
 **Nadia Mariyan Smith** is a PhD student in the Faculty of Information at the University of Toronto. With a background in community work, they are interested in justice-oriented, more-than-human design approaches that emphasize collective well-being and ecological sustainability. Nadia holds a Master of Information in User Experience Design and a Bachelor of Fine Arts in Photography.
 
 **Nils Bonfils** is a PhD student in the Faculty of Information at UofT. After completing his BSc and MSc degrees in Computer Science at EPFL, he worked in the banking and telecom industries as a Software Engineer for a few years. This allowed him to recognize the proportions and unsustainability of modern technological trends. He decided to pursue a PhD to explore and understand alternative ontologies in which information technology practices can be made more sustainable. His research interests span across Information, Computer Science, STS and the Environment. Other subtopics of interest are permacomputing, technology otherwise, convivial computing and digital degrowth.
 
-**Rowan O.A. Munson** is a PhD student at the Faculty of Information at the University of Toronto. His research interests focus on reconnecting technology to people, place, and planet. He is particularly interested in methods that are participatory, that broaden perspectives beyond WEIRD (Western, Educated, Industrialized, Rich, and Democratic) contexts, and that bridge academic theory and industry practice to create real-world impact.
+**Rowan O.A. Munson** is a PhD student at the Faculty of Information at the University of Toronto. His research interests focus on reconnecting technology to people, place, and planet. He is particularly interested in methods that are participatory, that broaden perspectives beyond WEIRD (Western, Educated, Industrialized, Rich, and Democratic) contexts, and that bridge academic theory and industry practice to create real-world impact. Previously, Rowan managed social research projects for UK Government agencies and charities, and published and lectured in Health and Social Care. He has advocated for policy changes to address social and environmental injustices and continues to engage in advocacy efforts to drive meaningful change. He holds an MSc in Behavioural and Data Science from the University of Warwick, UK; and a BA in Philosophy, Politics, and Economics from the University of Oxford, UK.
 
-Previously, Rowan managed social research projects for UK Government agencies and charities, and published and lectured in Health and Social Care. He has advocated for policy changes to address social and environmental injustices and continues to engage in advocacy efforts to drive meaningful change. He holds an MSc in Behavioural and Data Science from the University of Warwick, UK; and a BA in Philosophy, Politics, and Economics from the University of Oxford, UK.
-
-**Cristian Velasquez** is an artist, photographer, and specialist in digital communication strategies and content production. He is currently pursuing a Master of Information at the University of Toronto, where he also leads communications and engagement for both the Just Sustainability Design Lab and the Knowledge Media Design Institute.
-
-Cristian’s artistic practice centers on documentation, making marginalized cultural practices and community histories visible. Over the past two years, he has been developing an ongoing visual archive of Toronto’s nightlife and culture. He has previously worked at the University of Toronto Scarborough Library, where he led initiatives to mobilize digital collections. In Colombia, he worked at the Ministry of Culture, contributing to the design and implementation of inclusion and diversity policies, advancing national literacy initiatives, and supporting public education and engagement.
+**Cristian Velasquez** is an artist, photographer, and specialist in digital communication strategies and content production. He is currently pursuing a Master of Information at the University of Toronto, where he also leads communications and engagement for both the Just Sustainability Design Lab and the Knowledge Media Design Institute. Cristian’s artistic practice centers on documentation, making marginalized cultural practices and community histories visible. Over the past two years, he has been developing an ongoing visual archive of Toronto’s nightlife and culture. He has previously worked at the University of Toronto Scarborough Library, where he led initiatives to mobilize digital collections. In Colombia, he worked at the Ministry of Culture, contributing to the design and implementation of inclusion and diversity policies, advancing national literacy initiatives, and supporting public education and engagement.
 
 ## International Graduate Students
 
