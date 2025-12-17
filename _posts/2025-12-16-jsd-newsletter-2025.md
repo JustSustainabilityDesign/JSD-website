@@ -16,7 +16,12 @@ excerpt: "Welcome to the first edition of the JSD Lab newsletter. This year has 
   image="images/fall_2025.png"
 %}
 
-Not all is work at the JSD. In 2025, we also gathered for picnics, hikes and games!
+<div align="center">
+  <strong>Not all is work at the JSD. In 2025, we also gathered for picnics, hikes and games!</strong><br>
+
+</div>
+
+
 
 
 # Welcome to the Lab!
@@ -47,7 +52,7 @@ Not all is work at the JSD. In 2025, we also gathered for picnics, hikes and gam
 
 Authored by **Han Qiao, Siyi Wu, and Christoph Becker**, [the winning paper](https://programs.sigchi.org/cscw/2025/program/content/211549) explores how community organizations navigate and negotiate data, ranging from local, lived information (“near data”) to large scale, processed datasets (“far data”). The study uncovers design possibilities for tools that center community expertise in building sustainable urban futures. PhD Candidate Han Qiao, who presented the work, grounds her doctoral research in a deceptively simple question: How do our everyday encounters with data influence the way we imagine—and shape—the cities around us? Her dissertation examines how our interactions with data inform our relationships to physical spaces and our collective imaginaries of urban futures.
 
-This research continues through the [**School of Cities Urban Challenge Grant (2025–2027)**](https://schoolofcities.utoronto.ca/programs-opportunities/urban-challenge-grant/urban-challenge-grants-4), in collaboration with the Visionary Communities team in Scarborough. Together, we are developing practices that make heavily processed (far) data relevant for local knowledge contexts and aspirations, and re-embed community generated knowledges and aspirations (near data) in a far-data context to help municipal decision-makers better recognize, value, and act upon the insights and aspirations of community-based changemakers. [**Read the full text**.](https://doi.org/10.1145/3710901)
+This research continues through the [School of Cities Urban Challenge Grant (2025–2027)](https://schoolofcities.utoronto.ca/programs-opportunities/urban-challenge-grant/urban-challenge-grants-4), in collaboration with the Visionary Communities team in Scarborough. Together, we are developing practices that make heavily processed (far) data relevant for local knowledge contexts and aspirations, and re-embed community generated knowledges and aspirations (near data) in a far-data context to help municipal decision-makers better recognize, value, and act upon the insights and aspirations of community-based changemakers. [Read the full text.](https://doi.org/10.1145/3710901)
 
 
 
@@ -55,7 +60,7 @@ This research continues through the [**School of Cities Urban Challenge Grant (2
 
 In March 2025, a group of leading practitioners, policy experts, and researchers — including **Christoph Becker** — convened at Dagstuhl Leibniz Center for Informatics in Germany on invitation of the ACM to examine a pressing question: What is computing’s responsibility in the current climate crisis? The resulting **Dagstuhl Manifesto** is a wide-ranging call for a fundamental shift in how computational systems are designed, deployed, and governed.
 
-The Manifesto challenges the assumption that efficiency gains or technological optimism alone can offset the rapidly escalating environmental impacts of digital infrastructures. Instead, it argues for reorienting computing toward sufficiency, long-term durability, human rights, and planetary boundaries. It underscores the need for transparent environmental assessments, a stronger role for computing professionals in shaping digital policy, and a renewed commitment to climate-conscious education and practice. For those working at the intersection of technology, sustainability, and justice, this document offers an essential framework for the years ahead. [**Read the full text**.](https://doi.org/10.4230/DagMan.11.1.1)
+The Manifesto challenges the assumption that efficiency gains or technological optimism alone can offset the rapidly escalating environmental impacts of digital infrastructures. Instead, it argues for reorienting computing toward sufficiency, long-term durability, human rights, and planetary boundaries. It underscores the need for transparent environmental assessments, a stronger role for computing professionals in shaping digital policy, and a renewed commitment to climate-conscious education and practice. For those working at the intersection of technology, sustainability, and justice, this document offers an essential framework for the years ahead. [Read the full text.](https://doi.org/10.4230/DagMan.11.1.1)
 
 
 
@@ -63,7 +68,7 @@ The Manifesto challenges the assumption that efficiency gains or technological o
 
 On November 25, an international panel of scholar-activists came together to examine the expanding influence of generative AI across universities and the urgent need to push back. From escalating energy and water consumption to disruptions in learning, academic integrity, and governance, the session unpacked the social, environmental, and political risks of AI’s rapid adoption.
 
-Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable. If you missed the live event, you can now [**watch the full recording here**](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?start=1h24m59s)
+Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable. If you missed the live event, you can now [watch the full recording here](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?start=1h24m59s)
 
 
 
@@ -91,11 +96,9 @@ Our team presented this work at [ACM FAccT 2025](https://facctconference.org/), 
 
 
 <div align="center">
-
-**Follow Save the AI** 
+  <strong>Follow Save the AI</strong><br>
 
 </div>
-
   
 <table style="border-collapse: collapse; margin: 0 auto;">
   <tr>
@@ -198,9 +201,7 @@ We’re delighted to share that the JSD Lab will have two contributions at the A
 
 
 **Crip HCI: Cyborg Perspectives on Disability Justice**
-Professor Christoph Becker brings together a collective of disabled researchers and artists in organizing Crip HCI: Cyborg Perspectives on Disability Justice. This workshop brings together medical “cyborgs”—individuals living with devices such as insulin pumps, prosthetics, pacemakers, and sensors—to reflect on the politics, vulnerabilities, and creativity embedded in cyborg life. Grounded in disability justice, crip theory, and lived experience, the workshop challenges extractive, techno-solutionist approaches and centers the knowledge of disabled people as foundational to imagining new sociotechnical futures. Participants will share work, build community, and explore how cyborg perspectives can reshape research, design, and policy in HCI.
-
-[Website forthcoming](https://t1design.org/chi-2026)
+Professor Christoph Becker brings together a collective of disabled researchers and artists in organizing Crip HCI: Cyborg Perspectives on Disability Justice. This workshop brings together medical “cyborgs”—individuals living with devices such as insulin pumps, prosthetics, pacemakers, and sensors—to reflect on the politics, vulnerabilities, and creativity embedded in cyborg life. Grounded in disability justice, crip theory, and lived experience, the workshop challenges extractive, techno-solutionist approaches and centers the knowledge of disabled people as foundational to imagining new sociotechnical futures. Participants will share work, build community, and explore how cyborg perspectives can reshape research, design, and policy in HCI. [Website forthcoming](https://t1design.org/chi-2026)
 
 
 
@@ -210,9 +211,7 @@ A cross-institutional team including the JSD Lab researcher Han Qiao and Profess
 
 Drawing on the growing field of post-growth HCI, the workshop invites educators, students, and practitioners to co-design a “living syllabus,” rethink evaluation systems, and explore how teaching itself can serve as an infrastructural practice for sustainable and just futures in computing.
 
-This contribution continues the momentum from previous CHI workshops and strengthens an international community dedicated to post-growth teaching and practice.
-
-More info soon
+This contribution continues the momentum from previous CHI workshops and strengthens an international community dedicated to post-growth teaching and practice. More info soon
 
 
 ---
