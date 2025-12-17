@@ -9,12 +9,11 @@ excerpt: "Welcome to the first edition of the JSD Lab newsletter. This year has 
 
 
 
-# Welcome to the first edition of the JSD Lab newsletter. This year has been full of creative experimentation, collaborative research, and new local and international partnerships. We’re excited to share highlights from our community.
+## Welcome to the first edition of the JSD Lab newsletter. This year has been full of creative experimentation, collaborative research, and new local and international partnerships. We’re excited to share highlights from our community.
 
 {%
   include figure.html
   image="images/fall_2025.png"
-  width="20%"
 %}
 
 # Welcome to the Lab!
