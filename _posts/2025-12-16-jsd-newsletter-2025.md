@@ -22,7 +22,18 @@ excerpt: "Welcome to the first edition of the JSD Lab newsletter. This year has 
 </div>
 ---
 
+<h2 align="center">Contents</h2>
 
+<p align="center">
+  <a href="https://justsustainabilitydesign.org/2025/12/16/jsd-newsletter-2025.html#welcome-to-the-lab">WELCOME TO THE LAB!</a><br>
+  <a href="https://justsustainabilitydesign.org/2025/12/16/jsd-newsletter-2025.html#achievements-and-collaborations">ACHIEVEMENTS AND COLLABORATIONS</a><br>
+  <a href="https://justsustainabilitydesign.org/2025/12/16/jsd-newsletter-2025.html#projects">PROJECTS</a><br>
+  <a href="https://justsustainabilitydesign.org/2025/12/16/jsd-newsletter-2025.html#research-funding">RESEARCH FUNDING</a><br>
+  <a href="https://justsustainabilitydesign.org/2025/12/16/jsd-newsletter-2025.html#publications">PUBLICATIONS</a><br>
+  <a href="https://justsustainabilitydesign.org/2025/12/16/jsd-newsletter-2025.html#coming-up">COMING UP</a>
+</p>
+
+---
 
 # Welcome to the Lab!
 ## This fall, the JSD Lab welcomed four graduate students.
