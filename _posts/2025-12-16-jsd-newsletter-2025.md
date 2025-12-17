@@ -22,7 +22,7 @@ excerpt: "Welcome to the first edition of the JSD Lab newsletter. This year has 
 </div>
 ---
 
-<h1 align="center">Contents</h1>
+<h1>Contents</h1>
 
 <p align="center">
   <a href="https://justsustainabilitydesign.org/2025/12/16/jsd-newsletter-2025.html#welcome-to-the-lab">WELCOME TO THE LAB!</a><br>
