@@ -17,10 +17,10 @@ excerpt: "Welcome to the first edition of the JSD Lab newsletter. This year has 
 %}
 
 <div align="center">
-  <strong>Not all is work at the JSD. In 2025, we also gathered for picnics, hikes and games!</strong><br>
+  Not all is work at the JSD. In 2025, we also gathered for picnics, hikes and games!<br>
 
 </div>
-
+---
 
 
 
