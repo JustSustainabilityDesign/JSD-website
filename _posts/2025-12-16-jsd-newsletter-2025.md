@@ -83,7 +83,7 @@ The Manifesto challenges the assumption that efficiency gains or technological o
 
 On November 25, an international panel of scholar-activists came together to examine the expanding influence of generative AI across universities and the urgent need to push back. From escalating energy and water consumption to disruptions in learning, academic integrity, and governance, the session unpacked the social, environmental, and political risks of AI’s rapid adoption.
 
-Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable. If you missed the live event, you can now [watch the full recording here](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?start=1h24m59s)
+Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable. If you missed the live event, you can now [watch the full recording here](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?)
 
 
 
