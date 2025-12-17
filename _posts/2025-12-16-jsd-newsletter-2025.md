@@ -35,6 +35,10 @@ excerpt: "Welcome to the first edition of the JSD Lab newsletter. This year has 
 
 ---
 
+# [**Subscribe to the JSD Lab Newsletter**](https://cryptpad.fr/form/#/2/form/edit/aMb4rIBtu6X2lKHdb5weYZiw/)
+
+---
+
 # Welcome to the Lab!
 ## This fall, the JSD Lab welcomed four graduate students.
 
