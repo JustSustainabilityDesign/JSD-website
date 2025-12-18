@@ -216,7 +216,7 @@ We’re delighted to share that the JSD Lab will have two contributions at the A
 
 
 **Crip HCI: Cyborg Perspectives on Disability Justice**
-Professor Christoph Becker brings together a collective of disabled researchers and artists in organizing Crip HCI: Cyborg Perspectives on Disability Justice. This workshop brings together medical “cyborgs”—individuals living with devices such as insulin pumps, prosthetics, pacemakers, and sensors—to reflect on the politics, vulnerabilities, and creativity embedded in cyborg life. Grounded in disability justice, crip theory, and lived experience, the workshop challenges extractive, techno-solutionist approaches and centers the knowledge of disabled people as foundational to imagining new sociotechnical futures. Participants will share work, build community, and explore how cyborg perspectives can reshape research, design, and policy in HCI. [Website forthcoming](https://t1design.org/chi-2026)
+Professor Christoph Becker brings together a collective of disabled researchers and artists in organizing Crip HCI: Cyborg Perspectives on Disability Justice. This workshop brings together medical “cyborgs”—individuals living with devices such as insulin pumps, prosthetics, pacemakers, and sensors—to reflect on the politics, vulnerabilities, and creativity embedded in cyborg life. Grounded in disability justice, crip theory, and lived experience, the workshop challenges extractive, techno-solutionist approaches and centers the knowledge of disabled people as foundational to imagining new sociotechnical futures. Participants will share work, build community, and explore how cyborg perspectives can reshape research, design, and policy in HCI. [More info here](https://t1dsign.org/chi-2026)
 
 
 
