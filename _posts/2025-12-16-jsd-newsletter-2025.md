@@ -35,7 +35,7 @@ excerpt: "Welcome to the first edition of the JSD Lab newsletter. This year has 
 
 ---
 
-# [**Subscribe to the JSD Lab Newsletter**](https://cryptpad.fr/form/#/2/form/edit/aMb4rIBtu6X2lKHdb5weYZiw/)
+# [**Subscribe to the JSD Lab Newsletter**](https://cryptpad.fr/form/#/2/form/view/-2dkjtFJsIalR1iNIqPSAUj+zGMXVu9I+AV2NerRQ2M/)
 
 ---
 
@@ -238,7 +238,7 @@ This contribution continues the momentum from previous CHI workshops and strengt
 
 ---
 
-# [**Subscribe to the JSD Lab Newsletter**](https://cryptpad.fr/form/#/2/form/edit/aMb4rIBtu6X2lKHdb5weYZiw/)
+# [**Subscribe to the JSD Lab Newsletter**](https://cryptpad.fr/form/#/2/form/view/-2dkjtFJsIalR1iNIqPSAUj+zGMXVu9I+AV2NerRQ2M/)
 
 ---
 
