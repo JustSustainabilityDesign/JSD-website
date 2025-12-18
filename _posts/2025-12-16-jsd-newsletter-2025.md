@@ -85,6 +85,13 @@ On November 25, an international panel of scholar-activists came together to exa
 
 Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable. If you missed the live event, you can now [watch the full recording here](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?)
 
+## From Tech Lash to Tech Fash: Strategic Reflections on a Decade of Collective Organizing in Computing
+
+On August 19, as part of the Aarhus 2025 conference, this workshop brought together seasoned and early-career technologists, practitioners, and scholar-activists to collectively reflect on how the field has shifted over the past decade from what Tamara Kneese has described as “techlash” to “tech fash” (Kneese, 2025). Participants explored how lessons from struggles around misinformation, algorithmic bias, surveillance capitalism, and tech worker organizing might inform contemporary resistance to the growing power of a techno-fascist oligarchy. By bridging past and present moments, the session created space for collective sense-making and strategic thinking about how to respond to today’s intersecting social, political, and technological crises.
+
+Learn more about the discussions and reflections from the workshop:
+
+> Linda Huber, Pedro Reynolds-Cuéllar, Alicia DeVrio, Jensine Raihan, Cella M. Sum, Lynn Dombrowski, Justine Zhang, Christoph Becker, Lilly Irani, P. M. Krafft, and Margaret Hughes. 2025. From Tech Lash to Tech Fash: Strategic Reflections on a Decade of Collective Organizing in Computing. In Adjunct Proceedings of the Sixth Decennial Aarhus Conference: Computing X Crisis (AAR Adjunct ’25). Association for Computing Machinery, New York, NY, USA, Article 26, 1–4. [https://doi.org/10.1145/3737609.3747097](https://doi.org/10.1145/3737609.3747097)
 
 
 ## Two of our members are now PhD Candidates!
