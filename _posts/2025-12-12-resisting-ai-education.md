@@ -14,3 +14,7 @@ Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (U
 If you missed the live event, you can now [watch the full recording here](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?)
 
 ## The organizers also compiled a [resource document](https://justsustainabilitydesign.org/resistinggenerativeai/LinksResources.pdf) with links to recent news, articles, movements, and organizations.
+
+Co-sponsored by:
+[Climate Justice Universities Union](https://climatejusticeuniversitiesunion.org/)
+[Climate Campus Network](https://www.campusclimatenetwork.org/)
