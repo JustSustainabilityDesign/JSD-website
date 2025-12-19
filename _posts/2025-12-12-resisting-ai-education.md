@@ -12,7 +12,9 @@ On November 25, an international panel of scholar-activists came together to exa
 Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable.
 
 Co-sponsored by:
+
 [Climate Justice Universities Union](https://climatejusticeuniversitiesunion.org/)
+
 [Climate Campus Network](https://www.campusclimatenetwork.org/)
 
 
