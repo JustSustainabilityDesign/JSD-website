@@ -11,10 +11,16 @@ On November 25, an international panel of scholar-activists came together to exa
 
 Speakers included Christoph Becker (University of Toronto), Mary Finley-Brook (University of Richmond), Dan McQuillan (Goldsmiths, University of London), Sinéad Sheehan (University of Galway), Jennie Stephens (National University of Ireland Maynooth), and Paul Lachapelle (Montana State University). They shared concrete examples of resistance and refusal, offering pathways for collective action and for challenging the narrative that AI’s expansion is inevitable.
 
-If you missed the live event, you can now [watch the full recording here](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?)
-
-## The organizers also compiled a [resource document](https://justsustainabilitydesign.org/resistinggenerativeai/LinksResources.pdf) with links to recent news, articles, movements, and organizations.
-
 Co-sponsored by:
 [Climate Justice Universities Union](https://climatejusticeuniversitiesunion.org/)
 [Climate Campus Network](https://www.campusclimatenetwork.org/)
+
+
+
+# Resources
+
+## If you missed the live event, you can now [watch the full recording here](https://tubedu.org/w/teHCy6pkiKpS64j6F4CBgC?)
+
+## More information available in this [resource document](https://justsustainabilitydesign.org/resistinggenerativeai/LinksResources.pdf) with links to recent news, articles, movements, and organizations.
+
+
