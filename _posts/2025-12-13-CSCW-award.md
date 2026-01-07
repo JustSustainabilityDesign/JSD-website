@@ -1,6 +1,6 @@
 ---
 title: "Near Data and Far Data - Best Paper Award at CSCW 2025"
-author: Han-Qiao
+author: Han Qiao
 last_modified_at: ""
 tags:
   - milestone
