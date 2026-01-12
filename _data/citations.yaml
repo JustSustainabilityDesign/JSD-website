@@ -358,7 +358,8 @@
   type: paper
 - id: isbn:978-1-4503-7606-8
   title: The Design of Pseudo-Participation
-  authors: []
+  authors:
+  - Chiara Del Gaudio
   publisher: Proc. PDC vol 2
   date: '2025-03-14'
   link: http://doi.org/10.1145/3384772.3385141
