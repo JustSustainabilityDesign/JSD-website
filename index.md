@@ -17,11 +17,11 @@ At the lab, researchers, students, and community partners come together to imagi
 
 At the JSD Lab, we believe **another tech future is possible**. Through transdisciplinary research, collaborative design, and public engagement, we pursue:
 
-**Technologies Otherwise**: exploring **degrowth** and other **pathways to postgrowth**, and challenging the cultures of consumption and infinite capital accumulation.
+- **Technologies Otherwise**: exploring **degrowth** and other **pathways to postgrowth**, and challenging the cultures of consumption and infinite capital accumulation.
 
-**Just Sustainabilities**: integrating **environmental and social justice** into computing and technology design. 
+- **Just Sustainabilities**: integrating **environmental and social justice** into computing and technology design. 
 
-**Convivial Technologies**: cultivating systems that nurture **cooperation, community, and joy** beyond the confines of capitalism.
+- **Convivial Technologies**: cultivating systems that nurture **cooperation, community, and joy** beyond the confines of capitalism.
 
 ## Current Projects
 {% include list.html component="card" data="currentprojects" filters="group: "%}
