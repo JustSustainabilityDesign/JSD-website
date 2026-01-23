@@ -12,14 +12,16 @@ image_sliders:
 
 ## What We Do and Why
 
-The overarching theme of our group is to conduct  **impactful research on designing information technology for sustainability and social justice, which converge in just sustainability**. The aim is often to enact meaningful change in tech to meet the urgent need for sustainability and social justice. 
+The **Just Sustainability Design Lab (JSD Lab)** at the University of Toronto’s Faculty of Information explores how technology can serve social justice, environmental sustainability, and community well-being.
+At the lab, researchers, students, and community partners come together to imagine and design technologies that **sustain life rather than deplete it**. We work across fields and disciplines to create systems and practices that foster **life, equity, and care**.
 
- The aim is that each project we engage in has the potential to make a difference in shifting our world on a more sustainable and just course, and that some actually do. Design is understood very broadly as the ‘interaction between creation and understanding’ (following Winograd and Flores’ [book]([url](https://www.goodreads.com/es/book/show/53482.Understanding_Computers_and_Cognition))). We engage in designing by building technology, but equally in studies and critique of how things are, visions of how they could be, investigations of socio-technical, social or cognitive phenomena relevant to design, reflections, and other types of research.  
+At the JSD Lab, we believe **another tech future is possible**. Through transdisciplinary research, collaborative design, and public engagement, we pursue:
 
-Our research activities involve:
-1. critical examinations of the politics, values, and cognitive processes of design,
-2. the development of methods and tools for just sustainability design, and
-3. design projects to bring forth just sustainabilities in urban contexts
+**Technologies Otherwise**: exploring **degrowth** and other **pathways to postgrowth**, and challenging the cultures of consumption and infinite capital accumulation.
+
+**Just Sustainabilities**: integrating **environmental and social justice** into computing and technology design. 
+
+**Convivial Technologies**: cultivating systems that nurture **cooperation, community, and joy** beyond the confines of capitalism.
 
 ## Current Projects
 {% include list.html component="card" data="currentprojects" filters="group: "%}
