@@ -12,14 +12,16 @@ header {
   z-index: 10 !important;
 }
 
-header a {
-  color: var(--text);
-  text-decoration: none;
+header,
+header[data-big] {
+  background-image: none !important;
+  background-color: #dbebba !important;
+  background-blend-mode: normal !important;
 }
 
 header,
 header a {
-  color: #000000;
+  color: #000000 !important;
 }
 
 .home {
@@ -56,7 +58,7 @@ header a {
 }
 
 .title > *:last-child {
-  opacity: 0.65;
+  opacity: 0.9;
   font-weight: var(--thin);
 }
 
