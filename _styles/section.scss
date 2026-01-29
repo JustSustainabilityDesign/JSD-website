@@ -43,12 +43,19 @@ section.home-title {
 }
 
 section#-just-sustainability-design-lab {
-  background: #a8c98a;
-  color: #000000;  
+  background: #2f6b3f;
+  color: #ffffff;
 }
 
-section#-just-sustainability-design-lab a {
-  color: #000000;
+
+section#-just-sustainability-design-lab a,
+section#-just-sustainability-design-lab .icon {
+  color: #ffffff;
   text-decoration: none;
 }
+
+section#-just-sustainability-design-lab a:hover {
+  color: #dbebba;
+}
+
 
