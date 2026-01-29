@@ -37,3 +37,7 @@ main > section:nth-of-type(odd) {
 main > section:nth-of-type(even) {
   background: var(--background-alt);
 }
+
+section.home-title {
+  background: #b8d6a3; // darker green for the home title band
+}

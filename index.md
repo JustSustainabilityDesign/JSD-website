@@ -4,7 +4,7 @@ image_sliders:
   - slider2
 ---
 
-{% include section.html background="#dbebba" %}
+{% include section.html class="home-title" %}
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %} Just Sustainability Design Lab
 
@@ -166,5 +166,4 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 
 {% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
 
-
-
+D
