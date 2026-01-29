@@ -3,7 +3,7 @@
 
 $logo-big: 80px;
 $logo: 40px;
-$big-padding: 100px;
+$big-padding: 55px; // was 100px (reduced hero height)
 $collapse: 700px;
 $sticky: true;
 
@@ -15,8 +15,14 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  
-  background: var(--background-alt);
+
+  // plain color header everywhere
+  background-color: #dbebba;
+  background-image: none;
+  background-blend-mode: normal;
+
+  // subtle divider (optional but recommended)
+  border-bottom: 1px solid var(--light-gray);
 
   @if $sticky {
     position: sticky !important;
@@ -25,18 +31,16 @@ header {
   }
 }
 
-header,
-header[data-big] {
-  background-image: none !important;
-  background-color: #dbebba !important;
-  background-blend-mode: normal !important;
-}
-
-header,
+// links: black, no underline (minimalist)
 header a {
-  color: #000000 !important;
+  color: #000000;
+  text-decoration: none;
 }
 
+// home link/title link should also stay clean
+header a:hover {
+  text-decoration: none;
+}
 
 .home {
   display: flex;
@@ -72,10 +76,10 @@ header a {
   font-size: var(--large);
 }
 
-// subtitle
+// subtitle (more readable on light green)
 .title > *:last-child {
-  opacity: 0.9;
-  font-weight: var(--thin);
+  opacity: 0.8; // was 0.9
+  font-weight: var(--regular); // was var(--thin)
 }
 
 .nav-toggle {
@@ -84,7 +88,7 @@ header a {
   width: 30px;
   height: 30px;
   margin: 0;
-  color: var(--text);
+  color: #000000; // keep icon black on green
   -webkit-appearance: none;
   appearance: none;
   transition-property: background;
@@ -95,7 +99,7 @@ header a {
   position: absolute;
   left: 50%;
   top: 50%;
-  color: var(--text);
+  color: #000000; // keep icon black on green
   font-size: 15px;
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
@@ -118,10 +122,14 @@ nav {
 
 nav > a {
   padding: 5px;
+  text-decoration: none;
+  font-weight: var(--regular);
+  letter-spacing: 0.03em;
 }
 
 nav > a:hover {
   color: var(--primary);
+  text-decoration: none;
 }
 
 header:not([data-big]) {
