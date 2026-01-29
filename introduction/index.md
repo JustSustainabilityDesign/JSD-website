@@ -95,7 +95,7 @@ The book situates computing within the intertwined crises of environmental degra
 {%
   include button.html
   text="Borrow from Toronto Public Library"
-  link="https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM4384068&R=4384068"
+  link="https://tpl.bibliocommons.com/v2/record/S234C4384068"
 %}
 
 {% include section.html %}
