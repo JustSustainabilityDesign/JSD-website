@@ -4,7 +4,7 @@ image_sliders:
   - slider2
 ---
 
-{% include section.html background="images/green.png" dark=true %}
+{% include section.html background="#dbebba" %}
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %} Just Sustainability Design Lab
 
@@ -57,7 +57,7 @@ At the JSD Lab, we believe **another tech future is possible**. Through transdis
 
 %}
 
-{% include section.html background="images/green.png" dark=true %}
+{% include section.html background="#dbebba" %}
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Introducing Just Sustainability Design
 
