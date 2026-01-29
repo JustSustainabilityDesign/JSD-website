@@ -6,9 +6,6 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  background-image: none;
-  background-color: #dbebba;
-  background-blend-mode: normal;
   position: sticky !important;
   top: 0;
   z-index: 10 !important;
@@ -97,7 +94,6 @@ nav {
 
 nav > a {
   padding: 5px;
-  color: #000000;
 }
 
 nav > a:hover {
