@@ -59,19 +59,6 @@ As a consequence, JSD must grapple seriously with five interconnected challenges
 
 ## How to Reorient Computing for Just Sustainability
 
-{% include section.html %}
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="/images/insolvent.png"
-  width="20%"
-%}
-{% endcapture %}
-
-{% include cols.html col1=col1 %}
-
-
 JSD is developed in depth in the book **_Insolvent: How to Reorient Computing for Just Sustainability_**, which offers a sustained critique of dominant computing paradigms and articulates how systems design can be reoriented toward sustainability and justice.
 
 The book situates computing within the intertwined crises of environmental degradation, social injustice, and democratic erosion. It argues that contemporary computing practices have accumulated societal and ecological debts that cannot be repaid within existing conceptual frameworks—and that a reorientation of design perspectives is therefore necessary.
@@ -95,7 +82,7 @@ The book situates computing within the intertwined crises of environmental degra
 {%
   include button.html
   text="Borrow from Toronto Public Library"
-  link="https://tpl.bibliocommons.com/v2/record/S234C4384068"
+  link="https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM4384068&R=4384068"
 %}
 
 {% include section.html %}
@@ -139,16 +126,15 @@ A guided framework for reading and discussing *Insolvent* in classrooms, reading
 {% capture col1 %}
 {%
   include figure.html
-  image="/images/Image20230608181024.png"
+  image="images/Image20230608181024.png"
 %}
 {% endcapture %}
 
 {% capture col2 %}
 {%
   include figure.html
-  image="/images/compulsory.png"
+  image="images/compulsory.png"
 %}
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
