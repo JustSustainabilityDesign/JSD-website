@@ -7,7 +7,7 @@ nav:
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-microscope" %} Introduction to Just Sustainability Design
+# {% include icon.html icon="fa-solid fa-microscope" %} Insolvent: Introduction to Just Sustainability Design
 
 {% include section.html %}
 
@@ -57,7 +57,20 @@ As a consequence, JSD must grapple seriously with five interconnected challenges
 
 {% include section.html %}
 
-## Insolvent: How to Reorient Computing for Just Sustainability
+## How to Reorient Computing for Just Sustainability
+
+{% include section.html %}
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="/images/insolvent.png"
+  width="20%"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 %}
+
 
 JSD is developed in depth in the book **_Insolvent: How to Reorient Computing for Just Sustainability_**, which offers a sustained critique of dominant computing paradigms and articulates how systems design can be reoriented toward sustainability and justice.
 
@@ -126,15 +139,16 @@ A guided framework for reading and discussing *Insolvent* in classrooms, reading
 {% capture col1 %}
 {%
   include figure.html
-  image="images/Image20230608181024.png"
+  image="/images/Image20230608181024.png"
 %}
 {% endcapture %}
 
 {% capture col2 %}
 {%
   include figure.html
-  image="images/compulsory.png"
+  image="/images/compulsory.png"
 %}
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+
