@@ -42,20 +42,38 @@ section.home-title {
   background: #b8d6a3;
 }
 
-section#-just-sustainability-design-lab {
+
+section#-just-sustainability-design-lab,
+section#publications,
+section#who-we-are,
+section#recorded-talks,
+section#-introduction-to-just-sustainability-design {
   background: #2f6b3f;
   color: #ffffff;
 }
 
 
 section#-just-sustainability-design-lab a,
-section#-just-sustainability-design-lab .icon {
+section#publications a,
+section#who-we-are a,
+section#recorded-talks a,
+section#-introduction-to-just-sustainability-design a,
+section#-just-sustainability-design-lab .icon,
+section#publications .icon,
+section#who-we-are .icon,
+section#recorded-talks .icon,
+section#-introduction-to-just-sustainability-design .icon {
   color: #ffffff;
   text-decoration: none;
 }
 
-section#-just-sustainability-design-lab a:hover {
-  color: #dbebba;
+
+section#-just-sustainability-design-lab a:hover,
+section#publications a:hover,
+section#who-we-are a:hover,
+section#recorded-talks a:hover,
+section#-introduction-to-just-sustainability-design a:hover {
+  color: #dbebba; /* light green hover */
 }
 
 
