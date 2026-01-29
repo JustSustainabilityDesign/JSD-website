@@ -35,8 +35,12 @@ header[data-big] {
 header,
 header a {
   color: #000000 !important;
+  text-decoration: none;
 }
 
+header a:hover {
+  text-decoration: none;
+}
 
 .home {
   display: flex;
