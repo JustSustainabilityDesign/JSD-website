@@ -6,22 +6,22 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  background: var(--background-alt);
+  background-color: #dbebba;
+  background-image: none;
+  background-blend-mode: normal;
+  border-bottom: 1px solid var(--light-gray);
   position: sticky !important;
   top: 0;
   z-index: 10 !important;
 }
 
-header,
-header[data-big] {
-  background-image: none !important;
-  background-color: #dbebba !important;
-  background-blend-mode: normal !important;
+header a {
+  color: #000000;
+  text-decoration: none;
 }
 
-header,
-header a {
-  color: #000000 !important;
+header a:hover {
+  text-decoration: none;
 }
 
 .home {
@@ -58,8 +58,8 @@ header a {
 }
 
 .title > *:last-child {
-  opacity: 0.9;
-  font-weight: var(--thin);
+  opacity: 0.8;
+  font-weight: var(--regular);
 }
 
 .nav-toggle {
@@ -68,7 +68,7 @@ header a {
   width: 30px;
   height: 30px;
   margin: 0;
-  color: var(--text);
+  color: #000000;
   -webkit-appearance: none;
   appearance: none;
   transition-property: background;
@@ -79,7 +79,7 @@ header a {
   position: absolute;
   left: 50%;
   top: 50%;
-  color: var(--text);
+  color: #000000;
   font-size: 15px;
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
@@ -102,10 +102,14 @@ nav {
 
 nav > a {
   padding: 5px;
+  text-decoration: none;
+  font-weight: var(--regular);
+  letter-spacing: 0.03em;
 }
 
 nav > a:hover {
   color: var(--primary);
+  text-decoration: none;
 }
 
 @media (max-width: 700px) {
@@ -129,7 +133,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 100px 20px;
+  padding: 55px 20px;
   top: unset;
 }
 header[data-big] .home {
