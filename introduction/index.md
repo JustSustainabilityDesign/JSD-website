@@ -7,7 +7,7 @@ nav:
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-microscope" %} Insolvent: Introduction to Just Sustainability Design
+# {% include icon.html icon="fa-solid fa-microscope" %} Introduction to Just Sustainability Design
 
 {% include section.html %}
 
@@ -57,7 +57,7 @@ As a consequence, JSD must grapple seriously with five interconnected challenges
 
 {% include section.html %}
 
-## How to Reorient Computing for Just Sustainability
+## Insolvent: How to Reorient Computing for Just Sustainability
 
 JSD is developed in depth in the book **_Insolvent: How to Reorient Computing for Just Sustainability_**, which offers a sustained critique of dominant computing paradigms and articulates how systems design can be reoriented toward sustainability and justice.
 
@@ -82,7 +82,7 @@ The book situates computing within the intertwined crises of environmental degra
 {%
   include button.html
   text="Borrow from Toronto Public Library"
-  link="https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM4384068&R=4384068"
+  link="https://tpl.bibliocommons.com/v2/record/S234C4384068"
 %}
 
 {% include section.html %}
@@ -111,16 +111,6 @@ The *Devil’s Dictionary* offers short, critical reinterpretations of common te
 
 {% include section.html %}
 
-## Reading and Discussion Guide
-
-A guided framework for reading and discussing *Insolvent* in classrooms, reading groups, and community settings is currently in development.
-
-*Coming soon.*
-
----
-
-{% include section.html %}
-
 ## Endorsements
 
 {% capture col1 %}
@@ -138,3 +128,15 @@ A guided framework for reading and discussing *Insolvent* in classrooms, reading
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+
+---
+
+{% include section.html %}
+
+## Reading and Discussion Guide
+
+A guided framework for reading and discussing *Insolvent* in classrooms, reading groups, and community settings is currently in development.
+
+*Coming soon.*
+
+---
