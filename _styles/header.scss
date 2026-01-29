@@ -16,6 +16,10 @@ header {
   padding: 20px;
   box-shadow: var(--shadow);
 
+  background-image: none;
+  background-color: #dbebba;
+  background-blend-mode: normal;
+
   @if $sticky {
     position: sticky !important;
     top: 0;
@@ -108,6 +112,7 @@ nav {
 
 nav > a {
   padding: 5px;
+  color: #000000;
 }
 
 nav > a:hover {
