@@ -4,8 +4,8 @@ nav:
   order: 4
   tooltip: To learn more about JSD
 ---
-{% include section.html dark=true %}
-# {% include icon.html icon="fa-solid fa-microscope" %} Introduction to Just Sustainability Design
+{% include section.html %}
+# {% include icon.html icon="fa-solid fa-microscope" %} Insolvent: Introduction to Just Sustainability Design
 
 {% include section.html %}
 
