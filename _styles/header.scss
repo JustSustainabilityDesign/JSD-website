@@ -15,6 +15,8 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
+  
+  background: var(--background-alt);
 
   @if $sticky {
     position: sticky !important;
@@ -26,6 +28,11 @@ header {
 header a {
   color: var(--text);
   text-decoration: none;
+}
+
+header,
+header a {
+  color: #000000;
 }
 
 .home {
