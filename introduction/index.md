@@ -63,7 +63,6 @@ JSD is developed in depth in the book **_Insolvent: How to Reorient Computing fo
 
 The book situates computing within the intertwined crises of environmental degradation, social injustice, and democratic erosion. It argues that contemporary computing practices have accumulated societal and ecological debts that cannot be repaid within existing conceptual frameworks—and that a reorientation of design perspectives is therefore necessary.
 
-> ## How can we enact meaningful change in computing to meet the urgent need for sustainability and justice?
 
 {% capture col1 %}
 {%
@@ -74,9 +73,6 @@ The book situates computing within the intertwined crises of environmental degra
 {% endcapture %}
 
 {% include cols.html col1=col1 %}
-
-
-{% include section.html %}
 
 {%
   include button.html
@@ -96,7 +92,11 @@ The book situates computing within the intertwined crises of environmental degra
   link="https://tpl.bibliocommons.com/v2/record/S234C4384068"
 %}
 
+
+
 {% include section.html %}
+
+> ## How can we enact meaningful change in computing to meet the urgent need for sustainability and justice?
 
 The deep entanglement of information technology with contemporary societies has raised hopes that computing might support transitions toward more sustainable and just futures—futures that phase out fossil fuels, distribute public goods fairly, and enable meaningful access to information. In principle, computing should be able to help.
 
