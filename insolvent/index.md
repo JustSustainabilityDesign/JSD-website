@@ -4,7 +4,7 @@ nav:
   order: 5
   tooltip: All things about Insolvent
 ---
-{% include section.html dark=true %}
+{% include section.html %}
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Insolvent: How to Reorient Computing for Just Sustainability
 
 {% include section.html %}
