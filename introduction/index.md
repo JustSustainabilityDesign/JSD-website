@@ -65,6 +65,17 @@ The book situates computing within the intertwined crises of environmental degra
 
 > ## How can we enact meaningful change in computing to meet the urgent need for sustainability and justice?
 
+{% capture col1 %}
+{%
+  include figure.html
+  image="/images/insolvent.png"
+  width="20%"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 %}
+
+
 {% include section.html %}
 
 {%
@@ -116,14 +127,14 @@ The *Devil’s Dictionary* offers short, critical reinterpretations of common te
 {% capture col1 %}
 {%
   include figure.html
-  image="images/Image20230608181024.png"
+  image="/images/Image20230608181024.png"
 %}
 {% endcapture %}
 
 {% capture col2 %}
 {%
   include figure.html
-  image="images/compulsory.png"
+  image="/images/compulsory.png"
 %}
 {% endcapture %}
 
