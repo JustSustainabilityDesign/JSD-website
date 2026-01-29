@@ -6,6 +6,7 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
+  background: var(--background-alt);
   position: sticky !important;
   top: 0;
   z-index: 10 !important;
@@ -14,6 +15,11 @@ header {
 header a {
   color: var(--text);
   text-decoration: none;
+}
+
+header,
+header a {
+  color: #000000;
 }
 
 .home {
