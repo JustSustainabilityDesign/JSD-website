@@ -39,5 +39,16 @@ main > section:nth-of-type(even) {
 }
 
 section.home-title {
-  background: #b8d6a3; // darker green for the home title band
+  background: #b8d6a3;
 }
+
+section#-just-sustainability-design-lab {
+  background: #a8c98a;
+  color: #000000;  
+}
+
+section#-just-sustainability-design-lab a {
+  color: #000000;
+  text-decoration: none;
+}
+
