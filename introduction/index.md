@@ -1,56 +1,140 @@
 ---
-title: Introduction to JSD 
+title: Introduction to JSD
 nav:
   order: 4
   tooltip: To learn more about JSD
 ---
-{% include section.html %}
-# {% include icon.html icon="fa-solid fa-microscope" %} Insolvent: Introduction to Just Sustainability Design
 
 {% include section.html %}
 
-**Just Sustainability Design** is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. It is sensitive to the discursive nature of systems design and the dangers presented by misleading narratives that keep systems design practice captive to false consciousness. Because it centres the concerns of sustainability and justice, JSD must attend to five important factors they raise: dispersal, uncertainty and ambiguity, fragmentation, power dynamics, and incommensurability.
-
-- **Dispersal of design effects** and their ripple effects across space and time
-- **Uncertainty and ambiguity** about complex dynamic effects across time scales
-- **Fragmentation of perspective and agency** across the many stakeholders involved in or affected by design decisions
-- **Power dynamics** across direct and indirect stakeholders with unevenly distributed influence over decisions in systems design
-- **Incommensurability** across different views of the design pace it aims to address and offer a pluralist perspective
-
-JSD is developed throughout the book [Insolvent](/insolvent), which is the best source to get started. 
+# {% include icon.html icon="fa-solid fa-microscope" %} Introduction to Just Sustainability Design
 
 {% include section.html %}
 
-## Principles of JSD
+**Just Sustainability Design (JSD)** is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore attends explicitly to the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not merely avoid damage.
 
->#### Constructive and Critical
->
-> Critique is an essential element of change. To reorient systems design toward sustainability and justice, critique must also examine the norms themselves that govern how computational systems are designed today. In doing so, JSD must be critical without abandoning the generative aspects of engineering and design. The idea of critical friendship is central to achieving this.
+Because systems design is inherently discursive, JSD is attentive to the narratives, metaphors, and assumptions that shape how technological futures are imagined and justified. It responds to the danger of misleading narratives that keep design practice captive to false consciousness and instead centres sustainability and justice as first-order design concerns.
 
->#### Systemic
->
-> Because the social, the technical, and the natural are entangled with political, cultural, and economic dimensions, JSD must take a systemic perspective—a perspective that prioritizes the consideration of wholes and their relationships over the isolated analysis of individual components and their properties. The boundaries of meaningful “wholes” rarely align with organizational and technical boundaries, so the commitment to systemic thought implies the acknowledgement that technology design always designs sociotechnical rather than purely technical systems.
+As a consequence, JSD must grapple seriously with five interconnected challenges:
 
->#### Dialectic
->
-> The climate crisis has brought to the forefront central challenges for epistemology and collective action that sustainability and justice advocates have long grappled with, including the incommensurability of conflicting worldviews, the inevitable selectivity of each, and the need to nevertheless find common grounds for collective action. Just sustainability design—and in fact any systems design for the twenty-first century that tackles relevant social issues—must transcend the nomological forms of reasoning expressed by traditional science-driven approaches to “solving social problems” through deductive means alone, in favour of a pluralist dialectics of design in which multiple worldviews can meaningfully engage.
+- **Dispersal of design effects**, and their ripple effects across space and time  
+- **Uncertainty and ambiguity** about complex, dynamic effects across time scales  
+- **Fragmentation of perspective and agency** across the many stakeholders involved in or affected by design decisions  
+- **Power dynamics** across direct and indirect stakeholders with unevenly distributed influence over design choices  
+- **Incommensurability** across different worldviews, values, and understandings of the design space
 
->#### Diachronic
->
-> The delayed temporal nature, and the path-dependent nature of design decisions and ecosystems, requires a diachronic design perspective—that is, a perspective aware of temporal scales and dynamics—studying its phenomenon as it evolves over time. JSD must account for the historical profile of the processes that led to the system design, the life cycle of the system itself, the downstream and long-term impacts and consequences, and the temporal dynamics of design itself, rather than taking an atemporal focus on the “now” of design.
+---
 
->#### Contingent
->
-> Just sustainability design must be aware of its contingency and the partiality of its perspective and equipped to reflect on its already given context, boundaries, and assumptions. Contingency also means that rather than being declared complete and optimal, JSD must be thought of as a proudly incomplete project, fashioned to learn and evolve.
+{% include section.html %}
 
->#### Legitimate
->
-> The orientation toward sustainability and justice highlights the asymmetry of distant effects of design choices. Because full participation of those affected in design is not possible, JSD must grapple seriously with the question of justification. Rather than seeking a technical optimization or abandoning the generative orientation of design and engineering, the approach must aim to prioritize questions of legitimacy when systems design choices are to be justified based on their potential effects on those not involved in design.
+## Principles of Just Sustainability Design
 
->#### Reasonable, rather than rationalists
->
-> In justifying critically and systemically the choices made in systems design with regards to their uncertain and distant effects, JSD cannot rely solely on rationalist modes of deduction. They would lead us right back into the traps of universalist frameworks of an ideological nature. Instead, it must be built on reasonable arguments. This is important, and it applies both to the level of argumentation needed to develop and justify methodological commitments and principles and to the discursive level of reasoning through systems design choices. This does not preclude the application of scientific and rationalist frameworks for those issues and contexts to which they are appropriate in situations in which that is legitimate.
+> #### Constructive and Critical  
+> Critique is an essential element of change. To reorient systems design toward sustainability and justice, critique must examine not only artefacts but also the norms that govern how computational systems are designed today. JSD must therefore be critical without abandoning the generative orientation of engineering and design. The idea of *critical friendship* is central to this balance.
 
->#### Replicable, rather than repeatable
->
-> JSD will not produce one absolute method for design that can supposedly be repeated to yield optimal outcomes. Instead, it asks for replicability across different contexts, building and growing our understanding of how it can work in heterogeneous ways across diverse contexts.
+> #### Systemic  
+> Because the social, technical, and natural are entangled with political, cultural, and economic dimensions, JSD adopts a systemic perspective—one that prioritizes relationships and wholes over isolated components. Meaningful system boundaries rarely align with organizational or technical ones, making sociotechnical analysis unavoidable.
+
+> #### Dialectic  
+> The climate crisis foregrounds epistemic and political challenges that sustainability and justice advocates have long confronted: conflicting worldviews, partial perspectives, and incommensurability. JSD therefore rejects purely nomological or deductive approaches to “solving” social problems, instead embracing a pluralist dialectic in which multiple perspectives can meaningfully engage.
+
+> #### Diachronic  
+> Design decisions are path-dependent and unfold over time. JSD adopts a diachronic perspective that considers historical conditions, system life cycles, downstream effects, and long-term consequences—rather than focusing narrowly on the present moment of design.
+
+> #### Contingent  
+> JSD acknowledges the partiality and situatedness of its own perspective. Rather than claiming completeness or optimality, it is conceived as a deliberately incomplete and evolving project, capable of learning from critique, failure, and changing contexts.
+
+> #### Legitimate  
+> Because sustainability and justice foreground the asymmetry of distant effects, JSD must grapple with justification. When full participation of those affected is impossible, legitimacy—rather than technical optimization alone—must guide design decisions.
+
+> #### Reasonable, rather than rationalist  
+> JSD resists universalist rationalist frameworks that obscure value judgments behind formal reasoning. Instead, it relies on *reasonable* arguments that remain open to critique, context, and pluralism, while still drawing on scientific methods where appropriate and legitimate.
+
+> #### Replicable, rather than repeatable  
+> JSD does not promise a single method that can be mechanically repeated to produce optimal outcomes. Instead, it seeks replicability across diverse contexts, fostering shared understanding without imposing uniform solutions.
+
+---
+
+{% include section.html %}
+
+## Insolvent: How to Reorient Computing for Just Sustainability
+
+JSD is developed in depth in the book **_Insolvent: How to Reorient Computing for Just Sustainability_**, which offers a sustained critique of dominant computing paradigms and articulates how systems design can be reoriented toward sustainability and justice.
+
+The book situates computing within the intertwined crises of environmental degradation, social injustice, and democratic erosion. It argues that contemporary computing practices have accumulated societal and ecological debts that cannot be repaid within existing conceptual frameworks—and that a reorientation of design perspectives is therefore necessary.
+
+> ## How can we enact meaningful change in computing to meet the urgent need for sustainability and justice?
+
+{% include section.html %}
+
+{%
+  include button.html
+  text="Read Insolvent for Free"
+  link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
+%}
+
+{%
+  include button.html
+  text="Get Your Copy"
+  link="https://mitpress.mit.edu/9780262545600/insolvent/"
+%}
+
+{%
+  include button.html
+  text="Borrow from Toronto Public Library"
+  link="https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM4384068&R=4384068"
+%}
+
+{% include section.html %}
+
+The deep entanglement of information technology with contemporary societies has raised hopes that computing might support transitions toward more sustainable and just futures—futures that phase out fossil fuels, distribute public goods fairly, and enable meaningful access to information. In principle, computing should be able to help.
+
+In practice, however, opaque algorithms increasingly steer societies toward misinformation, unsustainable consumption, and extractive forms of value creation. _Insolvent_ shows why dominant ways of thinking in computing are conceptually insufficient to address these challenges, and why computing continues to incur societal debts it cannot pay back.
+
+The book positions computing within environmental sustainability, social justice, and the intersection of the two, and explains why designing for just sustainability is both technically and ethically demanding. It argues that computing must engage in critical dialogue with neighbouring disciplines—drawing on social theory, feminist thought, and systems thinking—to better understand its role in society. At the same time, it demonstrates that such critical perspectives can be productively integrated into computing research and practice.
+
+---
+
+{% include section.html %}
+
+## Devil’s Dictionary
+
+The *Devil’s Dictionary* offers short, critical reinterpretations of common terms in computing and technology discourse, exposing the assumptions and power relations embedded in everyday language.
+
+{%
+  include button.html
+  text="Explore the Devil’s Dictionary"
+  link="devilsdictionary/"
+%}
+
+---
+
+{% include section.html %}
+
+## Reading and Discussion Guide
+
+A guided framework for reading and discussing *Insolvent* in classrooms, reading groups, and community settings is currently in development.
+
+*Coming soon.*
+
+---
+
+{% include section.html %}
+
+## Endorsements
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/Image20230608181024.png"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/compulsory.png"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
