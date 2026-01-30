@@ -42,12 +42,16 @@ section.home-title {
   background: #b8d6a3;
 }
 
+main > section + section {
+  border-top: 1px solid var(--light-gray);
+}
+
 
 section#-just-sustainability-design-lab,
 section#publications,
 section#who-we-are,
 section#recorded-talks,
-section#-introduction-to-just-sustainability-design {
+section#introduction-to-just-sustainability-design {
   background: #2f6b3f;
   color: #ffffff;
 }
@@ -62,7 +66,7 @@ section#-just-sustainability-design-lab .icon,
 section#publications .icon,
 section#who-we-are .icon,
 section#recorded-talks .icon,
-section#-introduction-to-just-sustainability-design .icon {
+section#-insolvent-introduction-to-just-sustainability-design .icon {
   color: #ffffff;
   text-decoration: none;
 }
