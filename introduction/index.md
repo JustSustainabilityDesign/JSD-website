@@ -23,8 +23,6 @@ As a consequence, JSD must grapple seriously with five interconnected challenges
 - **Power dynamics** across direct and indirect stakeholders with unevenly distributed influence over design choices  
 - **Incommensurability** across different worldviews, values, and understandings of the design space
 
----
-
 {% include section.html %}
 
 ## Principles of Just Sustainability Design
@@ -53,7 +51,6 @@ As a consequence, JSD must grapple seriously with five interconnected challenges
 > #### Replicable, rather than repeatable  
 > JSD does not promise a single method that can be mechanically repeated to produce optimal outcomes. Instead, it seeks replicability across diverse contexts, fostering shared understanding without imposing uniform solutions.
 
----
 
 {% include section.html %}
 
@@ -93,7 +90,6 @@ The book situates computing within the intertwined crises of environmental degra
 %}
 
 
-
 {% include section.html %}
 
 > ## How can we enact meaningful change in computing to meet the urgent need for sustainability and justice?
@@ -104,7 +100,6 @@ In practice, however, opaque algorithms increasingly steer societies toward misi
 
 The book positions computing within environmental sustainability, social justice, and the intersection of the two, and explains why designing for just sustainability is both technically and ethically demanding. It argues that computing must engage in critical dialogue with neighbouring disciplines—drawing on social theory, feminist thought, and systems thinking—to better understand its role in society. At the same time, it demonstrates that such critical perspectives can be productively integrated into computing research and practice.
 
----
 
 {% include section.html %}
 
@@ -118,7 +113,6 @@ The *Devil’s Dictionary* offers short, critical reinterpretations of common te
   link="devilsdictionary/"
 %}
 
----
 
 {% include section.html %}
 
