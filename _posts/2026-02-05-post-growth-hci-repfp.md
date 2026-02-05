@@ -18,7 +18,7 @@ Candidates interested in holding the fellowship at the Faculty of Information sh
 
 ## Research Theme  
 **Post-growth Human–Computer Interaction: 21st Century Information Technologies for Life Beyond the Polycrisis**  
-**Supervisor:** [Christoph Becker](https://ischool.utoronto.ca/faculty-profile/christoph-becker/)
+**Supervisor:** [Prof. Christoph Becker](https://ischool.utoronto.ca/faculty-profile/christoph-becker/)
 
 As our world’s linked ecological and social crises deepen, the intensifying risks of climate and social collapse ask us how we intend to relate to the rest of nature, the planet, and each other. The science is clear: on a finite planet, the expansion of material activity we know as “economic growth” is ending. The ecological response is “post-growth”: to equitably transform our socio-economic systems to overcome their growth addiction. Post-growth is gaining traction.
 
