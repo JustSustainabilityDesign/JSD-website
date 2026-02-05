@@ -485,7 +485,7 @@
   - Andrew Feenberg
   - Maria Angela Ferrario
   - Geraldine Fitzpatrick
-  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  publisher: Dagstuhl Reports (DagRep)
   date: '2019-01-01'
   link: https://doi.org/gm7984
   orcid: 0000-0002-8364-0593
@@ -676,7 +676,7 @@
   - Rob van Nieuwpoort
   - Matthew Vaughn
   - Jurgen J. Vinju
-  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  publisher: Dagstuhl Manifestos
   date: '2017-01-01'
   link: https://doi.org/b7xv
   orcid: 0000-0002-8364-0593
@@ -1407,7 +1407,7 @@
   - A. Caetano
   publisher: International Conference on Digital Preservation (IPRES)
   date: '2020-01-01'
-  link: http://ww38.benchmark-dp.org/caiwipres/
+  link: http://benchmark-dp.org/caiwipres/
   type: paper
   plugin: sources.py
   file: sources.yaml
