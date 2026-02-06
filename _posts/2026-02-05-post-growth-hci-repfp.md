@@ -1,5 +1,5 @@
 ---
-title: "Post-growth Human–Computer Interaction: 21st Century Information Technologies for Life Beyond the Polycrisis"
+title: "Postdoctoral Fellowship. Post-growth HCI: 21st Century Information Technologies for Life Beyond the Polycrisis"
 author: cristian-velasquez
 last_modified_at: ""
 tags:
