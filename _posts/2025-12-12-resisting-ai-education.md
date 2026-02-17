@@ -25,4 +25,4 @@ Co-sponsored by:
 
 ## More information available in this [resource document](https://justsustainabilitydesign.org/resistinggenerativeai/LinksResources.pdf) with links to recent news, articles, movements, and organizations.
 
-
+## Links and resources shared by webinar participants [here](https://justsustainabilitydesign.org/resistinggenerativeai/ResistingGenAI-participantresources.pdf) 
