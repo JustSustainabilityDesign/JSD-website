@@ -1,5 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3772363.3778767
+  title: 'Crip HCI: Cyborg Perspectives on Disability Justice'
+  authors:
+  - Christoph Becker
+  - Laura Forlano
+  - Beatrice Vincenzi
+  - Franzisca Maas
+  - "Alesandra Baca-V\xE1zquez"
+  - Casey Fiesler
+  - Rua Mae Williams
+  publisher: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human
+    Factors in Computing Systems
+  date: '2026-04-13'
+  link: https://doi.org/hbxp2r
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3772363.3778735
+  title: Cultivating Pedagogies for Post-Growth HCI
+  authors:
+  - Vishal Sharma
+  - Hongjin Lin
+  - Jasmine Lu
+  - Han Qiao
+  - Asra Sakeen Wani
+  - Christina Bremer
+  - Philip Engelbutzeder
+  - Christoph Becker
+  - Neha Kumar
+  - Rikke Hagensby Jensen
+  - Anupriya Tuli
+  publisher: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human
+    Factors in Computing Systems
+  date: '2026-04-13'
+  link: https://doi.org/hbxp2s
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.scitotenv.2025.181059
   title: 'Reimagining urban air-quality governance: A systems-thinking framework'
   authors:
