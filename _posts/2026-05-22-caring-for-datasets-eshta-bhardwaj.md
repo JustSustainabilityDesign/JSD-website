@@ -12,7 +12,7 @@ tags:
   - AI
   - sustainability
 excerpt: "Before a machine learning model produces an answer, makes a prediction, or classifies an image, there are datasets. Eshta Bhardwaj’s research asks what changes when machine learning treats dataset development as careful, situated, and accountable practice."
-image: "/images/caring-for-datasets-week-1.png"
+image: "/images/caring-for-datasets-week-1.jpg"
 ---
 
 Before a machine learning model produces an answer, makes a prediction, or classifies an image, there are datasets. And before there are datasets, there is data work: the often-invisible labour of collecting, selecting, cleaning, labelling, documenting, interpreting, reusing, and maintaining data.
@@ -25,7 +25,7 @@ For students encountering machine learning through the lens of information studi
 
 {%
   include figure.html
-  image="caring-for-datasets-week-1.png"
+  image="/images/caring-for-datasets-week-1.jpg"
 %}
 
 <div align="center">
