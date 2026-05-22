@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-03-31T23:39:19+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design Lab</title><entry><title type="html">Resisting AI in Sustainability Teaching</title><link href="/2026/03/03/resisting-ai-in-sustainability-teaching.html" rel="alternate" type="text/html" title="Resisting AI in Sustainability Teaching" /><published>2026-03-03T00:00:00+00:00</published><updated>2026-03-03T00:00:00+00:00</updated><id>/2026/03/03/resisting-ai-in-sustainability-teaching</id><content type="html" xml:base="/2026/03/03/resisting-ai-in-sustainability-teaching.html"><![CDATA[<h2 id="thursday-march-12-2026-100pm---215pm-et-online">Thursday, March 12, 2026 1:00pm - 2:15pm ET (online)</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-05-22T16:55:43+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design Lab</title><entry><title type="html">Caring for Datasets: Eshta Bhardwaj on Applying Information Lenses in the Age of AI</title><link href="/news/2026/05/22/caring-for-datasets-eshta-bhardwaj.html" rel="alternate" type="text/html" title="Caring for Datasets: Eshta Bhardwaj on Applying Information Lenses in the Age of AI" /><published>2026-05-22T00:00:00+00:00</published><updated>2026-05-22T16:45:47+00:00</updated><id>/news/2026/05/22/caring-for-datasets-eshta-bhardwaj</id><content type="html" xml:base="/news/2026/05/22/caring-for-datasets-eshta-bhardwaj.html"><![CDATA[<p>Before a machine learning model produces an answer, makes a prediction, or classifies an image, there are datasets. And before there are datasets, there is data work: the often-invisible labour of collecting, selecting, cleaning, labelling, documenting, interpreting, reusing, and maintaining data.
+For Eshta Bhardwaj, a PhD Candidate at the University of Toronto’s Faculty of Information and a member of the Just Sustainability Design Lab, that work deserves far more attention than it usually receives. Her research asks what changes when machine learning treats dataset development not as a technical precondition, but as a form of careful, situated, and accountable practice. Drawing from data curation, archival theory, library science, critical data studies, and prior machine learning research, Eshta studies how data practices can become more rigorous, reflexive, and responsible.
+This question sits at the centre of INF1005 and INF1006: Caring for Datasets, a workshop Eshta is teaching at the Faculty of Information in Summer 2026. The course invites students to consider dataset development as craft work requiring reflexivity, criticality, and rigour, and explores how norms and practice-based processes from information fields can elevate responsible machine learning data work.
+For students encountering machine learning through the lens of information studies, the workshop offers a different starting point. Rather than asking only how models perform, it asks how data becomes AI, who participates in that process, what assumptions are embedded along the way, and what responsibilities follow from those decisions.</p>
+
+<!-- TODO: Replace the image path below with the final image file in the repository. -->
+<p><img src="/images/caring-for-datasets-week-1.jpg" alt="Group activity in Caring for Datasets. Week 1: How Data Becomes AI" /></p>
+
+<p><em>Group activity in Caring for Datasets. Week 1: How Data Becomes AI.</em></p>
+
+<p>Rethinking what counts as progress in machine learning
+Eshta defended her thesis proposal in July 2025. Her publication-based thesis, “Adopting a Data Curation Lens for Rigorous, Reflexive, and Responsible Machine Learning Data Practices,” examines how machine learning can learn from information fields that have long dealt with questions of provenance, integrity, preservation, representation, access, future use, and accountability.
+The thesis begins from a clear diagnosis: many concerns in machine learning, including bias, data power, hidden labour, weak accountability, lack of transparency, and environmental cost, can be traced back to how data becomes AI. Eshta frames data practices as what happens across the lifecycle of data: how data are collected, managed, used, interpreted, reused, deposited, curated, and more. Her central argument is that concepts and methods from data curation can improve machine learning data practices by making model development more rigorous, reflexive, and responsible. Just as importantly, she argues that a curation perspective can help redefine what “progress” in machine learning means.
+Progress does not have to mean only larger models, larger datasets, and higher benchmark scores. It can also mean better-documented datasets, more accountable design decisions, greater care in reuse, and more honest attention to social and ecological consequences. This is one of the central contributions of her work: she shifts attention from model work to data work, and asks how the two should relate.
+Evaluating machine learning data practices through a curation lens
+One of Eshta’s major contributions appears in FAccT 2024, in a paper titled “Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework,” with Harshit Gujral, Siyi Wu, Ciara Zogheib, Professor Tegan Maharaj, and Professor Christoph Becker. The paper develops a framework for evaluating machine learning datasets using data curation concepts and principles, then applies it to 25 machine learning datasets. In doing so, it translates a central insight from information studies into a concrete research method: datasets can be assessed not only as inputs for models, but as curated objects shaped by decisions, documentation practices, institutional norms, and future reuse.
+While data curation offers a promising lens for improving fairness, accountability, and transparency in machine learning, applying curation principles in ML is not straightforward. Machine learning researchers often work in a model-focused environment, while data curation brings a lifecycle view that asks how data are maintained, contextualized, documented, preserved, and made usable over time.
+These findings show why the work matters. If ML researchers struggle to apply standard data curation principles, then responsible AI requires more than adding a checklist at the end of a project. It requires training, collaboration, shared vocabulary, and new expectations for what rigorous data work looks like.
+Evaluating structured documentation as a tool for reflexivity in dataset development
+In her most recent publication, co-authored with Ciara Zogheib and Professor Christoph Becker, Eshta examines documentation frameworks such as datasheets, data statements, and dataset nutrition labels. These frameworks are designed to make dataset development more transparent by asking creators to describe where data came from, how it was collected, what it contains, how it should be used, and what risks it might pose.
+But Eshta and her co-authors ask a more difficult question: does documentation actually prompt reflexivity? Their answer is nuanced. Documentation can make dataset development more visible. It can help researchers explain what they did. But transparency is not the same thing as reflexivity. Reflexivity requires deeper engagement with the assumptions, values, power relations, histories, institutional conditions, and social positions that shape research decisions. Put simply: transparency asks what happened. Reflexivity asks why it happened that way, who shaped the process, what assumptions guided it, and what consequences might follow.
+AI scaling, sustainability, and the limits of growth
+Eshta’s research also moves beyond individual datasets to examine the broader systems that shape AI development. In “Limits to AI Growth: The Ecological and Social Consequences of Scaling,” with Professor Christoph Becker, Eshta studies the accelerating development and deployment of AI through the lens of scaling. The paper reviews AI growth across four interrelated dimensions: technical, economic, environmental, and social.
+AI depends on increasing levels of capital investment, infrastructure, data, and natural resources, producing financial, environmental, and social costs. It asks a pointed question: How can we characterize the dynamics of AI growth to identify and analyze its limits? To answer it, Eshta and Becker use system dynamics concepts, including the “limits to growth” archetype, to understand how technical scaling, investment cycles, competitive pressure, AI hype, infrastructure development, and ecological consequences interact.
+Bringing research into the classroom
+In Caring for Datasets, Eshta Bhardwaj brings these research questions into the classroom. The workshop frames care for datasets not as a softer alternative to technical rigour, but as a way of practicing it. It invites students, researchers, and practitioners to slow down and ask better questions about provenance, context, documentation, accountability, power, reuse, sustainability, and responsibility. In doing so, it opens a space to think about responsible machine learning long before a model is trained.</p>]]></content><author><name>Just Sustainability Design Lab</name></author><category term="news" /><category term="responsible machine learning" /><category term="data curation" /><category term="datasets" /><category term="AI" /><category term="sustainability" /><summary type="html"><![CDATA[Before a machine learning model produces an answer, makes a prediction, or classifies an image, there are datasets. Eshta Bhardwaj’s research asks what changes when machine learning treats dataset development as careful, situated, and accountable practice.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/caring-for-datasets-week-1.jpg" /><media:content medium="image" url="/images/caring-for-datasets-week-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Resisting AI in Sustainability Teaching</title><link href="/2026/03/03/resisting-ai-in-sustainability-teaching.html" rel="alternate" type="text/html" title="Resisting AI in Sustainability Teaching" /><published>2026-03-03T00:00:00+00:00</published><updated>2026-03-03T00:00:00+00:00</updated><id>/2026/03/03/resisting-ai-in-sustainability-teaching</id><content type="html" xml:base="/2026/03/03/resisting-ai-in-sustainability-teaching.html"><![CDATA[<h2 id="thursday-march-12-2026-100pm---215pm-et-online">Thursday, March 12, 2026 1:00pm - 2:15pm ET (online)</h2>
 <h2 id="webinar-recording-available-to-u-of-t-members"><a href="https://play.library.utoronto.ca/watch/00b51a5f124cff1a9badf3ddfebe4113">WEBINAR RECORDING (Available to U of T members)</a></h2>
 
 <p>In this webinar we reject the fait accompli framing of AI in the classroom and illustrate the manifold ways AI is antithetical to the project of genuine sustainability and sustainability pedagogy more specifically. With insights from Christoph Becker, Vera Khovanskaya, and Eric Baumer we explore (a) the material impacts of AI, that is, the social and ecological consequences of these technologies that are often (intentionally) obscured, (2) the implications of institutional policies in higher ed that amount to a wholesale, often unreflexive, embrace of AI, and (3) how to push-back against AI in the classroom, and beyond.</p>
@@ -528,223 +553,4 @@ ecological and social harms that result from rampant AI.</p>
 
 <p>Please note that in order to attend, all participants must register for ACM FAccT. <a href="https://facctconference.org/2025/registration">https://facctconference.org/2025/registration</a>. 
 More details about our CRAFT session can be found <a href="https://programs.sigchi.org/facct/2025/my-schedule/content/198133">here</a> on the 
-FAccT schedule which also includes the Zoom event link.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="event" /><summary type="html"><![CDATA[The JSD lab is hosting an online FAccT CRAFT session about the environmental impacts of AI. Please see full post for details.]]></summary></entry><entry><title type="html">COMPASS Workshop: Humour as Resistance: Creative Approaches to Data Center Accountability</title><link href="/2025/05/29/compass-workshop-2025.html" rel="alternate" type="text/html" title="COMPASS Workshop: Humour as Resistance: Creative Approaches to Data Center Accountability" /><published>2025-05-29T00:00:00+00:00</published><updated>2025-05-29T00:00:00+00:00</updated><id>/2025/05/29/compass-workshop-2025</id><content type="html" xml:base="/2025/05/29/compass-workshop-2025.html"><![CDATA[<p><strong>COMPASS Workshop: Humour as Resistance: Creative Approaches to Data Center Accountability</strong><br />
-<strong>July 22 from 2:00-6:00pm at MY330 (Myhal Centre) and Online (Zoom)</strong></p>
-
-<p><strong>Call for Participation:</strong>
-Join us for an interactive workshop that delves into the ecological and social impacts of data centers, the backbone of AI infrastructure. 
-As AI scales up, so does the need for data centers, which has significant environmental and social repercussions often obscured by Big Tech. This workshop aims to 
-illuminate these impacts and foster collective organizing around the harms caused by data centers.</p>
-
-<p>In the first half, we will explore the local and global implications of data centers, encouraging participants to get to know the 
-impacts of particular data centers in place. We will present key findings on the environmental degradation and social injustices linked to data center operations, 
-highlighting the voices of grassroots organizers who have documented these harms.</p>
-
-<p>The second half of the workshop will embrace creativity as a tool for resistance. We will work together, using humour, satire, and art to convey the 
-increasing social and environmental resource consumption taking place in data centers. Together, we will brainstorm and develop visual materials that convey these messages, transforming despair into collective agency.</p>
-
-<p>We invite activists, researchers, and community members to contribute their perspectives and creativity. By participating, you will help build a network of 
-resistance against the negative impacts of data center infrastructure, fostering a sense of community and shared purpose.</p>
-
-<p>Please register here to attend the workshop: <a href="https://cryptpad.fr/form/#/2/form/view/EEYh7mnHE+oT97BSUUNCvVR+H5d4ft2h3gkOkcRmveM/">https://cryptpad.fr/form/#/2/form/view/EEYh7mnHE+oT97BSUUNCvVR+H5d4ft2h3gkOkcRmveM/</a>. Please contact <a href="mailto:eshta.bhardwaj@mail.utoronto.ca">Eshta Bhardwaj</a> for any questions.</p>
-
-<p><strong>Agenda:</strong></p>
-<ul>
-  <li>200 - 220: Workshop Introduction</li>
-  <li>220 - 300: Guest Speaker Hanna Barakat’s talk on her recent <a href="https://www.themaybe.org/research/data-center-report-where-cloud-meets-cement">Case Study Analysis of Data Center Development</a></li>
-  <li>300 - 330: Break</li>
-  <li>330 - 400: Organizer Han Qiao speaks about workshop themes: art, humour, satire, absurdity, viscerality</li>
-  <li>400 - 430: Attendees participate in an activity</li>
-  <li>430 - 530: Reflections</li>
-  <li>530 - 545: Workshop Conclusion</li>
-</ul>
-
-<p><strong>Guest Speaker:</strong></p>
-
-<div class="portrait-wrapper">
-  <a href="/members/hanna-barakat.html" class="portrait" data-style="small" aria-label="Hanna Barakat">
-    <img src="/images/hanna_barakat.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Hanna Barakat
-          </span>
-        
-
-        
-      </span>
-    
-  </a>
-</div>
-
-<p><strong>Organizers:</strong></p>
-
-<div class="portrait-wrapper">
-  <a href="/members/eshta-bhardwaj.html" class="portrait" data-style="small" aria-label="Eshta Bhardwaj">
-    <img src="/images/Eshta.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Eshta Bhardwaj
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD Candidate, Faculty of Information</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-<div class="portrait-wrapper">
-  <a href="/members/han-qiao.html" class="portrait" data-style="small" aria-label="Han Qiao">
-    <img src="/images/han.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Han Qiao
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD Student, Faculty of Information</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-<div class="portrait-wrapper">
-  <a href="/members/rowan-munson.html" class="portrait" data-style="small" aria-label="Rowan O.A. Munson">
-    <img src="/images/RowanMunson.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Rowan O.A. Munson
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD Student, Faculty of Information</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-<div class="portrait-wrapper">
-  <a href="/members/nils-bonfils.html" class="portrait" data-style="small" aria-label="Nils Bonfils">
-    <img src="/images/Nils.jpeg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Nils Bonfils
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD Student, Faculty of Information</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-<div class="portrait-wrapper">
-  <a href="/members/nadia-smith.html" class="portrait" data-style="small" aria-label="Nadia Mariyan Smith">
-    <img src="/images/Nadia.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Nadia Mariyan Smith
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD Student, Faculty of Information</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-<div class="portrait-wrapper">
-  <a href="/members/victoria-landau.html" class="portrait" data-style="small" aria-label="Victoria G. D. Landau">
-    <img src="/images/Victoria.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Victoria G. D. Landau
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-magnifying-glass"></i>
-            <span>Visiting PhD Student, Faculty of Information</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-<div class="portrait-wrapper">
-  <a href="/members/christoph-becker.html" class="portrait" data-style="small" aria-label="Christoph Becker">
-    <img src="/images/Christoph%20Becker_copyright.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Christoph Becker
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Professor, Faculty of Information and School of the Environment</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>]]></content><author><name>eshta-bhardwaj</name></author><category term="event" /><summary type="html"><![CDATA[Join us for an interactive workshop that delves into the ecological and social impacts of data centers, please see full post for details.]]></summary></entry></feed>
+FAccT schedule which also includes the Zoom event link.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="event" /><summary type="html"><![CDATA[The JSD lab is hosting an online FAccT CRAFT session about the environmental impacts of AI. Please see full post for details.]]></summary></entry></feed>
