@@ -29,7 +29,7 @@ For students encountering machine learning through the lens of information studi
 %}
 
 <div align="center">
-  Group activity in Caring for Datasets. Week 1: How Data Becomes AI.<br>
+  Group activity in Caring for Datasets. Week 2: How Data Becomes AI.<br>
 
 </div>
 ---
