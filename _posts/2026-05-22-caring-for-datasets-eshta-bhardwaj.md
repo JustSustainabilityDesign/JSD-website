@@ -32,6 +32,7 @@ For students encountering machine learning through the lens of information studi
   Group activity in Caring for Datasets. Week 1: How Data Becomes AI.<br>
 
 </div>
+---
 
 ## Rethinking what counts as progress in machine learning
 
