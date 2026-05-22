@@ -23,11 +23,16 @@ This question sits at the centre of [INF1005 and INF1006: Caring for Datasets](h
 
 For students encountering machine learning through the lens of information studies, the workshop offers a different starting point. Rather than asking only how models perform, it asks how data becomes AI, who participates in that process, what assumptions are embedded along the way, and what responsibilities follow from those decisions.
 
-[Group activity in Caring for Datasets. Week 1: How Data Becomes AI](/images/caring-for-datasets-week-1.png)
+{%
+  include figure.html
+  image="caring-for-datasets-week-1.png"
+%}
 
-*Group activity in Caring for Datasets. Week 1: How Data Becomes AI.*
+<div align="center">
+  Group activity in Caring for Datasets. Week 1: How Data Becomes AI.<br>
 
-##Rethinking what counts as progress in machine learning
+
+## Rethinking what counts as progress in machine learning
 
 Eshta defended her thesis proposal in July 2025. Her publication-based thesis, *“Adopting a Data Curation Lens for Rigorous, Reflexive, and Responsible Machine Learning Data Practices,”* examines how machine learning can learn from information fields that have long dealt with questions of provenance, integrity, preservation, representation, access, future use, and accountability.
 
@@ -35,7 +40,7 @@ The thesis begins from a clear diagnosis: many concerns in machine learning, inc
 
 Progress does not have to mean only larger models, larger datasets, and higher benchmark scores. It can also mean better-documented datasets, more accountable design decisions, greater care in reuse, and more honest attention to social and ecological consequences. This is one of the central contributions of her work: she shifts attention from model work to data work, and asks how the two should relate.
 
-##Evaluating machine learning data practices through a curation lens
+## Evaluating machine learning data practices through a curation lens
 
 One of Eshta’s major contributions appears in FAccT 2024, in a paper titled [“Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework,”](https://doi.org/10.1145/3630106.3658955) with Harshit Gujral, Siyi Wu, Ciara Zogheib, Professor Tegan Maharaj, and Professor Christoph Becker. The paper develops a framework for evaluating machine learning datasets using data curation concepts and principles, then applies it to 25 machine learning datasets. In doing so, it translates a central insight from information studies into a concrete research method: datasets can be assessed not only as inputs for models, but as curated objects shaped by decisions, documentation practices, institutional norms, and future reuse.
 
@@ -43,17 +48,17 @@ While data curation offers a promising lens for improving fairness, accountabili
 
 These findings show why the work matters. If ML researchers struggle to apply standard data curation principles, then responsible AI requires more than adding a checklist at the end of a project. It requires training, collaboration, shared vocabulary, and new expectations for what rigorous data work looks like.
 
-##Evaluating structured documentation as a tool for reflexivity in dataset development
+## Evaluating structured documentation as a tool for reflexivity in dataset development
 
 [In her most recent publication](https://doi.org/10.48550/arXiv.2605.11345), co-authored with Ciara Zogheib and Professor Christoph Becker, Eshta examines documentation frameworks such as datasheets, data statements, and dataset nutrition labels. These frameworks are designed to make dataset development more transparent by asking creators to describe where data came from, how it was collected, what it contains, how it should be used, and what risks it might pose.
 
 But Eshta and her co-authors ask a more difficult question: does documentation actually prompt reflexivity? Their answer is nuanced. Documentation can make dataset development more visible. It can help researchers explain what they did. But transparency is not the same thing as reflexivity. Reflexivity requires deeper engagement with the assumptions, values, power relations, histories, institutional conditions, and social positions that shape research decisions. Put simply: transparency asks what happened. Reflexivity asks why it happened that way, who shaped the process, what assumptions guided it, and what consequences might follow.
 
-##AI scaling, sustainability, and the limits of growth
+## AI scaling, sustainability, and the limits of growth
 
 Eshta’s research also moves beyond individual datasets to examine the broader systems that shape AI development. In “Limits to AI Growth: The Ecological and Social Consequences of Scaling,” with Professor Christoph Becker, Eshta studies the accelerating development and deployment of AI through the lens of scaling. The paper reviews AI growth across four interrelated dimensions: technical, economic, environmental, and social.
 AI depends on increasing levels of capital investment, infrastructure, data, and natural resources, producing financial, environmental, and social costs. It asks a pointed question: How can we characterize the dynamics of AI growth to identify and analyze its limits? To answer it, Eshta and Becker use system dynamics concepts, including the “limits to growth” archetype, to understand how technical scaling, investment cycles, competitive pressure, AI hype, infrastructure development, and ecological consequences interact.
 
-##Bringing research into the classroom
+## Bringing research into the classroom
 
 In Caring for Datasets, Eshta Bhardwaj brings these research questions into the classroom. The workshop frames care for datasets not as a softer alternative to technical rigour, but as a way of practicing it. It invites students, researchers, and practitioners to slow down and ask better questions about provenance, context, documentation, accountability, power, reuse, sustainability, and responsibility. In doing so, it opens a space to think about responsible machine learning long before a model is trained.
