@@ -4,7 +4,7 @@ title: "Caring for Datasets: Eshta Bhardwaj on Applying Information Lenses in th
 date: 2026-05-22
 author: "Just Sustainability Design Lab"
 categories:
-  - news
+  - research
 tags:
   - responsible machine learning
   - data curation
