@@ -58,7 +58,7 @@ But Eshta and her co-authors ask a more difficult question: does documentation a
 
 ## AI scaling, sustainability, and the limits of growth
 
-Eshta’s research also moves beyond individual datasets to examine the broader systems that shape AI development. In “Limits to AI Growth: The Ecological and Social Consequences of Scaling,” with Professor Christoph Becker, Eshta studies the accelerating development and deployment of AI through the lens of scaling. The paper reviews AI growth across four interrelated dimensions: technical, economic, environmental, and social.
+Eshta’s research also moves beyond individual datasets to examine the broader systems that shape AI development. In [“Limits to AI Growth: The Ecological and Social Consequences of Scaling,”](https://doi.org/10.48550/arXiv.2501.17980) with Professor Christoph Becker, Eshta studies the accelerating development and deployment of AI through the lens of scaling. The paper reviews AI growth across four interrelated dimensions: technical, economic, environmental, and social.
 AI depends on increasing levels of capital investment, infrastructure, data, and natural resources, producing financial, environmental, and social costs. It asks a pointed question: How can we characterize the dynamics of AI growth to identify and analyze its limits? To answer it, Eshta and Becker use system dynamics concepts, including the “limits to growth” archetype, to understand how technical scaling, investment cycles, competitive pressure, AI hype, infrastructure development, and ecological consequences interact.
 
 ## Bringing research into the classroom
