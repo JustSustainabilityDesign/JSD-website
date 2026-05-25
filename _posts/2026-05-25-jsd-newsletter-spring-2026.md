@@ -8,6 +8,8 @@ tags:
 excerpt: "In this issue of the JSD Lab Spring newsletter, we share updates on the first JSD Open Lab, the Toronto LIMITS 2026 Hub, JSD Lab participation at CHI 2026, new courses on crip design, technology beyond capitalism, and caring for datasets, as well as recent collaborations, screenings, campaigns, and publications from lab members and collaborators."
 ---
 
+**In this issue of the JSD Lab Spring newsletter, we share updates on the first JSD Open Lab, the Toronto LIMITS 2026 Hub, JSD Lab participation at CHI 2026, new courses on crip design, technology beyond capitalism, and caring for datasets, as well as recent collaborations, campaigns, and publications from lab members and collaborators.**
+
 
 {%
   include figure.html
