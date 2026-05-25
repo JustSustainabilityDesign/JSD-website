@@ -11,7 +11,7 @@ excerpt: ""
 
 {%
   include figure.html
-  image="JSD_newsletter_spring_2026_1.jpg"
+  image="/images/JSD_newsletter_spring_2026_1.jpg"
 %}
 
 *From winter to Spring we gathered to share tea, cookies, marshmallows, and even crafts. It’s always a pleasure to hang out with our colleagues from [the Street Lab](https://www.streetlab.tech/) and [the Labour Lab](https://labourlab.ca/)*.
@@ -170,7 +170,7 @@ Students can still register for the course’s second iteration, which begins on
 
 {%
   include figure.html
-  image="JSD_newsletter_spring_2026_2.jpg"
+  image="/images/JSD_newsletter_spring_2026_2.jpg"
 %}
 
 *AI job board. Artpiece by the members of the JSD Lab for COMPASS 2025.*
@@ -191,7 +191,7 @@ We are grateful to our fellow organizers [Degrowth Collective](https://landing-p
 
 {%
   include figure.html
-  image="JSD_newsletter_spring_2026_3.jpg"
+  image="/images/JSD_newsletter_spring_2026_3.jpg"
 %}
 
 *From left to right: Christoph Becker, Vlad Bunea, Sergio Montero, Fab B., Annette Dubreuil, and Monica Da Ponte at the screening of The Cost of Growth.*
