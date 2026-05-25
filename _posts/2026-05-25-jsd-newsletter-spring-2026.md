@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "JSD Lab Newsletter – Spring 2026"
 author: Just Sustainability Design Lab
 last_modified_at: ""
@@ -110,7 +111,7 @@ Given the growing global crises caused by the growth economy, there is a pedagog
 
 After the workshop, we will transform the living syllabus into an open, evolving resource for the wider HCI community. Instead of a static artifact, the syllabus will remain a shared commons, continuously enriched through contributions, refinements, and extensions by educators and practitioners interested in integrating post-growth perspectives into their teaching.   
 
-[More about the workshop](More about the workshop)
+[More about the workshop](https://doi.org/10.1145/3772363.3778735)
 
 # New 2026/2027 courses
 
