@@ -1,4 +1,260 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-05-23T13:16:36+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design Lab</title><entry><title type="html">Caring for Datasets: Eshta Bhardwaj on Applying Information Lenses in the Age of AI</title><link href="/research/2026/05/22/caring-for-datasets-eshta-bhardwaj.html" rel="alternate" type="text/html" title="Caring for Datasets: Eshta Bhardwaj on Applying Information Lenses in the Age of AI" /><published>2026-05-22T00:00:00+00:00</published><updated>2026-05-23T13:15:52+00:00</updated><id>/research/2026/05/22/caring-for-datasets-eshta-bhardwaj</id><content type="html" xml:base="/research/2026/05/22/caring-for-datasets-eshta-bhardwaj.html"><![CDATA[<p>Before a machine learning model produces an answer, makes a prediction, or classifies an image, there are datasets. And before there are datasets, there is data work: the often-invisible labour of collecting, selecting, cleaning, labelling, documenting, interpreting, reusing, and maintaining data.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-05-25T19:52:22+00:00</updated><id>/feed.xml</id><title type="html">Just Sustainability Design Lab</title><entry><title type="html">JSD Lab Newsletter – Spring 2026</title><link href="/2026/05/25/jsd-newsletter-spring-2026.html" rel="alternate" type="text/html" title="JSD Lab Newsletter – Spring 2026" /><published>2026-05-25T00:00:00+00:00</published><updated>2026-05-25T00:00:00+00:00</updated><id>/2026/05/25/jsd-newsletter-spring-2026</id><content type="html" xml:base="/2026/05/25/jsd-newsletter-spring-2026.html"><![CDATA[<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/JSD_newsletter_spring_2026_1.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>
+
+<p><em>From winter to Spring we gathered to share tea, cookies, marshmallows, and even crafts. It’s always a pleasure to hang out with our colleagues from <a href="https://www.streetlab.tech/">the Street Lab</a> and <a href="https://labourlab.ca/">the Labour Lab</a></em>.</p>
+
+<hr />
+
+<h1>Contents</h1>
+
+<p>
+
+  <a href="#upcoming">UPCOMING</a><br />
+  <a href="#jsd-lab-participation-at-chi-2026">JSD LAB PARTICIPATION AT CHI 2026</a><br />
+  <a href="#new-20262027-courses">NEW 2026/2027 COURSES</a><br />
+  <a href="#collaborations">COLLABORATIONS</a><br />
+  <a href="#recent-publications">RECENT PUBLICATIONS</a><br /><br />
+
+</p>
+
+<hr />
+
+<h1 id="subscribe-to-the-jsd-lab-newsletter"><a href="https://cryptpad.fr/form/#/2/form/view/-2dkjtFJsIalR1iNIqPSAUj+zGMXVu9I+AV2NerRQ2M/"><strong>Subscribe to the JSD Lab Newsletter</strong></a></h1>
+
+<hr />
+
+<h1 id="upcoming">Upcoming</h1>
+
+<h2 id="jsd-open-lab-1">JSD Open Lab #1</h2>
+
+<p>Join us for the first session of <strong>JSD Open Lab</strong>: a space to share ongoing work, exchange ideas, connect around emerging research, and think collectively about how technology can support social justice, environmental sustainability, and community well-being.</p>
+
+<p>📅 <strong>June 17th, 2026</strong></p>
+
+<p>🕙 <strong>10:00 a.m. EST, 1.5-2 hours long</strong></p>
+
+<p>📍 <strong>Online via Zoom</strong></p>
+
+<p><strong><a href="https://utoronto.zoom.us/meeting/register/yurdhrCjTfChoj1K8tfneA">Register here for the JSD Open Lab #1</a></strong></p>
+
+<p>For this session, after a round of introductions, members of the lab will share presentations for three upcoming conferences where the labs’ recent research will be published. We also invite other students and researchers interested in sharing ongoing work related to technology, sustainability, justice, design, media, or community practice to share their work, and we will have time for an open discussion.</p>
+
+<p><strong>Presentations</strong></p>
+
+<ul>
+  <li>
+    <p><em>Evaluating Structured Documentation as a Tool for Reflexivity in Dataset Development</em><br />
+Eshta Bhardwaj<br />
+To be presented at <a href="https://facctconference.org/">ACM FAccT 2026</a></p>
+  </li>
+  <li>
+    <p><em>The Environmental Costs of Surveillance Capitalism: A Case Study of Social Media Platforms</em><br />
+Nils Bonfils<br />
+To be presented at <a href="https://conf.researchr.org/series/ict4s">ICT4S 2026</a></p>
+  </li>
+  <li>
+    <p><em>Relational Aesthesis in Permacomputing Practice: Building a Solar-Powered Website from Reclaimed Materials</em><br />
+Nadia Smith and Nils Bonfils<br />
+To be presented at <a href="https://computingwithinlimits.org/2026/">LIMITS 2026</a></p>
+  </li>
+</ul>
+
+<p>If you would like to participate with a presentation for this Open Lab session, please email <a href="mailto:cristian.velasquez@utoronto.ca">cristian.velasquez@utoronto.ca</a> by <strong>June 3rd, 2026</strong> to be included in the program.</p>
+
+<p><strong><a href="https://utoronto.zoom.us/meeting/register/yurdhrCjTfChoj1K8tfneA">Register here for the JSD Open Lab #1</a></strong></p>
+
+<hr />
+
+<h2 id="the-jsd-lab-hosts-torontos-limits-2026-hub-on-june-23rd-25th-2026">The JSD Lab hosts Toronto’s LIMITS 2026 Hub on June 23rd-25th 2026</h2>
+
+<p><a href="https://computingwithinlimits.org/2026/">LIMITS 2026</a> marks the 12th Workshop on Computing within Limits, an interdisciplinary gathering focused on the role of computing in human societies situated within a world of planetary boundaries and limits. These include the limits of extractive logics, the limits of a biosphere’s ability to recover, the limits of human knowledge, and the limits of technological solutions to complex societal issues.</p>
+
+<p>Bringing together researchers, practitioners, and scholars, the workshop seeks to reshape and reorient the broader computing research agenda through an awareness that contemporary computing research is embedded within finite socio-ecological conditions and must reckon with ecological limits in general, and climate- and climate justice-related limits in particular.</p>
+
+<p><strong>If you want to attend LIMITS 2026 and join our local Toronto hub in person, <a href="https://cryptpad.fr/form/#/2/form/view/0VTGtQISedSN7SQLypOPJyaor4j8yBchyP+Q+88yXY8/">please register here</a>. Free of charge.</strong></p>
+
+<hr />
+<h2 id="julia-mckenna-will-join-the-faculty-of-information-and-the-jsd-lab-as-a-phd-student-in-fall-2026">Julia McKenna will join the Faculty of Information and the JSD Lab as a PhD Student in Fall 2026.</h2>
+
+<p>We are delighted to welcome Julia McKenna to the Faculty of Information and the JSD Lab as a PhD student beginning in September 2026.</p>
+
+<p>Julia currently works at Northwestern University as a research analyst and data steward for the STRONG Manoomin Collective, a tribally driven initiative that supports Ojibwe resilience through scientific and environmental governance capacity-building. Her recent paper, developed collaboratively with community partners, received an Honorable Mention Award at the 2026 CHI Conference for documenting the co-design and development of <em>Noondawind</em>, a data access platform for Indigenous and environmental knowledge across several Ojibwe Nations.</p>
+
+<p>Julia’s research explores how community-led environmental data systems can support more just and sustainable futures. She is particularly interested in how Indigenous knowledge, local knowledge systems, and non-Western epistemologies can be respectfully integrated into environmental data infrastructures to expand the interpretability, usability, and cultural grounding of environmental data. Julia holds an MSc in Smart and Sustainable Cities from Trinity College Dublin and a BA in Sociology from University of Notre Dame.</p>
+
+<p><a href="https://doi.org/10.1145/3772318.3791870">Read Julia’s recent paper for CHI 2026</a></p>
+
+<hr />
+<h1 id="jsd-lab-participation-at-chi-2026">JSD Lab participation at CHI 2026</h1>
+
+<p><a href="https://chi2026.acm.org/">The Association for Computing Machinery CHI Conference on Human Factors in Computing Systems</a> is one of the leading international venues for research in human-computer interaction. This year, Christoph Becker and Han Qiao contributed to two workshops.</p>
+
+<h2 id="crip-hci-cyborg-perspectives-on-disability-justice">Crip HCI: Cyborg Perspectives on Disability Justice</h2>
+
+<p>Building on an emerging awareness of disability justice and calls for a crip HCI, this workshop brings together disabled researchers across HCI with an interest in how the politics and design of cyborg technologies relate to the rich, situated, and existential understandings that emerge from living a cyborg life. By centering the perspectives of cyborgs, this workshop de-centers extractive techno-solutionist practices to catalyze research momentum and foster the crip research community in HCI.</p>
+
+<p>Due to CHI 2026 organizers’ refusal to allow accessible hybrid participation for this disability justice workshop, the on-site event at CHI focused on reflections about disability justice, with some organizers and participants prevented from participation by ACM policy. The full group will reconvene to hold the workshop as originally intended on May 27th and jointly consider future paths to support and nurture the growing crip HCI community.</p>
+
+<p><a href="https://doi.org/10.1145/3772363.3778767">More about the workshop</a></p>
+
+<h2 id="cultivating-pedagogies-for-post-growth-hci">Cultivating Pedagogies for Post-Growth HCI</h2>
+
+<p>Given the growing global crises caused by the growth economy, there is a pedagogical responsibility to prepare future Human–Computer Interaction (HCI) professionals to embrace uncertainty and question unsustainable ideologies and practices. This workshop creates a space for educators and students to critically reflect on how HCI pedagogy might move beyond “bigger–and-faster” framings and toward practices of sufficiency, repair, and care. Through activities such as co-designing a living syllabus and reimagining evaluation criteria for student work, participants will explore how education can itself function as an infrastructural practice for cultivating post-growth perspectives within HCI. In doing so, this workshop aims to foreground pedagogy as a vital site where post-growth commitments can take root, reorienting the content and practice of HCI toward cultivating socio-ecologically just futures.</p>
+
+<p>After the workshop, we will transform the living syllabus into an open, evolving resource for the wider HCI community. Instead of a static artifact, the syllabus will remain a shared commons, continuously enriched through contributions, refinements, and extensions by educators and practitioners interested in integrating post-growth perspectives into their teaching.</p>
+
+<p><a href="https://doi.org/10.1145/3772363.3778735">More about the workshop</a></p>
+
+<h1 id="new-20262027-courses">New 2026/2027 courses</h1>
+
+<h2 id="christoph-becker-will-teach-two-new-courses">Christoph Becker will teach two new courses</h2>
+
+<p><em>Crip Design: Disability Justice and the Cyborg</em> and <em>Tech Otherwise: Information Technology beyond Capitalism</em> invite students to rethink technology from the ground up, exploring how disability justice, cyborg theory, degrowth, decolonization, and pluriversal design can open pathways toward more just and sustainable technological futures.</p>
+
+<h2 id="special-topics---crip-design-disability-justice-and-the-cyborg">Special Topics - Crip Design: Disability Justice and the Cyborg</h2>
+
+<p>Many disabled people embrace the figure of the cyborg as an aspect of their subjectivity and identity as humans living with machines. For example, Type 1 Diabetics use insulin pumps and sensor systems while others live with hearing aids or cochlear implants.</p>
+
+<p>Conducted by a disabled cyborg, this course invites students to explore their relationship to cyborg theory and crip design practices. The course centers the unique positionalities and knowledges of disabled people, who often engage in acts of designing and making in opposition and resistance to normative narratives of technology design in order to build “futures in which the presence of disabled people is not only natural and welcome but also desired.” (Williams et al. 2021). Students do not need to consider themselves disabled or cyborgs to participate but will be invited and expected to reflect on their positionalities and supported in doing so.</p>
+
+<p>Having completed this course, students will be able to:</p>
+
+<ul>
+  <li>
+    <p>articulate their own positionality with respect to cyborg relations and experiences,</p>
+  </li>
+  <li>
+    <p>explain how principles of disability justice affect the design and use of technologies involved in cyborg lives,</p>
+  </li>
+  <li>
+    <p>critically examine existing literature and practices of technology design through the lenses of disability justice and cyborg theory, and</p>
+  </li>
+  <li>
+    <p>mobilize crip technoscience concepts such as crip time in design processes and proposals for cyborg technologies.</p>
+  </li>
+</ul>
+
+<h2 id="tech-otherwise-information-technology-beyond-capitalism">Tech Otherwise: Information Technology beyond Capitalism</h2>
+
+<p>Humanity today violates seven of the nine planetary boundaries that represent a safe ecological space for human life on Earth. Technology, often positioned as solving the dilemma of ‘sustainable development’, drives so much destruction that it is clear: its role is conflicted.</p>
+
+<p>This course draws on frameworks such as degrowth, the pluriverse, and decolonization to invite students to explore how technologies can be shaped otherwise to genuinely support human and ecological flourishing. We explore technology design outside the confines of capitalist extractivist logics, profit incentives, colonial roots, and structural organization. We discuss: how capitalism shapes modern information technology; what crises we are in today; why ‘green growth’ is impossible; how some resist the drivers of capitalist tech in the past and present; what happens outside systems of invention dominated by capitalist rules; how IT can be shaped differently; and how that already happens today</p>
+
+<p>Having completed this course, students will be able to:</p>
+
+<ul>
+  <li>
+    <p>articulate their own positionality with respect to interconnected societal crises of the present,</p>
+  </li>
+  <li>
+    <p>apply frameworks such as the planetary boundaries to analyze conflicts between economic rules and ecosystems,</p>
+  </li>
+  <li>
+    <p>analyze policy proposals such as “green growth” and “sustainable development” with respect to climate change and climate justice;</p>
+  </li>
+  <li>
+    <p>identify alternative paradigms for future information technology design, such as the perspectives opened by degrowth, post-growth, pluriversal design &amp; decolonization, and</p>
+  </li>
+  <li>
+    <p>use this critical vocabulary and sensitivity to articulate equitable pathways and organizational strategies for just and sustainable technologies in their work.</p>
+  </li>
+</ul>
+
+<hr />
+<h2 id="a-new-course-from-phd-candidate-eshta-bhardwaj-on-applying-information-lenses-in-the-age-of-ai">A new course from PhD Candidate Eshta Bhardwaj on Applying Information Lenses in the Age of AI</h2>
+
+<p><a href="https://ischool.utoronto.ca/course/information-workshop-ii-summer-2026/">INF1005 &amp; INF1006 Workshop: Caring for Datasets</a> was developed based on the doctoral research of Eshta Bhardwaj, PhD Candidate at the University of Toronto’s Faculty of Information and a member of the Just Sustainability Design Lab. The course invites students to consider dataset development as craft work requiring reflexivity, criticality, and rigour, and explores how norms and practice-based processes from information fields, including library sciences, archives, and data curation, can elevate responsible machine learning data work.</p>
+
+<p>For students encountering machine learning through the lens of information studies, the workshop offers a different starting point. Rather than asking only how models perform, it asks how data becomes AI, who participates in that process, what assumptions are embedded along the way, and what responsibilities follow from those decisions.
+Students can still register for the course’s second iteration, which begins on  July 2nd.</p>
+
+<p><a href="https://justsustainabilitydesign.org/research/2026/05/22/caring-for-datasets-eshta-bhardwaj.html">Read more about the course and Eshta’s research here</a></p>
+
+<h1 id="collaborations">Collaborations</h1>
+
+<h2 id="save-the-ai-launches-new-labour-campaign-dont-apply-to-that-job-ai-needs-it-more-than-you-do">Save the AI Launches New Labour Campaign. “Don’t apply to that job! AI needs it more than you do”</h2>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/JSD_newsletter_spring_2026_2.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>
+
+<p><em>AI job board. Artpiece by the members of the JSD Lab for COMPASS 2025.</em></p>
+
+<p>On May 1st, The JSD Lab partnered with <a href="https://digilabour.com.br/">DigiLabour</a> to launch a new <a href="https://savethe.ai/jobs/">Save the AI</a> campaign exploring how generative AI is reshaping labour. Through a series of satirical posters and accompanying research, the campaign examines how these changes are often obscured by narratives of efficiency and innovation. It highlights four key dynamics: the displacement of workers; the consequences of AI for workers’ rights and surveillance; the hidden human labour required to train and maintain AI systems; and the intensification of work through increased expectations and the need for constant verification and oversight. More importantly the campaign seeks to highlight organizations advocating for workers rights around the world.</p>
+
+<p>Explore the campaign and download the 4 new posters at <a href="https://savethe.ai/jobs/">https://savethe.ai/jobs/</a>.</p>
+
+<hr />
+<h2 id="jsd-lab-co-hosts-screening-of-the-cost-of-growth">JSD Lab Co-Hosts Screening of The Cost of Growth</h2>
+
+<p>On March 10, 2026, the Just Sustainability Design Lab co-hosted a screening of <a href="https://www.thecostofgrowth.com/">The Cost of Growth</a>, bringing together students, researchers, organizers, and community members for an evening of reflection, conversation, and collective action.</p>
+
+<p>The screening created space to discuss the social, ecological, and economic consequences of growth-oriented systems, and to consider alternative ways of organizing economies, communities, and futures. The event was followed by a lively gathering that invited participants to think critically about sustainability, justice, and the urgent need for transformative change.</p>
+
+<p>We are grateful to our fellow organizers <a href="https://landing-page-v2-delta.vercel.app/">Degrowth Collective</a>, <a href="https://inclusiveeconomiesinstitute.org/">Institute for Inclusive Economies and Sustainable Livelihoods</a>, Kesako, Earth47, and PUPA Focusing for helping make the evening possible. We look forward to continuing these conversations and building future collaborations across communities committed to justice, sustainability, and collective care.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/JSD_newsletter_spring_2026_3.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>
+
+<p><em>From left to right: Christoph Becker, Vlad Bunea, Sergio Montero, Fab B., Annette Dubreuil, and Monica Da Ponte at the screening of The Cost of Growth.</em></p>
+
+<h1 id="recent-publications">Recent Publications</h1>
+
+<p><strong>Christoph Becker</strong>, Laura Forlano, Beatrice Vincenzi, Franzisca Maas, Alesandra Baca-Vázquez, Casey Fiesler, and Rua Mae Williams. 2026. Crip HCI: Cyborg Perspectives on Disability Justice. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ‘26). Association for Computing Machinery, New York, NY, USA, Article 932, 1–7. <a href="https://doi.org/10.1145/3772363.3778767">https://doi.org/10.1145/3772363.3778767</a></p>
+
+<p>Vishal Sharma, Hongjin Lin, Jasmine Lu, <strong>Han Qiao</strong>, Asra Sakeen Wani, Christina Bremer, Philip Engelbutzeder, <strong>Christoph Becker</strong>, Neha Kumar, Rikke Hagensby Jensen, and Anupriya Tuli. 2026. Cultivating Pedagogies for Post-Growth HCI. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ‘26). Association for Computing Machinery, New York, NY, USA, Article 934, 1–5. <a href="https://doi.org/10.1145/3772363.3778735">https://doi.org/10.1145/3772363.3778735</a></p>
+
+<p><strong>Munson, R.O.A.</strong>, Nurek, M., Brookes, J., Babu, A., Ogunleye, O., Kordowicz, M., 2026. Shifting Perspectives on Pupils: Staff Perceptions of the Nurturing Kent Programme. The International Journal of Nurture in Education 11.
+<a href="https://www.nurtureuk.org/wp-content/uploads/2026/04/International-Journal-of-Nurture-in-Education-2025-26_3-Shifting-perspectives-on-pupils.pdf">https://www.nurtureuk.org/wp-content/uploads/2026/04/International-Journal-of-Nurture-in-Education-2025-26_3-Shifting-perspectives-on-pupils.pdf</a></p>
+
+<p><strong>Eshta Bhardwaj</strong>, Ciara Zogheib, and <strong>Christoph Becker</strong>. 2026. Evaluating Structured Documentation as a Tool for Reflexivity in Dataset Development. In The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’26), June 25–28, 2026, Montreal, QC, Canada. ACM, New York, NY, USA, 53 pages. <a href="https://arxiv.org/pdf/2605.11345">https://arxiv.org/pdf/2605.11345</a></p>
+
+<p><strong>Nils Bonfils</strong>, Aarjav Chauhan, and <strong>Christoph Becker</strong>. 2026. Cultivating a Historicist Sensibility through Permacomputing. 1, 1 (January 2026), 5 pages. <a href="http://www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf">www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf</a></p>
+
+<p>Taneea S Agrawaal, <strong>Nils Bonfils</strong>, Amelia Lee Dogan, Siyi Wu, and Robert Soden. 2026. The Toronto Water Atlas: Staging Encounters With Nature Through Design. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ‘26). Association for Computing Machinery, New York, NY, USA, Article 1057, 1–21. <a href="https://doi.org/10.1145/3772318.3790410">https://doi.org/10.1145/3772318.3790410</a></p>
+
+<p>Vishal Sharma, Hongjin Lin, Jasmine Lu, <strong>Han Qiao</strong>, Asra Sakeen Wani, Christina Bremer, Philip Engelbutzeder, Christoph Becker, Neha Kumar, Rikke Hagensby Jensen, and Anupriya Tuli. 2026. Cultivating Pedagogies for Post-Growth HCI. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ‘26). Association for Computing Machinery, New York, NY, USA, Article 934, 1–5. <a href="https://doi.org/10.1145/3772363.3778735">https://doi.org/10.1145/3772363.3778735</a></p>
+
+<p><strong>Julia A. McKenna</strong>, Gabriela Buraglia, Jahnavi Kolakaluri, Rachel Baker-Ramos, Sam J. Carter, Joe Graveen, Jonathan Gilbert, James Rasmussen, Brandon Byrne, Darren Vogt, Josiah Hester, Kimberly R. Marion Suiseeya, and Alex Cabral. 2026. Noondawind: Co-Designed Dashboard for Indigenous Data Access and Environmental Policy Implementation. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ‘26). Association for Computing Machinery, New York, NY, USA, Article 214, 1–25. <a href="https://doi.org/10.1145/3772318.3791870">https://doi.org/10.1145/3772318.3791870</a></p>
+
+<hr />
+
+<h1 id="subscribe-to-the-jsd-lab-newsletter-1"><a href="https://cryptpad.fr/form/#/2/form/view/-2dkjtFJsIalR1iNIqPSAUj+zGMXVu9I+AV2NerRQ2M/"><strong>Subscribe to the JSD Lab Newsletter</strong></a></h1>
+
+<hr />
+
+<h1 id="the-just-sustainability-design-lab-online">The Just Sustainability Design Lab Online</h1>
+
+<table style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td style="border:none; padding: 0.5rem 1rem;">
+      <a href="https://justsustainabilitydesign.org/">The JSD Lab Website</a>
+    </td>
+    <td style="border:none; padding: 0.5rem 1rem;">
+      <a href="https://www.linkedin.com/company/just-sustainability-design-lab">LinkedIn</a>
+    </td>
+  </tr>
+</table>]]></content><author><name>Just Sustainability Design Lab</name></author><category term="milestone" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Caring for Datasets: Eshta Bhardwaj on Applying Information Lenses in the Age of AI</title><link href="/research/2026/05/22/caring-for-datasets-eshta-bhardwaj.html" rel="alternate" type="text/html" title="Caring for Datasets: Eshta Bhardwaj on Applying Information Lenses in the Age of AI" /><published>2026-05-22T00:00:00+00:00</published><updated>2026-05-25T19:51:11+00:00</updated><id>/research/2026/05/22/caring-for-datasets-eshta-bhardwaj</id><content type="html" xml:base="/research/2026/05/22/caring-for-datasets-eshta-bhardwaj.html"><![CDATA[<p>Before a machine learning model produces an answer, makes a prediction, or classifies an image, there are datasets. And before there are datasets, there is data work: the often-invisible labour of collecting, selecting, cleaning, labelling, documenting, interpreting, reusing, and maintaining data.</p>
 
 <p>For Eshta Bhardwaj, a PhD Candidate at the University of Toronto’s Faculty of Information and a member of the Just Sustainability Design Lab, that work deserves far more attention than it usually receives. Her research asks what changes when machine learning treats dataset development not as a technical precondition, but as a form of careful, situated, and accountable practice. Drawing from data curation, archival theory, library science, critical data studies, and prior machine learning research, Eshta studies how data practices can become more rigorous, reflexive, and responsible.</p>
 
@@ -549,36 +805,4 @@ The quality of “near” and “far” describes how one relates to the data th
       </span>
     
   </a>
-</div>]]></content><author><name>han-qiao</name></author><category term="event" /><summary type="html"><![CDATA[Come check out our art installation at the COMPASS conference, please see full post for details.]]></summary></entry><entry><title type="html">FAccT CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI</title><link href="/2025/06/05/craft-workshop-2025.html" rel="alternate" type="text/html" title="FAccT CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI" /><published>2025-06-05T00:00:00+00:00</published><updated>2025-06-05T00:00:00+00:00</updated><id>/2025/06/05/craft-workshop-2025</id><content type="html" xml:base="/2025/06/05/craft-workshop-2025.html"><![CDATA[<p><strong>FAccT’25 CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI</strong><br />
-<strong>June 23 from 1030am-1230pm ET, Virtual</strong></p>
-
-<p><strong>Session Description:</strong>
-Our interactive CRAFT workshop session uses satire and creative expression to 
-facilitate and strengthen collective organizing around the environmental damages caused by AI systems.</p>
-
-<p>The JSD lab has developed a distributed satirical campaign to <a href="https://savethe.ai/">Savethe.AI</a> which uses humour 
-to connect individuals’ and communities’ needs for Earth’s resources with the evidence 
-of just how much of these resources are now being claimed for the data centres running generative AI. 
-By connecting our thirst with a data center’s cooling system, the campaign addresses psychological 
-distance: it is very hard to relate personally to the distant data centers where generative AI models do their work.</p>
-
-<p>In our CRAFT workshop session, we will build on the satirical angle and facilitate 
-a creative humorous engagement with questions of individual agency, community experiences, and 
-collective resistance. We collectively explore ecological and social impacts of data centers 
-and platforms that are already felt by diverse communities. These impacts vary greatly in place and 
-time and are documented primarily by the tireless work of organizers, civil society, and academics, 
-while being obfuscated by the companies creating the situation.</p>
-
-<p>Our workshop invites participants to collectively develop their own humorous ideas and materials 
-that express the absurdity of those harms being taken for granted and denied.</p>
-
-<p>Through this creative process, 
-we hope to achieve both a collective learning process, 
-foster a sense of collective agency, possibly develop visual 
-materials that the community can use, and contribute to community 
-building in the face of the issues of accountability, transparency, and 
-ecological and social harms that result from rampant AI.</p>
-
-<p>Please note that in order to attend, all participants must register for ACM FAccT. <a href="https://facctconference.org/2025/registration">https://facctconference.org/2025/registration</a>. 
-More details about our CRAFT session can be found <a href="https://programs.sigchi.org/facct/2025/my-schedule/content/198133">here</a> on the 
-FAccT schedule which also includes the Zoom event link.</p>]]></content><author><name>eshta-bhardwaj</name></author><category term="event" /><summary type="html"><![CDATA[The JSD lab is hosting an online FAccT CRAFT session about the environmental impacts of AI. Please see full post for details.]]></summary></entry></feed>
+</div>]]></content><author><name>han-qiao</name></author><category term="event" /><summary type="html"><![CDATA[Come check out our art installation at the COMPASS conference, please see full post for details.]]></summary></entry></feed>
