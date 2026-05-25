@@ -116,6 +116,7 @@ GEM
 PLATFORMS
   aarch64-linux
   linux
+  ruby
   universal-darwin-21
   universal-darwin-22
   x64-mingw-ucrt
