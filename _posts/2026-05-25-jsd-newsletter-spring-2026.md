@@ -16,7 +16,7 @@ excerpt: "In this issue of the JSD Lab Spring newsletter, we share updates on th
   image="/images/JSD_newsletter_spring_2026_1.jpg"
 %}
 
-*From winter to Spring we gathered to share tea, cookies, marshmallows, and even crafts. It’s always a pleasure to hang out with our colleagues from [the Street Lab](https://www.streetlab.tech/) and [the Labour Lab](https://labourlab.ca/)*.
+*From Winter to Spring we gathered to share tea, cookies, marshmallows, and even crafts. It’s always a pleasure to hang out with our colleagues from [the Street Lab](https://www.streetlab.tech/) and [the Labour Lab](https://labourlab.ca/)*.
 
 ---
 
