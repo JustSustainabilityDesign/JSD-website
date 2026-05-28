@@ -223,7 +223,7 @@ Vishal Sharma, Hongjin Lin, Jasmine Lu, **Han Qiao**, Asra Sakeen Wani, Christin
 
 **Eshta Bhardwaj**, Ciara Zogheib, and **Christoph Becker**. 2026. Evaluating Structured Documentation as a Tool for Reflexivity in Dataset Development. In The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’26), June 25–28, 2026, Montreal, QC, Canada. ACM, New York, NY, USA, 53 pages. [https://arxiv.org/pdf/2605.11345](https://arxiv.org/pdf/2605.11345)
 
-**Nils Bonfils**, Aarjav Chauhan, and **Christoph Becker**. 2026. Cultivating a Historicist Sensibility through Permacomputing. In the 2nd conference on Undone Science in Computer Science (UndoneCS), Luxembourg, 5 pages.[http://www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf](http://www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf)
+**Nils Bonfils**, Aarjav Chauhan, and **Christoph Becker**. 2026. Cultivating a Historicist Sensibility through Permacomputing. In the 2nd conference on Undone Science in Computer Science (UndoneCS), Luxembourg, 5 pages. [http://www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf](http://www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf)
 
 Taneea S Agrawaal, **Nils Bonfils**, Amelia Lee Dogan, Siyi Wu, and Robert Soden. 2026. The Toronto Water Atlas: Staging Encounters With Nature Through Design. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). Association for Computing Machinery, New York, NY, USA, Article 1057, 1–21. [https://doi.org/10.1145/3772318.3790410](https://doi.org/10.1145/3772318.3790410)
 
