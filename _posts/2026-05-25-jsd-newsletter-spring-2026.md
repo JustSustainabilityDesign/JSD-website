@@ -197,6 +197,18 @@ We are grateful to our fellow organizers [Degrowth Collective](https://landing-p
 %}
 
 *From left to right: Christoph Becker, Vlad Bunea, Sergio Montero, Fab B., Annette Dubreuil, and Monica Da Ponte at the screening of The Cost of Growth.*
+---
+
+## Resisting AI in Sustainability Teaching
+
+On March 12, 2026, the JSD Lab collaborated with [the Community of Practice on Sustainability Teaching](https://sustainability.utoronto.ca/teaching-learning/community-of-practice/) at the University of Toronto and [the Labour Process and Technology Lab](https://labourlab.ca/) to host Resisting AI in Sustainability Teaching, an online webinar exploring how educators can critically respond to the growing institutional embrace of AI in higher education.
+
+The session challenged the idea that AI in the classroom is inevitable or automatically beneficial. Instead, participants were invited to consider how AI technologies may run counter to the goals of genuine sustainability and sustainability pedagogy. With insights from Christoph Becker, Vera Khovanskaya, and Eric Baumer, the webinar examined the material impacts of AI, including its social and ecological consequences; the implications of higher education policies that often adopt AI with limited reflection; and practical ways to push back against AI in the classroom and beyond.
+
+The event was hosted by the Community of Practice on Sustainability Teaching at the University of Toronto.
+
+[A recording of the webinar is available here to University of Toronto members.](https://play.library.utoronto.ca/watch/00b51a5f124cff1a9badf3ddfebe4113)
+---
 
 # Recent Publications
 
@@ -209,11 +221,9 @@ Vishal Sharma, Hongjin Lin, Jasmine Lu, **Han Qiao**, Asra Sakeen Wani, Christin
 
 **Eshta Bhardwaj**, Ciara Zogheib, and **Christoph Becker**. 2026. Evaluating Structured Documentation as a Tool for Reflexivity in Dataset Development. In The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’26), June 25–28, 2026, Montreal, QC, Canada. ACM, New York, NY, USA, 53 pages. [https://arxiv.org/pdf/2605.11345](https://arxiv.org/pdf/2605.11345)
 
-**Nils Bonfils**, Aarjav Chauhan, and **Christoph Becker**. 2026. Cultivating a Historicist Sensibility through Permacomputing. 1, 1 (January 2026), 5 pages. [www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf](http://www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf)
+**Nils Bonfils**, Aarjav Chauhan, and **Christoph Becker**. 2026. Cultivating a Historicist Sensibility through Permacomputing. In the 2nd conference on Undone Science in Computer Science (UndoneCS), Luxembourg, 5 pages.[http://www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf](http://www.undonecs.org/2026/abstracts/UndoneCS26_abstract_47.pdf)
 
 Taneea S Agrawaal, **Nils Bonfils**, Amelia Lee Dogan, Siyi Wu, and Robert Soden. 2026. The Toronto Water Atlas: Staging Encounters With Nature Through Design. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). Association for Computing Machinery, New York, NY, USA, Article 1057, 1–21. [https://doi.org/10.1145/3772318.3790410](https://doi.org/10.1145/3772318.3790410)
-
-Vishal Sharma, Hongjin Lin, Jasmine Lu, **Han Qiao**, Asra Sakeen Wani, Christina Bremer, Philip Engelbutzeder, Christoph Becker, Neha Kumar, Rikke Hagensby Jensen, and Anupriya Tuli. 2026. Cultivating Pedagogies for Post-Growth HCI. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26). Association for Computing Machinery, New York, NY, USA, Article 934, 1–5. [https://doi.org/10.1145/3772363.3778735](https://doi.org/10.1145/3772363.3778735)
 
 **Julia A. McKenna**, Gabriela Buraglia, Jahnavi Kolakaluri, Rachel Baker-Ramos, Sam J. Carter, Joe Graveen, Jonathan Gilbert, James Rasmussen, Brandon Byrne, Darren Vogt, Josiah Hester, Kimberly R. Marion Suiseeya, and Alex Cabral. 2026. Noondawind: Co-Designed Dashboard for Indigenous Data Access and Environmental Policy Implementation. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). Association for Computing Machinery, New York, NY, USA, Article 214, 1–25. [https://doi.org/10.1145/3772318.3791870](https://doi.org/10.1145/3772318.3791870)
 
