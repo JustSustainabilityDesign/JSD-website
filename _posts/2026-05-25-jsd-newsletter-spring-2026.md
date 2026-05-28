@@ -197,6 +197,7 @@ We are grateful to our fellow organizers [Degrowth Collective](https://landing-p
 %}
 
 *From left to right: Christoph Becker, Vlad Bunea, Sergio Montero, Fab B., Annette Dubreuil, and Monica Da Ponte at the screening of The Cost of Growth.*
+
 ---
 
 ## Resisting AI in Sustainability Teaching
@@ -208,6 +209,7 @@ The session challenged the idea that AI in the classroom is inevitable or automa
 The event was hosted by the Community of Practice on Sustainability Teaching at the University of Toronto.
 
 [A recording of the webinar is available here to University of Toronto members.](https://play.library.utoronto.ca/watch/00b51a5f124cff1a9badf3ddfebe4113)
+
 ---
 
 # Recent Publications
