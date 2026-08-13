@@ -239,7 +239,24 @@
 
 - id: doi:10.1016/j.infsof.2023.107163
   type: paper
+  title: 'It’s about time: How to study intertemporal choice in systems design'
+  authors:
+    - Fabian Fagerholm
+    - Andres De los Ríos
+    - Carol Cárdenas Castro
+    - Jenny Gil
+    - Alexander Chatzigeorgiou
+    - Apostolos Ampatzoglou
+    - Christoph Becker
+  publisher: Information and Software Technology
+  date: '2023-02-03'
+  tags:
+    - systems design
+    - decision making
+    - intertemporal choice
+    - sustainability
   image: images/chocolates_judgment.jpg
+  link: https://doi.org/10.1016/j.infsof.2023.107163 
 
 - id: doi:10.1145/3579462
   type: journal
