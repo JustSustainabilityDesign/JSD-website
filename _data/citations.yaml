@@ -440,9 +440,8 @@
   date: '2020-06-15'
   link: https://doi.org/gsnt6v
   orcid: 0000-0002-8364-0593
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
+  plugin: orcid.py
+  file: orcid.yaml
 - id: isbn:978-1-4503-7606-8
   title: The Design of Pseudo-Participation
   authors:
@@ -544,9 +543,8 @@
   date: '2019-05-01'
   link: https://doi.org/gh78xs
   orcid: 0000-0002-8364-0593
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
+  plugin: orcid.py
+  file: orcid.yaml
 - id: uri:http://arxiv.org/abs/1901.07024
   title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
     the Future?'
@@ -1176,42 +1174,6 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1145/3706599.3706731
-  title: Advancing Post-growth HCI
-  authors:
-  - Vishal Sharma
-  - Hongjin Lin
-  - Asra Sakeen Wani
-  - Jared Lee Katzman
-  - Anupriya Tuli
-  - Naveena Karusala
-  - Shaowen Bardzell
-  - Christoph Becker
-  - Martin Tomitsch
-  - Neha Kumar
-  publisher: Proceedings of the Extended Abstracts of the CHI Conference on Human
-    Factors in Computing Systems
-  date: '2025-04-26'
-  link: https://doi.org/g9gs94
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2410.22473
-  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
-    Practices in the Datasets and Benchmarks Track'
-  authors:
-  - Eshta Bhardwaj
-  - Harshit Gujral
-  - Siyi Wu
-  - Ciara Zogheib
-  - Tegan Maharaj
-  - Christoph Becker
-  publisher: Advances in Neural Information Processing Systems, 37 (NeurIPS 2024)
-  date: '2024-12-09'
-  link: https://doi.org/g8sgwm
-  type: paper
-  image: images/DCML_project2.png
-  plugin: sources.py
-  file: sources.yaml
 - id: url:https://sites.google.com/view/post-growthhci/
   title: Post-growth HCI Workshop @CHI
   authors: []
@@ -1245,17 +1207,6 @@
   date: '2021-02-24'
   link: https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   type: article
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
-  title: 'Metaphors We Work By: Reframing Digital Objects, Significant Properties,
-    and the Design of Digital Preservation Systems'
-  authors:
-  - Christoph Becker
-  publisher: Archivaria
-  date: '2018-05-03'
-  link: https://archivaria.ca/index.php/archivaria/article/view/13628
-  type: paper
   plugin: sources.py
   file: sources.yaml
 - id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
@@ -1343,20 +1294,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: url:https://ppig.org/papers/2020-ppig-31st-becker/
-  title: Undecided? A Board Game to study Intertemporal choices in software projects
-  authors:
-  - Christoph Becker
-  - Tara Tsang
-  - Rachel Booth
-  - Enning Zhang
-  - Fabian Fagerholm
-  publisher: Proceedings of PPIG 2020 The Psychology of Programming IG workshop
-  date: '2020-01-01'
-  link: https://ppig.org/papers/2020-ppig-31st-becker/
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: url:http://ceur-ws.org/Vol-1686/
   title: 'Lightning talk: I solemnly pledge: A manifesto for personal responsibility
     in the engineering of academic software'
@@ -1390,43 +1327,6 @@
     and Experiences (WSSSPE4), CEUR Workshop Proceedings, vol. 1686
   date: '2016-09-12'
   link: https://ceur-ws.org/Vol-1686/
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:http://ceur-ws.org/Vol-1416/
-  title: 'Sustainability debt: A metaphor to support sustainability design decisions'
-  authors:
-  - Stefanie Betz
-  - Christoph Becker
-  - Ruzanna Chitchyan
-  - Leticia Duboc
-  - Steve M. Easterbrook
-  - Birgit Penzenstadler
-  - Norbert Seyff
-  - Colin C. Venters
-  publisher: Proceedings of the 4th International Workshop on Requirements Engineering
-    for Sustainable Systems Co-Located with the 23rd IEEE International Requirements
-    Engineering Conference (RE 2015)
-  date: '2015-08-24'
-  link: https://ceur-ws.org/Vol-1416/
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:http://eprints.hud.ac.uk/id/eprint/24945/
-  title: 'Mind the Gap: Bridging the Sustainable Software Systems Research Divide'
-  authors:
-  - Colin Venters
-  - Christoph Becker
-  - Stefanie Betz
-  - Ruzanna Chitchyan
-  - Leticia Duboc
-  - Steve Easterbrook
-  - Birgit Penzenstadler
-  - Guillermo Rodriguez-Navas
-  - Norbert Seyff
-  publisher: UK-SHCI Workshop on Sustainable HCI in the UK, Lincoln, UK
-  date: '2015-07-13'
-  link: https://openlab.ncl.ac.uk/uk-shci/
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -1527,66 +1427,6 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3371906
-  title: Toward model-driven sustainability evaluation
-  authors:
-  - "J\xF6rg Kienzle"
-  - Gunter Mussbacher
-  - Benoit Combemale
-  - Lucy Bastin
-  - Nelly Bencomo
-  - Jean-Michel Bruel
-  - Christoph Becker
-  - Stefanie Betz
-  - Ruzanna Chitchyan
-  - Betty H. C. Cheng
-  - Sonja Klingert
-  - Richard F. Paige
-  - Birgit Penzenstadler
-  - Norbert Seyff
-  - Eugene Syriani
-  - Colin C. Venters
-  publisher: Communications of the ACM
-  date: '2020-02-24'
-  link: https://doi.org/gh46dk
-  type: journal
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/asi.23881
-  title: Format technology lifecycle analysis
-  authors:
-  - Kresimir Duretec
-  - Christoph Becker
-  publisher: Journal of the Association for Information Science and Technology
-  date: '2017-06-14'
-  link: https://doi.org/gbxsrh
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.1906.02266
-  title: 'Sidewalk and Toronto: Critical Systems Heuristics and the Smart City'
-  authors:
-  - Curtis McCord
-  - Christoph Becker
-  publisher: arXiv
-  date: '2019-01-01'
-  link: https://doi.org/gsnt6w
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/asi.23807
-  title: 'Organizational assessment frameworks for digital preservation: A literature
-    review and mapping'
-  authors:
-  - Emily Maemura
-  - Nathan Moles
-  - Christoph Becker
-  publisher: Journal of the Association for Information Science and Technology
-  date: '2017-04-28'
-  link: https://doi.org/gbkz2n
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/JCDL.2017.7991565
   title: A Text Extraction Software Benchmark Based on a Synthesized Dataset
   authors:
@@ -1596,41 +1436,6 @@
   publisher: 2017 ACM/IEEE Joint Conference on Digital Libraries (JCDL)
   date: '2017-06-01'
   link: https://doi.org/ghchxn
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/ICSE-SEIS.2017.2
-  title: 'Characterising Sustainability Requirements: A New Species Red Herring or
-    Just an Odd Fish?'
-  authors:
-  - Colin C. Venters
-  - Norbert Seyff
-  - Christoph Becker
-  - Stefanie Betz
-  - Ruzanna Chitchyan
-  - Leticia Duboc
-  - Dan Mcintyre
-  - Birgit Penzenstadler
-  publisher: '2017 IEEE/ACM 39th International Conference on Software Engineering:
-    Software Engineering in Society Track (ICSE-SEIS)'
-  date: '2017-05-01'
-  link: https://doi.org/gqqspn
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/ICSE.2015.179
-  title: 'Sustainability Design and Software: The Karlskrona Manifesto'
-  authors:
-  - Christoph Becker
-  - Ruzanna Chitchyan
-  - Leticia Duboc
-  - Steve Easterbrook
-  - Birgit Penzenstadler
-  - Norbert Seyff
-  - Colin C. Venters
-  publisher: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering
-  date: '2015-05-01'
-  link: https://doi.org/gmvkpr
   type: paper
   plugin: sources.py
   file: sources.yaml
