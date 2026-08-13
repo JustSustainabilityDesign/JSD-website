@@ -528,9 +528,8 @@
   date: '2019-09-01'
   link: https://doi.org/gh78ws
   orcid: 0000-0002-8364-0593
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TechDebt.2019.00011
   title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
     the Future?'
