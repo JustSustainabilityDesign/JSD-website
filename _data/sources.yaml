@@ -2,404 +2,279 @@
   type: paper
   title: 'Machine learning data practices through a data curation lens: An evaluation framework'
   authors:
-    - Eshta Bhardwaj
-    - Harshit Gujral
-    - Siyi Wu
-    - Ciara Zogheib
-    - Tegan Maharaj
-    - Christoph Becker
+  - Eshta Bhardwaj
+  - Harshit Gujral
+  - Siyi Wu
+  - Ciara Zogheib
+  - Tegan Maharaj
+  - Christoph Becker
   publisher: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency
   date: '2024-06-03'
   image: images/DCML_project1.png
-
 - id: doi:10.1145/3710901
   type: paper
   title: 'Near Data and Far Data for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?'
   authors:
-    - Han Qiao
-    - Siyi Wu
-    - Christoph Becker
-  publisher: 'The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCSW 2025)'
+  - Han Qiao
+  - Siyi Wu
+  - Christoph Becker
+  publisher: The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCSW 2025)
   date: '2025-01-13'
   image: images/curbcut1.png
-
-- id: doi:10.1145/3706599.3706731
-  title: Advancing Post-growth HCI
-  authors:
-  - Vishal Sharma
-  - Hongjin Lin
-  - Asra Sakeen Wani
-  - Jared Lee Katzman
-  - Anupriya Tuli
-  - Naveena Karusala
-  - Shaowen Bardzell
-  - Christoph Becker
-  - Martin Tomitsch
-  - Neha Kumar
-  publisher: Proceedings of the Extended Abstracts of the CHI Conference on Human
-    Factors in Computing Systems
-  date: '2025-04-26'
-  
-- id: doi:10.48550/arXiv.2410.22473
-  type: paper
-  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development Practices in the Datasets and Benchmarks Track'
-  authors:
-    - Eshta Bhardwaj
-    - Harshit Gujral
-    - Siyi Wu
-    - Ciara Zogheib
-    - Tegan Maharaj
-    - Christoph Becker
-  publisher: 'Advances in Neural Information Processing Systems, 37 (NeurIPS 2024)'
-  date: "2024-12-09"
-  image: images/DCML_project2.png
-  
 - id: url:https://sites.google.com/view/post-growthhci/
-  date: "2024-05-12"
-
+  date: '2024-05-12'
 - id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
   type: paper
   title: 'Limits at a Distance: Design Directions to Address Psychological Distance in Policy Decisions Affecting Planetary Boundaries'
   authors:
-    - Eshta Bhardwaj
-    - Han Qiao
-    - Christoph Becker
+  - Eshta Bhardwaj
+  - Han Qiao
+  - Christoph Becker
   publisher: Tenth Computing within Limits 2024
   date: '2024-06-18'
   tags:
-    - limits 2024
+  - limits 2024
   image: images/limits24_psychdist.png
   link: https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
-
 - id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   type: article
-  title: 'It’s time to defund Big Tech and empower communities'
+  title: It’s time to defund Big Tech and empower communities
   authors:
-    - Christoph Becker
-    - Andrew Clement
+  - Christoph Becker
+  - Andrew Clement
   publisher: The Toronto Star
   date: '2021-02-24'
-
-- id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
-  type: paper
-
-- id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
-  type: paper
-
 - id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
   type: article
   authors:
-    - Christopher Frauenberger
-    - Ann Light
-    - Christoph Becker
-    - Dawn Walker
-    - Curtis McCord
-    - Steve Easterbrook
-    - Lisa Nathan
-    - Irina Shklovski
-    - Elizabeth Patitsas
+  - Christopher Frauenberger
+  - Ann Light
+  - Christoph Becker
+  - Dawn Walker
+  - Curtis McCord
+  - Steve Easterbrook
+  - Lisa Nathan
+  - Irina Shklovski
+  - Elizabeth Patitsas
   date: '2019-02-01'
-
 - id: url:https://hdl.handle.net/11353/10.429547
   type: paper
   date: '2015-04-16'
-  
 - id: url:https://hdl.handle.net/11353/10.429553
   type: paper
   date: '2015-04-16'
-  
 - id: url:https://hdl.handle.net/11353/10.378051
   type: paper
   publisher: 10th International Conference on Preservation of Digital Objects (IPRES 2013)
   date: '2013-01-01'
-  
 - id: url:https://hdl.handle.net/11353/10.378091
   type: paper
-  publisher: 10th International Conference on Preservation of Digital Objects (IPRES 2013) 
+  publisher: 10th International Conference on Preservation of Digital Objects (IPRES 2013)
   date: '2013-01-01'
-
-- id: url:https://hdl.handle.net/11353/10.429621  
+- id: url:https://hdl.handle.net/11353/10.429621
   type: paper
   date: '2015-06-03'
-  
 - id: url:http://hdl.handle.net/2142/73794
   type: paper
   date: '2015-03-15'
-  
-- id: url:https://ppig.org/papers/2020-ppig-31st-becker/
-  title: 'Undecided? A Board Game to study Intertemporal choices in software projects'
-  authors:
-    - Christoph Becker
-    - Tara Tsang
-    - Rachel Booth
-    - Enning Zhang
-    - Fabian Fagerholm
-  publisher: Proceedings of PPIG 2020 The Psychology of Programming IG workshop
-  type: paper
-  date: '2020-01-01'
-
 - id: url:http://ceur-ws.org/Vol-1686/
   title: 'Lightning talk: I solemnly pledge: A manifesto for personal responsibility in the engineering of academic software'
   publisher: Proceedings of the 4th Workshop on Sustainable Software for Science Practice and Experiences (WSSSPE4), CEUR Workshop Proceedings, vol. 1686
   authors:
-    - Alice Allen
-    - Cecilia Aragon
-    - Christoph Becker
-    - Jeffrey Carver
-    - Andrei Chis
-    - Benoit Combemale
-    - Mike Croucher
-    - Kevin Crowston
-    - Daniel Garijo
-    - Ashish Gehani
-    - Carole Goble
-    - Robert Haines
-    - Robert Hirschfeld
-    - James Howison
-    - Kathryn Huff
-    - Caroline Jay
-    - Daniel S. Katz
-    - Claude Kirchner
-    - Kateryna Kuksenok
-    - Ralf Lämmel
-    - Oscar Nierstrasz
-    - Matt Turk
-    - Rob van Nieuwpoort
-    - Matthew Vaughn
-    - Jurgen Vinju
+  - Alice Allen
+  - Cecilia Aragon
+  - Christoph Becker
+  - Jeffrey Carver
+  - Andrei Chis
+  - Benoit Combemale
+  - Mike Croucher
+  - Kevin Crowston
+  - Daniel Garijo
+  - Ashish Gehani
+  - Carole Goble
+  - Robert Haines
+  - Robert Hirschfeld
+  - James Howison
+  - Kathryn Huff
+  - Caroline Jay
+  - Daniel S. Katz
+  - Claude Kirchner
+  - Kateryna Kuksenok
+  - Ralf Lämmel
+  - Oscar Nierstrasz
+  - Matt Turk
+  - Rob van Nieuwpoort
+  - Matthew Vaughn
+  - Jurgen Vinju
   type: paper
   date: '2016-09-12'
-  
-- id: url:http://ceur-ws.org/Vol-1416/
-  title: 'Sustainability debt: A metaphor to support sustainability design decisions'
-  publisher: Proceedings of the 4th International Workshop on Requirements Engineering for Sustainable Systems Co-Located with the 23rd IEEE International Requirements Engineering Conference (RE 2015)
-  authors:
-    - Stefanie Betz
-    - Christoph Becker
-    - Ruzanna Chitchyan
-    - Leticia Duboc
-    - Steve M. Easterbrook
-    - Birgit Penzenstadler
-    - Norbert Seyff
-    - Colin C. Venters
-  type: paper
-  date: '2015-08-24'
-  
-- id: url:http://eprints.hud.ac.uk/id/eprint/24945/
-  publisher: UK-SHCI Workshop on Sustainable HCI in the UK, Lincoln, UK
-  type: paper
-  date: '2015-07-13'
-
 - id: url:https://techotherwise.pubpub.org/cscw20
   title: 'Contributions to the CSCW 2020 Workshop: Collective Organizing and Social Responsibility'
   type: paper
   date: '2020-10-15'
   authors:
-    - Devansh Saxena
-    - Erhardt Graeff
-    - Shion Guha
-    - EunJeong Cheon
-    - Pedro Reynolds-Cuéllar
-    - Dawn Walker
-    - Kenneth R. Fleischmann
-  
+  - Devansh Saxena
+  - Erhardt Graeff
+  - Shion Guha
+  - EunJeong Cheon
+  - Pedro Reynolds-Cuéllar
+  - Dawn Walker
+  - Kenneth R. Fleischmann
 - id: url:https://techotherwise.pubpub.org/pdc20
   title: 'Proceedings of the PDC 2020 Interactive Workshop: Computing Professionals for Social Responsbility: The Past, Present and Future Values of Participatory Design'
   authors:
-    - Ann Light
-    - Victoria Palacin
-    - Dawn Walker
-    - Christopher Frauenberger
-    - Rachel Charlotte Smith
-    - Syed Ishtiaque Ahmed
-    - Pedro Reynolds-Cuéllar
-    - David Nemer
+  - Ann Light
+  - Victoria Palacin
+  - Dawn Walker
+  - Christopher Frauenberger
+  - Rachel Charlotte Smith
+  - Syed Ishtiaque Ahmed
+  - Pedro Reynolds-Cuéllar
+  - David Nemer
   type: paper
   date: '2020-05-20'
-  
 - id: url:http://benchmark-dp.org/caiwipres/
-  title: 'Proceedings of the Capability Assessment and Improvement Workshop (CAIW’2013) at the International Conference on Digital Preservation (IPRES)'
+  title: Proceedings of the Capability Assessment and Improvement Workshop (CAIW’2013) at the International Conference on Digital Preservation (IPRES)
   authors:
-    - Christoph Becker
-    - A. Caetano
+  - Christoph Becker
+  - A. Caetano
   publisher: International Conference on Digital Preservation (IPRES)
   type: paper
   date: '2020-01-01'
-  
 - id: url:https://digitalpreservationchallenges.wordpress.com/
-  title: 'Open Research Challenges in Digital Preservation'
+  title: Open Research Challenges in Digital Preservation
   authors:
-    - Christoph Becker
-    - Andreas Rauber
-    - Christopher (Cal) Lee
+  - Christoph Becker
+  - Andreas Rauber
+  - Christopher (Cal) Lee
   publisher: Proceedings of ORC 2013 at the International Conference on Digital Preservation (IPRES)
   type: paper
   date: '2013-08-24'
-
-
 - id: doi:10.1016/j.infsof.2023.107163
   type: paper
   title: 'It’s about time: How to study intertemporal choice in systems design'
   authors:
-    - Fabian Fagerholm
-    - Andres De los Ríos
-    - Carol Cárdenas Castro
-    - Jenny Gil
-    - Alexander Chatzigeorgiou
-    - Apostolos Ampatzoglou
-    - Christoph Becker
+  - Fabian Fagerholm
+  - Andres De los Ríos
+  - Carol Cárdenas Castro
+  - Jenny Gil
+  - Alexander Chatzigeorgiou
+  - Apostolos Ampatzoglou
+  - Christoph Becker
   publisher: Information and Software Technology
   date: '2023-02-03'
   tags:
-    - systems design
-    - decision making
-    - intertemporal choice
-    - sustainability
+  - systems design
+  - decision making
+  - intertemporal choice
+  - sustainability
   image: images/chocolates_judgment.jpg
-  link: https://doi.org/10.1016/j.infsof.2023.107163 
-
+  link: https://doi.org/10.1016/j.infsof.2023.107163
 - id: doi:10.1145/3579462
   type: paper
   title: 'Beyond Transactional Democracy: A Study of Civic Tech in Canada'
   authors:
-    - Curtis W McCord
-    - Christoph Becker
+  - Curtis W McCord
+  - Christoph Becker
   publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: '2023-04'
+  date: 2023-04
   tags:
-    - civic technology
-    - participatory democracy
-    - digital civics
-    - civic engagement
-    - citizen participation
-  image:
+  - civic technology
+  - participatory democracy
+  - digital civics
+  - civic engagement
+  - citizen participation
+  image: null
   link: https://doi.org/10.1145/3579462
-
 - id: doi:10.21428/bf6fb269.541455de
   type: paper
   title: 'Pathways to urban sustainability: Design perspectives on a data curation and visualization platform'
   authors:
-    - Eshta Bhardwaj
-    - Han Qiao
-    - Christoph Becker
+  - Eshta Bhardwaj
+  - Han Qiao
+  - Christoph Becker
   publisher: Computing within Limits 2023
   date: '2023-06-14'
   tags:
-    - Limits 2023
+  - Limits 2023
   image: images/limits 2023.png
   link: https://doi.org/10.21428/bf6fb269.541455de
-
 - id: doi:10.1016/j.envsoft.2023.105879
   type: paper
-  title: 'Is the climate getting WARMer? A framework and tool for climate data comparison'
+  title: Is the climate getting WARMer? A framework and tool for climate data comparison
   authors:
-    - Eshta Bhardwaj
-    - Peter Khaiter
+  - Eshta Bhardwaj
+  - Peter Khaiter
   publisher: Environmental Modelling & Software
-  date: '2024-01'
+  date: 2024-01
   tags:
-    - Visualization tool
-    - Climate change
-    - Data analytics
-    - Climate model
-    - Climate informatics
-  image:
+  - Visualization tool
+  - Climate change
+  - Data analytics
+  - Climate model
+  - Climate informatics
+  image: null
   link: https://doi.org/10.1016/j.envsoft.2023.105879
-
 - id: doi:10.1016/j.ecoinf.2022.101918
   type: paper
   title: 'What data analytics can or cannot do for climate change studies: An inventory of interactive visual tools'
   authors:
-    - Eshta Bhardwaj
-    - Peter A. Khaiter
+  - Eshta Bhardwaj
+  - Peter A. Khaiter
   publisher: Ecological Informatics
   date: '2023'
   tags:
-    - Visualization tool
-    - Climate change
-    - Co-occurrence analysis
-    - Bibliometric methods
-  image:
+  - Visualization tool
+  - Climate change
+  - Co-occurrence analysis
+  - Bibliometric methods
+  image: null
   link: https://doi.org/10.1016/j.ecoinf.2022.101918
-
 - id: doi:10.1007/s00799-021-00311-0
   type: paper
-  title: 'Improving data quality in large-scale repositories through conflict resolution'
+  title: Improving data quality in large-scale repositories through conflict resolution
   authors:
-    - Artur Kulmukhametov
-    - Andreas Rauber
-    - Christoph Becker
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
   publisher: International Journal on Digital Libraries
-  date: '2021-12'
+  date: 2021-12
   tags:
-    - Data quality
-    - Technical metadata
-    - Digital curation
-    - Conflict resolution
-    - Content profiling
-  image:
+  - Data quality
+  - Technical metadata
+  - Digital curation
+  - Conflict resolution
+  - Content profiling
+  image: null
   link: https://doi.org/10.1007/s00799-021-00311-0
-
 - id: doi:10.1109/MS.2019.2944784
   type: journal
-
 - id: doi:10.1145/3608115
   type: journal
-
-- id: doi:10.1145/3371906
-  type: journal
-
 - id: doi:10.1002/asi.24209
   type: journal
-
 - id: doi:10.4230/DagRep.9.7.40
   type: paper
-
 - id: doi:10.1002/asi.24048
   type: paper
-
 - id: doi:10.1016/j.jss.2017.12.026
   type: paper
-
-- id: doi:10.1002/asi.23881
-  type: paper
-
 - id: doi:10.4230/DagMan.6.1.1
   type: paper
-
 - id: doi:10.1109/MS.2015.158
   type: paper
-
 - id: doi:10.1108/OCLC-06-2014-0026
   type: paper
-
 - id: doi:10.1108/OCLC-06-2014-0025
   type: paper
-
 - id: doi:10.1145/3500868.3559399
   type: paper
-
 - id: doi:10.1145/3406865.3418593
   type: paper
-
-- id: doi:10.1145/3384772.3385141
-  type: paper
-  
 - id: doi:10.1109/ESEM.2019.8870161
   type: paper
-  
-- id: doi:10.1109/TechDebt.2019.00011
-  type: paper
-  
-- id: doi:10.48550/arXiv.1906.02266
-  type: paper
-
 - id: doi:10.1109/MS.2018.110154908
   type: paper
-
-- id: doi:10.1002/asi.23807
-  type: paper
-
 - id: doi:10.1109/RE.2018.00-23
   type: paper
 - id: doi:10.1109/RE.2018.00038
@@ -410,42 +285,24 @@
   type: paper
 - id: doi:10.1109/JCDL.2017.7991565
   type: paper
-- id: doi:10.1109/ICSE-SEIS.2017.2
-  type: paper
-  
 - id: doi:10.2991/ict4s-16.2016.20
   title: 'Sustainability Design: Lessons from Designing A Green Map'
   type: paper
-  
 - id: doi:10.1145/2889160.2889217
-  type: paper
-
-- id: doi:10.1109/ICSE.2015.179
-  type: paper
-  
-
-- id: doi:10.1007/978-3-319-12823-8_1
   type: paper
 - id: doi:10.1007/978-3-319-12823-8_1
   type: paper
 - id: doi:10.1109/JCDL.2014.6970207
   type: paper
-- id: doi:10.1145/2467696.2467719  
+- id: doi:10.1145/2467696.2467719
   type: paper
 - id: doi:10.1145/2480362.2480637
   type: paper
-  
-
 - id: doi:10.1109/CHASE.2017.6
   type: paper
 - id: doi:10.1109/BigData.2016.7840982
   type: paper
-  
 - id: doi:10.1109/EDOCW.2014.44
   type: paper
-
 - id: doi:10.21428/93b2c832.e0100a3f
-  type: paper
-
-- id: doi:10.1145/3500868.3559399
   type: paper
