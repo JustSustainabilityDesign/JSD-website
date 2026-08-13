@@ -222,15 +222,16 @@
   - Eshta Bhardwaj
   - Han Qiao
   - Christoph Becker
-  publisher: Ninth Computing within Limits 2023
+  publisher: Computing within Limits 2023
   date: '2023-06-14'
-  link: https://doi.org/gsjxwp
+  link: https://doi.org/10.21428/bf6fb269.541455de
   orcid: 0000-0002-8364-0593
   plugin: sources.py
   file: sources.yaml
-  image: images/limits 2023.png
+  type: paper
   tags:
-  - limits 2023
+  - Limits 2023
+  image: images/limits 2023.png
 - id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218570/A-Silicone-Ring-Social-Responsibility-and
   title: 'A Silicone Ring: Social Responsibility and Collective Action'
   publisher: 'Insolvent: How to reorient computing for just sustainability'
@@ -315,15 +316,22 @@
 - id: doi:10.1145/3579462
   title: 'Beyond Transactional Democracy: A Study of Civic Tech in Canada'
   authors:
-  - Curtis W. McCord
+  - Curtis W McCord
   - Christoph Becker
   publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: '2023-04-14'
-  link: https://doi.org/gsjxwq
+  date: ''
+  link: https://doi.org/10.1145/3579462
   orcid: 0000-0002-8364-0593
   plugin: sources.py
   file: sources.yaml
-  type: journal
+  type: paper
+  tags:
+  - civic technology
+  - participatory democracy
+  - digital civics
+  - civic engagement
+  - citizen participation
+  image: null
 - id: doi:10.1145/3500868.3559399
   title: Solidarity and Disruption Collective Organizing In Computing II
   authors:
@@ -351,12 +359,19 @@
   - Andreas Rauber
   - Christoph Becker
   publisher: International Journal on Digital Libraries
-  date: '2021-10-21'
-  link: https://doi.org/gm8jkv
+  date: ''
+  link: https://doi.org/10.1007/s00799-021-00311-0
   orcid: 0000-0002-8364-0593
   plugin: sources.py
   file: sources.yaml
   type: paper
+  tags:
+  - Data quality
+  - Technical metadata
+  - Digital curation
+  - Conflict resolution
+  - Content profiling
+  image: null
 - id: doi:10.21428/93b2c832.e0100a3f
   title: Defund Big Tech, Refund Community
   authors:
@@ -1481,10 +1496,17 @@
   authors:
   - Eshta Bhardwaj
   - Peter Khaiter
-  publisher: Environmental Modelling &amp; Software
-  date: '2023-11-21'
-  link: https://doi.org/gs537q
-  type: journal
+  publisher: Environmental Modelling & Software
+  date: ''
+  link: https://doi.org/10.1016/j.envsoft.2023.105879
+  type: paper
+  tags:
+  - Visualization tool
+  - Climate change
+  - Data analytics
+  - Climate model
+  - Climate informatics
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ecoinf.2022.101918
@@ -1494,9 +1516,15 @@
   - Eshta Bhardwaj
   - Peter A. Khaiter
   publisher: Ecological Informatics
-  date: '2022-11-12'
-  link: https://doi.org/gsj667
-  type: journal
+  date: ''
+  link: https://doi.org/10.1016/j.ecoinf.2022.101918
+  type: paper
+  tags:
+  - Visualization tool
+  - Climate change
+  - Co-occurrence analysis
+  - Bibliometric methods
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3371906
