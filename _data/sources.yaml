@@ -259,28 +259,86 @@
   link: https://doi.org/10.1016/j.infsof.2023.107163 
 
 - id: doi:10.1145/3579462
-  type: journal
+  type: paper
+  title: 'Beyond Transactional Democracy: A Study of Civic Tech in Canada'
+  authors:
+    - Curtis W McCord
+    - Christoph Becker
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2023-04'
+  tags:
+    - civic technology
+    - participatory democracy
+    - digital civics
+    - civic engagement
+    - citizen participation
+  image:
+  link: https://doi.org/10.1145/3579462
 
 - id: doi:10.21428/bf6fb269.541455de
+  type: paper
+  title: 'Pathways to urban sustainability: Design perspectives on a data curation and visualization platform'
   authors:
     - Eshta Bhardwaj
     - Han Qiao
     - Christoph Becker
-  image: images/limits 2023.png
+  publisher: Computing within Limits 2023
   date: '2023-06-14'
   tags:
-    - limits 2023
+    - Limits 2023
+  image: images/limits 2023.png
+  link: https://doi.org/10.21428/bf6fb269.541455de
 
 - id: doi:10.1016/j.envsoft.2023.105879
-  type: journal
-  date: '2023-11-21'
+  type: paper
+  title: 'Is the climate getting WARMer? A framework and tool for climate data comparison'
+  authors:
+    - Eshta Bhardwaj
+    - Peter Khaiter
+  publisher: Environmental Modelling & Software
+  date: '2024-01'
+  tags:
+    - Visualization tool
+    - Climate change
+    - Data analytics
+    - Climate model
+    - Climate informatics
+  image:
+  link: https://doi.org/10.1016/j.envsoft.2023.105879
 
 - id: doi:10.1016/j.ecoinf.2022.101918
-  type: journal
-  date: '2022-11-12'
+  type: paper
+  title: 'What data analytics can or cannot do for climate change studies: An inventory of interactive visual tools'
+  authors:
+    - Eshta Bhardwaj
+    - Peter A. Khaiter
+  publisher: Ecological Informatics
+  date: '2023'
+  tags:
+    - Visualization tool
+    - Climate change
+    - Co-occurrence analysis
+    - Bibliometric methods
+  image:
+  link: https://doi.org/10.1016/j.ecoinf.2022.101918
 
 - id: doi:10.1007/s00799-021-00311-0
   type: paper
+  title: 'Improving data quality in large-scale repositories through conflict resolution'
+  authors:
+    - Artur Kulmukhametov
+    - Andreas Rauber
+    - Christoph Becker
+  publisher: International Journal on Digital Libraries
+  date: '2021-12'
+  tags:
+    - Data quality
+    - Technical metadata
+    - Digital curation
+    - Conflict resolution
+    - Content profiling
+  image:
+  link: https://doi.org/10.1007/s00799-021-00311-0
 
 - id: doi:10.1109/MS.2019.2944784
   type: journal
