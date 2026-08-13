@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3803784.3807546
+  title: 'Humour as Resistance: Visceralizing the Environmental and Social Impact
+    of AI through Humour-based Creative Practices'
+  authors:
+  - Han Qiao
+  - Rowan O.A. Munson
+  - Nadia Mariyan Smith
+  - Eshta Bhardwaj
+  - Christoph Becker
+  publisher: Proceedings of the 2026 Conference on Creativity and Cognition
+  date: '2026-07-13'
+  link: https://doi.org/hcb46v
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3805689.3812411
+  title: Evaluating Structured Documentation as a Tool for Reflexivity in Dataset
+    Development
+  authors:
+  - Eshta Bhardwaj
+  - Ciara Zogheib
+  - Christoph Becker
+  publisher: Proceedings of the 2026 ACM Conference on Fairness, Accountability, and
+    Transparency
+  date: '2026-06-25'
+  link: https://doi.org/hb9kdh
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3772363.3778767
   title: 'Crip HCI: Cyborg Perspectives on Disability Justice'
   authors:
@@ -239,12 +268,17 @@
   - Apostolos Ampatzoglou
   - Christoph Becker
   publisher: Information and Software Technology
-  date: '2023-06-01'
-  link: https://doi.org/gsjxws
+  date: '2023-02-03'
+  link: https://doi.org/10.1016/j.infsof.2023.107163
   orcid: 0000-0002-8364-0593
   plugin: sources.py
   file: sources.yaml
   type: paper
+  tags:
+  - systems design
+  - decision making
+  - intertemporal choice
+  - sustainability
   image: images/chocolates_judgment.jpg
 - id: uri:https://direct.mit.edu/books/oa-monograph/5594/chapter/4218558/Problemism-The-Insolvency-of-Computational
   title: 'Problemism: The Insolvency of Computational Thinking'
