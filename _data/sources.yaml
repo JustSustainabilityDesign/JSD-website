@@ -12,6 +12,26 @@
   date: '2024-06-03'
   image: images/DCML_project1.png
 
+- id: doi:10.1145/3744691
+  type: paper
+  title: 'Challenging the Growth Narrative in and Through HCI'
+  authors:
+    - Vishal Sharma
+    - Asra Sakeen Wani
+    - Raphaël Marée
+    - Christoph Becker
+    - Douglas Schuler
+    - Aparajita Marathe
+    - Neha Kumar
+    - Han Qiao
+    - Rikke Hagensby Jensen
+    - Anupriya Tuli
+  publisher: XRDS
+  date: '2025'
+  tags:
+  image:
+  link: https://doi.org/10.1145/3744691
+
 - id: doi:10.1145/3757539
   type: paper
   title: '17 Years of Fintech for Financial Inclusion: A Systematic Review and Critical Value Analysis'
