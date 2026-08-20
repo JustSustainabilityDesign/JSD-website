@@ -28,6 +28,8 @@
     - Anupriya Tuli
   publisher: XRDS
   date: '2025-08-21'
+  tags:
+  image:
   link: https://doi.org/10.1145/3744691
 
 - id: doi:10.1145/3757539
@@ -39,6 +41,8 @@
     - Samar Sabie
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-11'
+  tags:
+  image:
   link: https://doi.org/10.1145/3757539
 
 - id: doi:10.1145/3710901
