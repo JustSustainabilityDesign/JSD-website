@@ -49,6 +49,11 @@ def main(entry):
         id_type = get_safe(_id, "external-id-type", "")
         id_value = get_safe(_id, "external-id-value", "")
 
+        # protect against malformed entries
+        if id_type == "doi" and id_value.startswith("https://doi.org/"):
+            log('Fix doi by removing "https://doi.org/"')
+            id_value = id_value.replace("https://doi.org/", "")
+
         # create source
         source = {"id": f"{id_type}:{id_value}"}
 
