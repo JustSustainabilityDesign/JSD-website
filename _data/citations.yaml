@@ -1176,6 +1176,27 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3744691
+  title: Challenging the Growth Narrative in and Through HCI
+  authors:
+  - Vishal Sharma
+  - Asra Sakeen Wani
+  - "Rapha\xEBl Mar\xE9e"
+  - Christoph Becker
+  - Douglas Schuler
+  - Aparajita Marathe
+  - Neha Kumar
+  - Han Qiao
+  - Rikke Hagensby Jensen
+  - Anupriya Tuli
+  publisher: XRDS
+  date: ''
+  link: https://doi.org/10.1145/3744691
+  type: paper
+  tags: null
+  image: null
+  plugin: sources.py
+  file: sources.yaml
 - id: url:https://sites.google.com/view/post-growthhci/
   title: Post-growth HCI Workshop @CHI
   authors: []
