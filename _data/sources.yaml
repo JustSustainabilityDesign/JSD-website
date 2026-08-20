@@ -28,8 +28,6 @@
     - Anupriya Tuli
   publisher: XRDS
   date: '2025-08-21'
-  tags:
-  image:
   link: https://doi.org/10.1145/3744691
 
 - id: doi:10.1145/3757539
@@ -41,8 +39,6 @@
     - Samar Sabie
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-11'
-  tags:
-  image:
   link: https://doi.org/10.1145/3757539
 
 - id: doi:10.1145/3710901
@@ -66,7 +62,6 @@
   - Christoph Becker
   publisher: Tenth Computing within Limits 2024
   date: '2024-06-18'
-  tags:
   - limits 2024
   image: images/limits24_psychdist.png
   link: https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
