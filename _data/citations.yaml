@@ -93,11 +93,14 @@
   - Christoph Becker
   - Samar Sabie
   publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: '2025-10-16'
-  link: https://doi.org/g97cqn
+  date: ''
+  link: https://doi.org/10.1145/3757539
   orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  tags: null
+  image: null
 - id: doi:10.1145/3715335.3737682
   title: 'Humour as Resistance: Creative Approaches to Data Center Accountability'
   authors:
