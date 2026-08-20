@@ -11,6 +11,20 @@
   publisher: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency
   date: '2024-06-03'
   image: images/DCML_project1.png
+
+- id: doi:10.1145/3757539
+  type: paper
+  title: '17 Years of Fintech for Financial Inclusion: A Systematic Review and Critical Value Analysis'
+  authors:
+    - Priyanka Verma
+    - Christoph Becker
+    - Samar Sabie
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2025-11'
+  tags:
+  image:
+  link: https://doi.org/10.1145/3757539
+
 - id: doi:10.1145/3710901
   type: paper
   title: 'Near Data and Far Data for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?'
