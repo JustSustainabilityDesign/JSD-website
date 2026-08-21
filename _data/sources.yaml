@@ -30,7 +30,7 @@
   link: https://doi.org/10.1145/3744691
 - id: doi:10.1145/3757539
   type: paper
-  title: 17 Years of Fintech for Financial Inclusion: A Systematic Review and Critical Value Analysis
+  title: '17 Years of Fintech for Financial Inclusion: A Systematic Review and Critical Value Analysis'
   authors:
     - Priyanka Verma
     - Christoph Becker
@@ -40,16 +40,16 @@
   link: https://doi.org/10.1145/3757539
 - id: doi:10.1145/3710901
   type: paper
-  title: Near Data and Far Data for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?
+  title: 'Near Data and Far Data for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?'
   authors:
   - Han Qiao
   - Siyi Wu
   - Christoph Becker
   publisher: The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCSW 2025)
-  date: 2025-01-13
+  date: '2025-01-13'
   image: images/curbcut1.png
 - id: url:https://sites.google.com/view/post-growthhci/
-  date: 2024-05-12
+  date: '2024-05-12'
 - id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
   type: paper
   title: 'Limits at a Distance: Design Directions to Address Psychological Distance in Policy Decisions Affecting Planetary Boundaries'
