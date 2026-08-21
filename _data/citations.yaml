@@ -99,8 +99,6 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  tags: null
-  image: null
 - id: doi:10.1145/3715335.3737682
   title: 'Humour as Resistance: Creative Approaches to Data Center Accountability'
   authors:
@@ -179,7 +177,7 @@
   - Christoph Becker
   publisher: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and
     Transparency
-  date: '2024-06-03'
+  date: ''
   link: https://doi.org/gtxzw8
   orcid: 0000-0002-8364-0593
   plugin: sources.py
@@ -1187,11 +1185,9 @@
   - Rikke Hagensby Jensen
   - Anupriya Tuli
   publisher: XRDS
-  date: '2025-08-21'
+  date: ''
   link: https://doi.org/10.1145/3744691
   type: paper
-  tags: null
-  image: null
   plugin: sources.py
   file: sources.yaml
 - id: url:https://sites.google.com/view/post-growthhci/
