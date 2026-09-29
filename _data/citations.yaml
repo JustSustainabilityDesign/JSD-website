@@ -29,6 +29,18 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.23919/ICT4SCPS00102.2026.00035
+  title: 'The Environmental Costs of Surveillance Capitalism: A Case Study of Social
+    Media Platforms'
+  authors:
+  - Nils Bonfils
+  - Christoph Becker
+  publisher: 2026 12th International Conference on ICT for Sustainability (ICT4S)
+  date: '2026-06-01'
+  link: https://doi.org/hckwrw
+  orcid: 0000-0002-8364-0593
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3772363.3778767
   title: 'Crip HCI: Cyborg Perspectives on Disability Justice'
   authors:
