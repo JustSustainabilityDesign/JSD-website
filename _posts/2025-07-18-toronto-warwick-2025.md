@@ -16,4 +16,4 @@ U of T PI: [Professor Christoph Becker](https://discover.research.utoronto.ca/21
 
 Rowan O.A. Munson, PhD Student, Faculty of Information, University of Toronto
 
-Funded 2025-2026 by the [University of Toronto and University of Warwick Joint Seed Fund](https://warwick.ac.uk/global/theamericas/torontowarwickjointseedfund/)
+Funded 2025-2026 by the [University of Toronto and University of Warwick Joint Seed Fund](https://warwick.ac.uk/global/theamericas/uotcasestudies/)
