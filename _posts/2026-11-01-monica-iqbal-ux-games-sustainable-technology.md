@@ -1,16 +1,31 @@
----
+\---
+
 layout: post
 title: "Monica Iqbal: Exploring UX Research, Games, and Sustainable Technology"
 author: "Just Sustainability Design Lab"
 categories:
-  - research
+
+* research
 tags:
-  - UX research
-  - sustainable technology
-  - educational games
-  - software development
+* UX research
+* sustainable technology
+* educational games
+* software development
 excerpt: "Monica Iqbal's Master of Information thesis expands the Undecided? educational board game with an environmentally focused scenario and a companion app, exploring usability, learning, and sustainable technology design."
----
+
+\---
+
+
+
+{%
+
+&#x20; include figure.html
+
+&#x20; image="images/undecided-app.jpg"
+
+%}
+
+
 
 Congratulations to **Monica Iqbal**, a member of the Just Sustainability Design Lab, on completing her Master of Information thesis at the University of Toronto's Faculty of Information!
 
@@ -24,4 +39,5 @@ Her research found that the companion app improved the efficiency and accessibil
 
 ## Learn more about Undecided
 
-Becker, C., Tsang, T., Booth, R., Zhang, E., & Fagerholm, F. (2020). *Undecided? A Board Game to Study Intertemporal Choices in Software Projects*. In *Proceedings of PPIG 2020: The Psychology of Programming IG Workshop*. [Read the paper](https://ppig.org/papers/2020-ppig-31st-becker/).
+Becker, C., Tsang, T., Booth, R., Zhang, E., \& Fagerholm, F. (2020). *Undecided? A Board Game to Study Intertemporal Choices in Software Projects*. In *Proceedings of PPIG 2020: The Psychology of Programming IG Workshop*. [Read the paper](https://ppig.org/papers/2020-ppig-31st-becker/).
+
