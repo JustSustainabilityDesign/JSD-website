@@ -12,7 +12,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="The Environmental Costs of Surveillance Capitalism" style="rich" %}
+{% include citation.html lookup="Limits at a Distance" style="rich" %}
 
 {% include section.html %}
 
