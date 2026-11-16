@@ -105,7 +105,7 @@
   - Christoph Becker
   - Samar Sabie
   publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: ''
+  date: '2025-11-16'
   link: https://doi.org/10.1145/3757539
   orcid: 0000-0002-8364-0593
   plugin: sources.py
@@ -189,7 +189,7 @@
   - Christoph Becker
   publisher: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and
     Transparency
-  date: ''
+  date: '2024-06-03'
   link: https://doi.org/gtxzw8
   orcid: 0000-0002-8364-0593
   plugin: sources.py
@@ -332,7 +332,7 @@
   - Curtis W McCord
   - Christoph Becker
   publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: ''
+  date: '2023-04-01'
   link: https://doi.org/10.1145/3579462
   orcid: 0000-0002-8364-0593
   plugin: sources.py
@@ -372,7 +372,7 @@
   - Andreas Rauber
   - Christoph Becker
   publisher: International Journal on Digital Libraries
-  date: ''
+  date: '2021-12-01'
   link: https://doi.org/10.1007/s00799-021-00311-0
   orcid: 0000-0002-8364-0593
   plugin: sources.py
@@ -1214,7 +1214,7 @@
   - Rikke Hagensby Jensen
   - Anupriya Tuli
   publisher: XRDS
-  date: ''
+  date: '2025-08-21'
   link: https://doi.org/10.1145/3744691
   type: paper
   plugin: sources.py
@@ -1442,7 +1442,7 @@
   - Eshta Bhardwaj
   - Peter Khaiter
   publisher: Environmental Modelling & Software
-  date: ''
+  date: '2024-01-01'
   link: https://doi.org/10.1016/j.envsoft.2023.105879
   type: paper
   tags:
@@ -1461,7 +1461,7 @@
   - Eshta Bhardwaj
   - Peter A. Khaiter
   publisher: Ecological Informatics
-  date: ''
+  date: '2023-01-01'
   link: https://doi.org/10.1016/j.ecoinf.2022.101918
   type: paper
   tags:
