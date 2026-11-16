@@ -7,7 +7,7 @@ import json
 import yaml
 from yaml.loader import SafeLoader
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, date as date_type
 from rich import print
 from diskcache import Cache
 
@@ -93,12 +93,20 @@ def format_date(date):
     format date as YYYY-MM-DD, or no date if malformed
     """
 
+    if isinstance(date, date_type):
+        return date.strftime("%Y-%m-%d")
+
     if isinstance(date, int):
         return datetime.fromtimestamp(date // 1000.0).strftime("%Y-%m-%d")
-    try:
-        return datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d")
-    except Exception:
-        return ""
+
+    if isinstance(date, str):
+        for fmt in ("%Y-%m-%d", "%Y-%m", "%Y"):
+            try:
+                return datetime.strptime(date, fmt).strftime("%Y-%m-%d")
+            except ValueError:
+                continue
+
+    return ""
 
 
 def load_data(path):
