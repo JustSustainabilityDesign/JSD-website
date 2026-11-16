@@ -78,14 +78,19 @@ def main(entry):
             # get publisher
             publisher = first(lambda s: get_safe(s, "journal-title.value", ""))
 
-            # get date
-            date = (
-                get_safe(work, "last-modified-date.value")
-                or first(lambda s: get_safe(s, "last-modified-date.value"))
-                or get_safe(work, "created-date.value")
-                or first(lambda s: get_safe(s, "created-date.value"))
-                or 0
-            )
+            # get publication date
+            def publication_date(summary):
+                publication = get_safe(summary, "publication-date", {})
+                year = get_safe(publication, "year.value", "")
+                month = get_safe(publication, "month.value", "") or "01"
+                day = get_safe(publication, "day.value", "") or "01"
+
+                if year:
+                    return f"{int(year):04d}-{int(month):02d}-{int(day):02d}"
+
+                return ""
+
+            date = first(publication_date)
 
             # get link
             link = first(lambda s: get_safe(s, "url.value", ""))
