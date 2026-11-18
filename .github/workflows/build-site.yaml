@@ -1,3 +1,4 @@
+
 name: build-site
 run-name: build live site
 
@@ -17,7 +18,7 @@ permissions:
 
 jobs:
   build-site:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       # for debugging
@@ -30,7 +31,7 @@ jobs:
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2"
+          ruby-version: "3.2.10"
           bundler-cache: true
 
       - name: Get Pages url
