@@ -1,3 +1,18 @@
+- id: doi:10.48550/arXiv.2608.19495
+  type: paper
+  title: A Scoping Review of Methods to Measure the Energy and Carbon Footprint of Web Tracking and Advertising
+  authors:
+    - Nils Bonfils
+    - Christoph Becker
+  publisher: 2nd International Workshop on Low Carbon Computing (LOCO 2026)
+  date: 2026-08-19
+  link: https://arxiv.org/abs/2608.19495
+  image: null
+  tags:
+    - Sustainable Computing
+    - Carbon Footprint
+    - Energy Consumption
+    - Web Tracking
 - id: doi:10.48550/arXiv.2605.30706
   type: paper
   title: 'Relational Aesthesis in Permacomputing Practice: Building a Solar Powered Website from Reclaimed Materials'
