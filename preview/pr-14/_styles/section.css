@@ -1,0 +1,74 @@
+section {
+  padding: 40px max(40px, (100% - 1000px) / 2);
+  transition-property: background, color;
+}
+
+section[data-size=wide] {
+  padding: 40px;
+}
+
+section[data-size=full] {
+  padding: 0;
+}
+
+section[data-size=full] > * {
+  margin: 0;
+  border-radius: 0;
+}
+
+section[data-size=full] img {
+  border-radius: 0;
+}
+
+main > section:last-of-type {
+  flex-grow: 1;
+}
+
+main > section:nth-of-type(odd) {
+  background: var(--background);
+}
+
+main > section:nth-of-type(even) {
+  background: var(--background-alt);
+}
+
+section.home-title {
+  background: #b8d6a3;
+}
+
+main > section + section {
+  border-top: 1px solid var(--light-gray);
+}
+
+section#-just-sustainability-design-lab,
+section#publications,
+section#who-we-are,
+section#recorded-talks,
+section#-introduction-to-just-sustainability-design {
+  background: #29783b;
+  color: #ffffff;
+}
+
+section#-just-sustainability-design-lab a,
+section#publications a,
+section#who-we-are a,
+section#recorded-talks a,
+section#-introduction-to-just-sustainability-design a,
+section#-just-sustainability-design-lab .icon,
+section#publications .icon,
+section#who-we-are .icon,
+section#recorded-talks .icon,
+section#-insolvent-introduction-to-just-sustainability-design .icon {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+section#-just-sustainability-design-lab a:hover,
+section#publications a:hover,
+section#who-we-are a:hover,
+section#recorded-talks a:hover,
+section#-introduction-to-just-sustainability-design a:hover {
+  color: #dbebba; /* light green hover */
+}
+
+/*# sourceMappingURL=section.css.map */
